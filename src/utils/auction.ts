@@ -14,10 +14,7 @@ function dayNumberToDateKey(dayNumber: number): string {
 
 export function getSeoulDateKey(date: Date = new Date()): string {
   const parts = new Intl.DateTimeFormat('en-CA', {
-    timeZone: SEOUL_TIME_ZONE,
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
+    timeZone: SEOUL_TIME_ZONE, year: 'numeric', month: '2-digit', day: '2-digit',
   }).formatToParts(date)
   const value = Object.fromEntries(parts.map((part) => [part.type, part.value]))
   return `${value.year}-${value.month}-${value.day}`
@@ -34,11 +31,7 @@ export function getSeoulWeekBounds(now: Date = new Date()) {
   const weekday = new Date(todayNumber * DAY_MS).getUTCDay()
   const daysSinceMonday = weekday === 0 ? 6 : weekday - 1
   const startNumber = todayNumber - daysSinceMonday
-  return {
-    start: dayNumberToDateKey(startNumber),
-    end: dayNumberToDateKey(startNumber + 6),
-    today: todayKey,
-  }
+  return { start: dayNumberToDateKey(startNumber), end: dayNumberToDateKey(startNumber + 6), today: todayKey }
 }
 
 export function isInCurrentSeoulWeekToNow(value: string | null, now: Date = new Date()): boolean {
@@ -104,7 +97,7 @@ export function getSummaryMetrics(items: AuctionItem[], now: Date = new Date()) 
   return {
     seoul: activeItems.filter((item) => item.city === '서울').length,
     busan: activeItems.filter((item) => item.city === '부산').length,
-    newThisWeek: items.filter((item) => isInCurrentSeoulWeekToNow(item.firstSeenAt, now)).length,
+    newThisWeek: items.filter((item) => !item.isBootstrapItem && isInCurrentSeoulWeekToNow(item.firstSeenAt, now)).length,
     failedThisWeek: items.filter((item) => isInCurrentSeoulWeekToNow(item.failedAt, now)).length,
     upcoming: activeItems.filter((item) => isUpcomingWithinDays(item.auctionDate, 7, now)).length,
   }

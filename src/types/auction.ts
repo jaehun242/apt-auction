@@ -2,7 +2,8 @@ export type City = '서울' | '부산'
 export type AuctionStatus = 'new' | 'failed' | 'urgent' | 'closed'
 export type RiskLevel = 'low' | 'medium' | 'high' | 'unknown'
 export type AnalysisStatus = 'draft' | 'reviewed' | 'unavailable'
-export type AuctionHistoryType = 'FIRST_SEEN' | 'FAILED' | 'DATE_CHANGED' | 'PRICE_CHANGED'
+export type AuctionHistoryType = 'FIRST_SEEN' | 'FAILED' | 'AUCTION_DATE_CHANGED' | 'MINIMUM_PRICE_CHANGED' | 'STATUS_CHANGED' | 'REMOVED'
+export type NormalizedAuctionStatus = 'ACTIVE' | 'UPCOMING' | 'FAILED' | 'SOLD' | 'CHANGED' | 'CANCELLED' | 'WITHDRAWN' | 'UNKNOWN'
 
 export interface AuctionHistoryEvent {
   date: string
@@ -51,12 +52,12 @@ export interface AuctionItem {
   address: string
   caseNumber: string
   court: string
-  latitude: number
-  longitude: number
+  latitude: number | null
+  longitude: number | null
   buildingUnit: string | null
-  exclusiveAreaM2: number
-  floor: number
-  totalFloors: number
+  exclusiveAreaM2: number | null
+  floor: number | null
+  totalFloors: number | null
   appraisalPrice: number
   minimumPrice: number
   failedCount: number
@@ -66,6 +67,7 @@ export interface AuctionItem {
   failedAt: string | null
   statusUpdatedAt: string
   history: AuctionHistoryEvent[]
+  normalizedStatus?: NormalizedAuctionStatus
   status: AuctionStatus
   recentDealPrice: number | null
   recentDealDate: string | null
@@ -73,7 +75,25 @@ export interface AuctionItem {
   occupancyAnalysis: OccupancyAnalysis
   additionalCosts: AdditionalCosts
   documents: AuctionDocuments
+  isBootstrapItem?: boolean
   isSample: boolean
+}
+
+export interface AuctionDataMetadata {
+  collectedAt: string
+  source: { name: string; url: string }
+  status: 'NORMAL' | 'DELAYED' | 'FAILURE'
+  total: number
+  seoul: number
+  busan: number
+  geocoding?: { enabled: boolean; located: number; requested: number; failed: number }
+  bootstrap?: boolean
+}
+
+export interface AuctionDataFile {
+  schemaVersion: number
+  metadata: AuctionDataMetadata
+  items: AuctionItem[]
 }
 
 export interface AuctionFilters {
