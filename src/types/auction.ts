@@ -1,7 +1,15 @@
 export type City = '서울' | '부산'
-export type AuctionStatus = 'new' | 'failed' | 'urgent'
+export type AuctionStatus = 'new' | 'failed' | 'urgent' | 'closed'
 export type RiskLevel = 'low' | 'medium' | 'high' | 'unknown'
 export type AnalysisStatus = 'draft' | 'reviewed' | 'unavailable'
+export type AuctionHistoryType = 'FIRST_SEEN' | 'FAILED' | 'DATE_CHANGED' | 'PRICE_CHANGED'
+
+export interface AuctionHistoryEvent {
+  date: string
+  type: AuctionHistoryType
+  previousValue: string | number | null
+  newValue: string | number | null
+}
 
 export interface RightsAnalysis {
   status: AnalysisStatus
@@ -54,7 +62,10 @@ export interface AuctionItem {
   failedCount: number
   auctionDate: string
   firstSeenAt: string
-  lastFailedAt: string | null
+  lastSeenAt: string
+  failedAt: string | null
+  statusUpdatedAt: string
+  history: AuctionHistoryEvent[]
   status: AuctionStatus
   recentDealPrice: number | null
   recentDealDate: string | null
