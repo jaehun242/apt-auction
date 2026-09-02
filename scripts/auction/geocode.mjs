@@ -12,8 +12,12 @@ export async function geocodeItems(items, cache, { clientId, clientSecret, onPro
   for (const item of items) {
     const key = cacheKey(item.address)
     const cached = nextCache[key]
-    if (cached?.latitude != null && cached?.longitude != null) {
-      output.push({ ...item, latitude: cached.latitude, longitude: cached.longitude, geocodeStatus: 'CACHED' })
+    if (cached) {
+      if (cached.latitude != null && cached.longitude != null) {
+        output.push({ ...item, latitude: cached.latitude, longitude: cached.longitude, geocodeStatus: 'CACHED' })
+      } else {
+        output.push({ ...item, geocodeStatus: `CACHED_${cached.status ?? 'FAILED'}` })
+      }
       continue
     }
     if (!enabled) {
@@ -44,6 +48,7 @@ export async function geocodeItems(items, cache, { clientId, clientSecret, onPro
       }
     } catch (error) {
       failed += 1
+      nextCache[key] = { status: 'FAILED', updatedAt: new Date().toISOString(), error: error instanceof Error ? error.message : String(error) }
       onProgress(`지오코딩 실패(물건 보존): ${item.caseNumber} ${error instanceof Error ? error.message : error}`)
       output.push({ ...item, geocodeStatus: 'FAILED' })
     }

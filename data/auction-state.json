@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastSuccessfulCollectedAt": "2026-09-02T04:52:43.313Z",
+  "collectionPolicyVersion": 2,
+  "lastSuccessfulCollectedAt": "2026-09-02T05:31:51.830Z",
   "items": {
     "B000210:20080130025092:1": {
       "id": "B000210:20080130025092:1",
@@ -26,7 +27,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -107,7 +108,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -188,7 +189,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -269,7 +270,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -350,7 +351,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -431,7 +432,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -512,7 +513,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -593,7 +594,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -674,7 +675,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -755,7 +756,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -836,7 +837,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -917,7 +918,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -998,7 +999,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1079,7 +1080,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1160,7 +1161,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1241,7 +1242,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1322,7 +1323,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1403,7 +1404,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1484,7 +1485,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1565,7 +1566,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1646,7 +1647,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1727,7 +1728,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1808,7 +1809,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1889,7 +1890,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -1970,7 +1971,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2051,7 +2052,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2132,7 +2133,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2213,7 +2214,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2294,7 +2295,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2375,7 +2376,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2456,7 +2457,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2537,7 +2538,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2618,7 +2619,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2699,7 +2700,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2780,7 +2781,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2861,7 +2862,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2942,7 +2943,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3023,7 +3024,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3104,7 +3105,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3185,7 +3186,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3266,7 +3267,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3347,7 +3348,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3428,7 +3429,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3509,7 +3510,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3590,7 +3591,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3671,7 +3672,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3752,7 +3753,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3833,7 +3834,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3914,7 +3915,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3995,7 +3996,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4076,7 +4077,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4157,7 +4158,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4238,7 +4239,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4319,7 +4320,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4400,7 +4401,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4481,7 +4482,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4562,7 +4563,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4643,7 +4644,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4724,7 +4725,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4805,7 +4806,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4886,7 +4887,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4967,7 +4968,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5048,7 +5049,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5129,7 +5130,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5210,7 +5211,7 @@
       "failedCount": 11,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5291,7 +5292,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5372,7 +5373,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5453,7 +5454,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5534,7 +5535,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5615,7 +5616,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5696,7 +5697,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5777,7 +5778,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5858,7 +5859,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5939,7 +5940,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-04",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6020,7 +6021,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6101,7 +6102,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6182,7 +6183,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6263,7 +6264,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6344,7 +6345,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6425,7 +6426,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6506,7 +6507,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6587,7 +6588,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6668,7 +6669,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6749,7 +6750,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-04",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6830,7 +6831,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6911,7 +6912,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-04",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6992,7 +6993,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7073,7 +7074,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7154,7 +7155,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7235,7 +7236,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7316,7 +7317,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7397,7 +7398,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7478,7 +7479,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7559,7 +7560,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7640,7 +7641,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7721,7 +7722,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7802,7 +7803,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7883,7 +7884,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7964,7 +7965,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8045,7 +8046,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8126,7 +8127,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8207,7 +8208,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8288,7 +8289,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8369,7 +8370,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8450,7 +8451,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8531,7 +8532,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8612,7 +8613,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8693,7 +8694,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8774,7 +8775,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8855,7 +8856,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8936,7 +8937,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9017,7 +9018,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9098,7 +9099,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9179,7 +9180,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9260,7 +9261,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9341,7 +9342,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9422,7 +9423,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9503,7 +9504,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9584,7 +9585,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9665,7 +9666,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9746,7 +9747,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9827,7 +9828,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9908,7 +9909,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9989,7 +9990,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10070,7 +10071,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10151,7 +10152,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10232,7 +10233,7 @@
       "failedCount": 10,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10313,7 +10314,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10394,7 +10395,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10475,7 +10476,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10556,7 +10557,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10637,7 +10638,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10718,7 +10719,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10799,7 +10800,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10880,7 +10881,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10961,7 +10962,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11042,7 +11043,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11123,7 +11124,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11204,7 +11205,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11285,7 +11286,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11366,7 +11367,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11447,7 +11448,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11528,7 +11529,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11609,7 +11610,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11690,7 +11691,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11771,7 +11772,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11852,7 +11853,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11933,7 +11934,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12014,7 +12015,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12095,7 +12096,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12176,7 +12177,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12257,7 +12258,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12338,7 +12339,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12419,7 +12420,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12500,7 +12501,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12581,7 +12582,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12662,7 +12663,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12743,7 +12744,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12824,7 +12825,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12905,7 +12906,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12986,7 +12987,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13067,7 +13068,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13148,7 +13149,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13229,7 +13230,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-02",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13310,7 +13311,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13391,7 +13392,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13472,7 +13473,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13553,7 +13554,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13634,7 +13635,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13715,7 +13716,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13796,7 +13797,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13877,7 +13878,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13958,7 +13959,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14039,7 +14040,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14120,7 +14121,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14201,7 +14202,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14282,7 +14283,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14363,7 +14364,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14444,7 +14445,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14525,7 +14526,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14606,7 +14607,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14687,7 +14688,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14768,7 +14769,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14849,7 +14850,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14930,7 +14931,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15011,7 +15012,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15092,7 +15093,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15173,7 +15174,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15254,7 +15255,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15335,7 +15336,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15416,7 +15417,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15497,7 +15498,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15578,7 +15579,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15659,7 +15660,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15740,7 +15741,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15821,7 +15822,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15902,7 +15903,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15983,7 +15984,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16064,7 +16065,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16145,7 +16146,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16226,7 +16227,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16307,7 +16308,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16388,7 +16389,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16469,7 +16470,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16550,7 +16551,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16631,7 +16632,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16712,7 +16713,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16793,7 +16794,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16874,7 +16875,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16955,7 +16956,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17036,7 +17037,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17117,7 +17118,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17198,7 +17199,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17279,7 +17280,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17360,7 +17361,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17441,7 +17442,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17522,7 +17523,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17603,7 +17604,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17684,7 +17685,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17765,7 +17766,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17846,7 +17847,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17927,7 +17928,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18008,7 +18009,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18089,7 +18090,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18170,7 +18171,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18251,7 +18252,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18332,7 +18333,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18413,7 +18414,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18494,7 +18495,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18575,7 +18576,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18656,7 +18657,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18737,7 +18738,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18818,7 +18819,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18899,7 +18900,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18980,7 +18981,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19061,7 +19062,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19142,7 +19143,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19223,7 +19224,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19304,7 +19305,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19385,7 +19386,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19466,7 +19467,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19547,7 +19548,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19628,7 +19629,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19709,7 +19710,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19790,7 +19791,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19871,7 +19872,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19952,7 +19953,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20033,7 +20034,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20114,7 +20115,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20195,7 +20196,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20276,7 +20277,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20357,7 +20358,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20438,7 +20439,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20519,7 +20520,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20600,7 +20601,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20681,7 +20682,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20762,7 +20763,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20843,7 +20844,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20924,7 +20925,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21005,7 +21006,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21086,7 +21087,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21167,7 +21168,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21248,7 +21249,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21329,7 +21330,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21410,7 +21411,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21491,7 +21492,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21572,7 +21573,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21653,7 +21654,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21734,7 +21735,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21815,7 +21816,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21896,7 +21897,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21977,7 +21978,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22058,7 +22059,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22139,7 +22140,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22220,7 +22221,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22301,7 +22302,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22382,7 +22383,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22463,7 +22464,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22544,7 +22545,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22625,7 +22626,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22706,7 +22707,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22787,7 +22788,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22868,7 +22869,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -22949,7 +22950,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23030,7 +23031,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23111,7 +23112,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23192,7 +23193,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23273,7 +23274,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23354,7 +23355,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23435,7 +23436,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23516,7 +23517,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23597,7 +23598,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-03",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23678,7 +23679,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23759,7 +23760,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23840,7 +23841,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23921,7 +23922,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-02T04:52:43.313Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -23939,6 +23940,3165 @@
         "progressing": "Y"
       },
       "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000210:20250130003860:1": {
+      "id": "B000210:20250130003860:1",
+      "city": "서울",
+      "district": "관악구",
+      "apartmentName": "관악아파트",
+      "address": "서울특별시 관악구 신림동 244 관악아파트 3동 3층306호",
+      "caseNumber": "2025타경3860",
+      "court": "서울중앙지방법원",
+      "courtOfficeCode": "B000210",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "3동 3층306호",
+      "exclusiveAreaM2": 56.39,
+      "floor": 3,
+      "totalFloors": null,
+      "appraisalPrice": 255000000,
+      "minimumPrice": 255000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000210:20250130004023:1": {
+      "id": "B000210:20250130004023:1",
+      "city": "서울",
+      "district": "관악구",
+      "apartmentName": "관악드림타운",
+      "address": "서울특별시 관악구 봉천동 1712 관악드림타운 110동 12층1202호",
+      "caseNumber": "2025타경4023",
+      "court": "서울중앙지방법원",
+      "courtOfficeCode": "B000210",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "110동 12층1202호",
+      "exclusiveAreaM2": 114.75,
+      "floor": 12,
+      "totalFloors": null,
+      "appraisalPrice": 1202000000,
+      "minimumPrice": 1202000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000210:20250130104727:1": {
+      "id": "B000210:20250130104727:1",
+      "city": "서울",
+      "district": "서초구",
+      "apartmentName": "서초래미안아파트",
+      "address": "서울특별시 서초구 서초동 1682 서초래미안아파트 102동 6층604호",
+      "caseNumber": "2025타경104727",
+      "court": "서울중앙지방법원",
+      "courtOfficeCode": "B000210",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "102동 6층604호",
+      "exclusiveAreaM2": 84.97,
+      "floor": 6,
+      "totalFloors": null,
+      "appraisalPrice": 1405000000,
+      "minimumPrice": 1405000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000212:20250130004883:1": {
+      "id": "B000212:20250130004883:1",
+      "city": "서울",
+      "district": "영등포구",
+      "apartmentName": "유탑유블레스",
+      "address": "서울특별시 영등포구 도림천로19길 12 제9층 제901호 (대림동, 유탑유블레스)",
+      "caseNumber": "2025타경4883",
+      "court": "서울남부지방법원",
+      "courtOfficeCode": "B000212",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "제9층 제901호",
+      "exclusiveAreaM2": 13.9,
+      "floor": 9,
+      "totalFloors": null,
+      "appraisalPrice": 118000000,
+      "minimumPrice": 38666000,
+      "failedCount": 6,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000212:20250130008335:1": {
+      "id": "B000212:20250130008335:1",
+      "city": "서울",
+      "district": "강서구",
+      "apartmentName": "아파트 경매물건",
+      "address": "서울특별시 강서구 화곡동 894-12 5층502호",
+      "caseNumber": "2025타경8335",
+      "court": "서울남부지방법원",
+      "courtOfficeCode": "B000212",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "5층502호",
+      "exclusiveAreaM2": 26,
+      "floor": 5,
+      "totalFloors": null,
+      "appraisalPrice": 270000000,
+      "minimumPrice": 110592000,
+      "failedCount": 5,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000212:20250130010286:1": {
+      "id": "B000212:20250130010286:1",
+      "city": "서울",
+      "district": "강서구",
+      "apartmentName": "양지샤인아파트",
+      "address": "서울특별시 강서구 화곡동 899-21 양지샤인아파트 제12층 제1202호",
+      "caseNumber": "2025타경10286",
+      "court": "서울남부지방법원",
+      "courtOfficeCode": "B000212",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "제12층 제1202호",
+      "exclusiveAreaM2": 20.63,
+      "floor": 12,
+      "totalFloors": null,
+      "appraisalPrice": 234000000,
+      "minimumPrice": 95846000,
+      "failedCount": 5,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20210130104585:1": {
+      "id": "B000412:20210130104585:1",
+      "city": "부산",
+      "district": "수영구",
+      "apartmentName": "망미한신아파트",
+      "address": "부산광역시 수영구 망미배산로70번길 45 103동 2층205호 (망미동,망미한신아파트)",
+      "caseNumber": "2021타경104585",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "103동 2층205호",
+      "exclusiveAreaM2": 197.055,
+      "floor": 2,
+      "totalFloors": null,
+      "appraisalPrice": 607000000,
+      "minimumPrice": 388480000,
+      "failedCount": 3,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20240130103668:3": {
+      "id": "B000412:20240130103668:3",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "보문엠타운",
+      "address": "부산광역시 남구 전포대로40번길 32 8층804호 (문현동,보문엠타운)",
+      "caseNumber": "2024타경103668",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "3",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "8층804호",
+      "exclusiveAreaM2": 49.06,
+      "floor": 8,
+      "totalFloors": null,
+      "appraisalPrice": 185000000,
+      "minimumPrice": 129500000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "SOLD",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "closed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20240130111577:1": {
+      "id": "B000412:20240130111577:1",
+      "city": "부산",
+      "district": "기장군",
+      "apartmentName": "이지더원3차아파트",
+      "address": "부산광역시 기장군 정관읍 정관로 350 315동 4층401호 (이지더원3차아파트)",
+      "caseNumber": "2024타경111577",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "315동 4층401호",
+      "exclusiveAreaM2": 65.6536,
+      "floor": 4,
+      "totalFloors": null,
+      "appraisalPrice": 232000000,
+      "minimumPrice": 232000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "SOLD",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "closed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20240130112419:1": {
+      "id": "B000412:20240130112419:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "해운대힐스테이트위브",
+      "address": "부산광역시 해운대구 좌동순환로433번길 30 티-102동 53층5305호 (중동,해운대힐스테이트위브)",
+      "caseNumber": "2024타경112419",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "티-102동 53층5305호",
+      "exclusiveAreaM2": 241.8967,
+      "floor": 53,
+      "totalFloors": null,
+      "appraisalPrice": 3500000000,
+      "minimumPrice": 3500000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000462:1": {
+      "id": "B000412:20250130000462:1",
+      "city": "부산",
+      "district": "수영구",
+      "apartmentName": "성우이린타워",
+      "address": "부산광역시 수영구 광안동 118-2 성우이린타워 9층910호",
+      "caseNumber": "2025타경462",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "9층910호",
+      "exclusiveAreaM2": 40.92,
+      "floor": 9,
+      "totalFloors": null,
+      "appraisalPrice": 228000000,
+      "minimumPrice": 159600000,
+      "failedCount": 2,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000684:1": {
+      "id": "B000412:20250130000684:1",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "오륙도 에스케이뷰 아파트",
+      "address": "부산광역시 남구 용호동 944 오륙도 에스케이뷰 아파트 112동 4층403호",
+      "caseNumber": "2025타경684",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "112동 4층403호",
+      "exclusiveAreaM2": 174.107,
+      "floor": 4,
+      "totalFloors": null,
+      "appraisalPrice": 803000000,
+      "minimumPrice": 562100000,
+      "failedCount": 2,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000728:1": {
+      "id": "B000412:20250130000728:1",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "대성문문현퀸즈더블유",
+      "address": "부산광역시 남구 문현동 464-2 대성문문현퀸즈더블유 101동 9층901호",
+      "caseNumber": "2025타경728",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "101동 9층901호",
+      "exclusiveAreaM2": 41.75,
+      "floor": 9,
+      "totalFloors": null,
+      "appraisalPrice": 125000000,
+      "minimumPrice": 125000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000732:1": {
+      "id": "B000412:20250130000732:1",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "신선맨션",
+      "address": "부산광역시 남구 용당동 253 신선맨션 가동 1층104호",
+      "caseNumber": "2025타경732",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "가동 1층104호",
+      "exclusiveAreaM2": 58.71,
+      "floor": 1,
+      "totalFloors": null,
+      "appraisalPrice": 79000000,
+      "minimumPrice": 79000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000748:1": {
+      "id": "B000412:20250130000748:1",
+      "city": "부산",
+      "district": "수영구",
+      "apartmentName": "현대한누리타운",
+      "address": "부산광역시 수영구 망미동 979-72 현대한누리타운 102동 1층106호",
+      "caseNumber": "2025타경748",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "102동 1층106호",
+      "exclusiveAreaM2": 84.54,
+      "floor": 1,
+      "totalFloors": null,
+      "appraisalPrice": 229000000,
+      "minimumPrice": 229000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000755:1": {
+      "id": "B000412:20250130000755:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "대우2차아파트",
+      "address": "부산광역시 해운대구 좌동 1438 대우2차아파트 202동 10층1001호",
+      "caseNumber": "2025타경755",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "202동 10층1001호",
+      "exclusiveAreaM2": 155.31,
+      "floor": 10,
+      "totalFloors": null,
+      "appraisalPrice": 762000000,
+      "minimumPrice": 762000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000763:1": {
+      "id": "B000412:20250130000763:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "경남마리나아파트",
+      "address": "부산광역시 해운대구 우동 1388-1 경남마리나아파트 105동 4층402호",
+      "caseNumber": "2025타경763",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "105동 4층402호",
+      "exclusiveAreaM2": 84.93,
+      "floor": 4,
+      "totalFloors": null,
+      "appraisalPrice": 964000000,
+      "minimumPrice": 964000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000781:1": {
+      "id": "B000412:20250130000781:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "래미안해운대",
+      "address": "부산광역시 해운대구 중동 1793 래미안해운대 105동 2층203호",
+      "caseNumber": "2025타경781",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "105동 2층203호",
+      "exclusiveAreaM2": 114.4345,
+      "floor": 2,
+      "totalFloors": null,
+      "appraisalPrice": 971000000,
+      "minimumPrice": 971000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000792:1": {
+      "id": "B000412:20250130000792:1",
+      "city": "부산",
+      "district": "기장군",
+      "apartmentName": "정관롯데캐슬2차",
+      "address": "부산광역시 기장군 정관읍 모전리 759 정관롯데캐슬2차 207동 3층304호",
+      "caseNumber": "2025타경792",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "207동 3층304호",
+      "exclusiveAreaM2": 127.2641,
+      "floor": 3,
+      "totalFloors": null,
+      "appraisalPrice": 405000000,
+      "minimumPrice": 405000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000800:1": {
+      "id": "B000412:20250130000800:1",
+      "city": "부산",
+      "district": "기장군",
+      "apartmentName": "한신아파트",
+      "address": "부산광역시 기장군 기장읍 동부리 151-5 한신아파트 102동 6층604호",
+      "caseNumber": "2025타경800",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "102동 6층604호",
+      "exclusiveAreaM2": 84.985,
+      "floor": 6,
+      "totalFloors": null,
+      "appraisalPrice": 259000000,
+      "minimumPrice": 259000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130000810:1": {
+      "id": "B000412:20250130000810:1",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "아파트 경매물건",
+      "address": "부산광역시 남구 감만동 245 1동 1층103호",
+      "caseNumber": "2025타경810",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "1동 1층103호",
+      "exclusiveAreaM2": 71.57,
+      "floor": 1,
+      "totalFloors": null,
+      "appraisalPrice": 103000000,
+      "minimumPrice": 103000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005042:1": {
+      "id": "B000412:20250130005042:1",
+      "city": "부산",
+      "district": "기장군",
+      "apartmentName": "동일스위트3차",
+      "address": "부산광역시 기장군 정관읍 모전리 728 동일스위트3차 305동 16층1603호",
+      "caseNumber": "2025타경5042",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "305동 16층1603호",
+      "exclusiveAreaM2": 100.7622,
+      "floor": 16,
+      "totalFloors": null,
+      "appraisalPrice": 346000000,
+      "minimumPrice": 83075000,
+      "failedCount": 5,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005637:1": {
+      "id": "B000412:20250130005637:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "경남선경아파트",
+      "address": "부산광역시 해운대구 좌동 1448 경남선경아파트 105동 13층1303호",
+      "caseNumber": "2025타경5637",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "105동 13층1303호",
+      "exclusiveAreaM2": 59.85,
+      "floor": 13,
+      "totalFloors": null,
+      "appraisalPrice": 281000000,
+      "minimumPrice": 196700000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "SOLD",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "closed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005678:1": {
+      "id": "B000412:20250130005678:1",
+      "city": "부산",
+      "district": "기장군",
+      "apartmentName": "웨이브리즈",
+      "address": "부산광역시 기장군 기장읍 청강리 868 웨이브리즈 204동 24층2403호",
+      "caseNumber": "2025타경5678",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "204동 24층2403호",
+      "exclusiveAreaM2": 59.99,
+      "floor": 24,
+      "totalFloors": null,
+      "appraisalPrice": 317000000,
+      "minimumPrice": 317000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005716:1": {
+      "id": "B000412:20250130005716:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "해운대 에스케이뷰",
+      "address": "부산광역시 해운대구 중동 1787 해운대 에스케이뷰 101동 3층303호",
+      "caseNumber": "2025타경5716",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "101동 3층303호",
+      "exclusiveAreaM2": 138.6909,
+      "floor": 3,
+      "totalFloors": null,
+      "appraisalPrice": 870000000,
+      "minimumPrice": 870000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005749:1": {
+      "id": "B000412:20250130005749:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "센텀글로리아",
+      "address": "부산광역시 해운대구 재송동 1160-12 센텀글로리아 6동 1층113호",
+      "caseNumber": "2025타경5749",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "6동 1층113호",
+      "exclusiveAreaM2": 59.62,
+      "floor": 1,
+      "totalFloors": null,
+      "appraisalPrice": 100000000,
+      "minimumPrice": 70000000,
+      "failedCount": 2,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005812:1": {
+      "id": "B000412:20250130005812:1",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "용호동일타운",
+      "address": "부산광역시 남구 용호동 522-2 용호동일타운 3동 7층708호",
+      "caseNumber": "2025타경5812",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "3동 7층708호",
+      "exclusiveAreaM2": 76.62,
+      "floor": 7,
+      "totalFloors": null,
+      "appraisalPrice": 210000000,
+      "minimumPrice": 210000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005818:1": {
+      "id": "B000412:20250130005818:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "왕자아파트",
+      "address": "부산광역시 해운대구 반여동 1477-1 왕자아파트 5동 2층202호",
+      "caseNumber": "2025타경5818",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "5동 2층202호",
+      "exclusiveAreaM2": 65.16,
+      "floor": 2,
+      "totalFloors": null,
+      "appraisalPrice": 421000000,
+      "minimumPrice": 421000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005821:1": {
+      "id": "B000412:20250130005821:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "센텀에코하임아파트",
+      "address": "부산광역시 해운대구 재송동 1059-1 센텀에코하임아파트 8층801호",
+      "caseNumber": "2025타경5821",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "8층801호",
+      "exclusiveAreaM2": 81.85,
+      "floor": 8,
+      "totalFloors": null,
+      "appraisalPrice": 226000000,
+      "minimumPrice": 226000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005828:1": {
+      "id": "B000412:20250130005828:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "해운대힐스테이트위브",
+      "address": "부산광역시 해운대구 중동 1818 해운대힐스테이트위브 티-201동 27층2705호",
+      "caseNumber": "2025타경5828",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "티-201동 27층2705호",
+      "exclusiveAreaM2": 153.5704,
+      "floor": 27,
+      "totalFloors": null,
+      "appraisalPrice": 1440000000,
+      "minimumPrice": 1440000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005861:1": {
+      "id": "B000412:20250130005861:1",
+      "city": "부산",
+      "district": "기장군",
+      "apartmentName": "동일스위트3차",
+      "address": "부산광역시 기장군 정관읍 모전리 728 동일스위트3차 304동 11층1101호",
+      "caseNumber": "2025타경5861",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "304동 11층1101호",
+      "exclusiveAreaM2": 100.7622,
+      "floor": 11,
+      "totalFloors": null,
+      "appraisalPrice": 339000000,
+      "minimumPrice": 339000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005873:1": {
+      "id": "B000412:20250130005873:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "동신아파트",
+      "address": "부산광역시 해운대구 좌동 1302 동신아파트 108동 2층203호",
+      "caseNumber": "2025타경5873",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "108동 2층203호",
+      "exclusiveAreaM2": 55.68,
+      "floor": 2,
+      "totalFloors": null,
+      "appraisalPrice": 300000000,
+      "minimumPrice": 300000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005910:1": {
+      "id": "B000412:20250130005910:1",
+      "city": "부산",
+      "district": "수영구",
+      "apartmentName": "망미로얄베스토피아",
+      "address": "부산광역시 수영구 망미동 941-1 망미로얄베스토피아 2동 4층411호",
+      "caseNumber": "2025타경5910",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "2동 4층411호",
+      "exclusiveAreaM2": 84.42,
+      "floor": 4,
+      "totalFloors": null,
+      "appraisalPrice": 205000000,
+      "minimumPrice": 205000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005912:1": {
+      "id": "B000412:20250130005912:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "시영아파트",
+      "address": "부산광역시 해운대구 재송동 1146-1 시영아파트 52동 4층404호",
+      "caseNumber": "2025타경5912",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "52동 4층404호",
+      "exclusiveAreaM2": 50.31,
+      "floor": 4,
+      "totalFloors": null,
+      "appraisalPrice": 153000000,
+      "minimumPrice": 153000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005912:2": {
+      "id": "B000412:20250130005912:2",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "시영아파트",
+      "address": "부산광역시 해운대구 재송동 1155-3 시영아파트 47동 5층509호",
+      "caseNumber": "2025타경5912",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "2",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "47동 5층509호",
+      "exclusiveAreaM2": 58.59,
+      "floor": 5,
+      "totalFloors": null,
+      "appraisalPrice": 169000000,
+      "minimumPrice": 169000000,
+      "failedCount": 1,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "failed",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130005932:1": {
+      "id": "B000412:20250130005932:1",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "대연동에스케이뷰아파트",
+      "address": "부산광역시 남구 대연동 1772 대연동에스케이뷰아파트 103동 16층1603호",
+      "caseNumber": "2025타경5932",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "103동 16층1603호",
+      "exclusiveAreaM2": 84.9944,
+      "floor": 16,
+      "totalFloors": null,
+      "appraisalPrice": 374000000,
+      "minimumPrice": 374000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-22",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130006014:1": {
+      "id": "B000412:20250130006014:1",
+      "city": "부산",
+      "district": "남구",
+      "apartmentName": "대우그린아파트",
+      "address": "부산광역시 남구 대연동 245 대우그린아파트 103동 7층703호",
+      "caseNumber": "2025타경6014",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "103동 7층703호",
+      "exclusiveAreaM2": 59.99,
+      "floor": 7,
+      "totalFloors": null,
+      "appraisalPrice": 164000000,
+      "minimumPrice": 164000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130006066:1": {
+      "id": "B000412:20250130006066:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "엘리트빌라",
+      "address": "부산광역시 해운대구 중동 1533-8 엘리트빌라 3층502호",
+      "caseNumber": "2025타경6066",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "3층502호",
+      "exclusiveAreaM2": 160.68,
+      "floor": 3,
+      "totalFloors": null,
+      "appraisalPrice": 507000000,
+      "minimumPrice": 507000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
+      "recentDealPrice": null,
+      "recentDealDate": null,
+      "rightsAnalysis": {
+        "status": "unavailable",
+        "riskLevel": "unknown",
+        "benchmarkRight": null,
+        "benchmarkRightDate": null,
+        "seniorTenant": null,
+        "juniorTenant": null,
+        "survivingRights": null,
+        "assumedAmount": null,
+        "notes": "법원 원문·등기사항을 직접 확인해야 합니다."
+      },
+      "occupancyAnalysis": {
+        "occupant": null,
+        "tenantOpposability": null,
+        "evictionRisk": "unknown",
+        "notes": "현황조사서와 전입세대 열람 등 추가 확인이 필요합니다."
+      },
+      "additionalCosts": {
+        "managementFeeStatus": "unknown",
+        "managementFeeAmount": null,
+        "notes": "체납관리비 등 추가 비용은 관리사무소 등에 확인해야 합니다."
+      },
+      "documents": {
+        "saleSpecificationUrl": null,
+        "statusReportUrl": null,
+        "appraisalReportUrl": null,
+        "courtUrl": null
+      },
+      "documentsAvailability": "UNVERIFIED",
+      "isBootstrapItem": true,
+      "isSample": false,
+      "source": {
+        "name": "대한민국 법원경매정보",
+        "url": "https://www.courtauction.go.kr/pgj/index.on"
+      },
+      "removedAt": null
+    },
+    "B000412:20250130006112:1": {
+      "id": "B000412:20250130006112:1",
+      "city": "부산",
+      "district": "해운대구",
+      "apartmentName": "해운대더샵 센텀누리 101동",
+      "address": "부산광역시 해운대구 재송동 1223 해운대더샵 센텀누리 101동 17층1701호",
+      "caseNumber": "2025타경6112",
+      "court": "동부지원",
+      "courtOfficeCode": "B000412",
+      "itemNumber": "1",
+      "propertyType": "아파트",
+      "classificationStatus": "VERIFIED_COURT_CODE",
+      "latitude": null,
+      "longitude": null,
+      "geocodeStatus": "UNAVAILABLE_NO_CREDENTIALS",
+      "buildingUnit": "17층1701호",
+      "exclusiveAreaM2": 101.2508,
+      "floor": 17,
+      "totalFloors": null,
+      "appraisalPrice": 718000000,
+      "minimumPrice": 718000000,
+      "failedCount": 0,
+      "auctionDate": "2026-09-21",
+      "firstSeenAt": "2026-09-02T05:31:51.830Z",
+      "lastSeenAt": "2026-09-02T05:31:51.830Z",
+      "failedAt": null,
+      "statusUpdatedAt": "2026-09-02T05:31:51.830Z",
+      "history": [
+        {
+          "date": "2026-09-02T05:31:51.830Z",
+          "type": "FIRST_SEEN",
+          "previousValue": null,
+          "newValue": "수집 범위 확대 backfill"
+        }
+      ],
+      "normalizedStatus": "UPCOMING",
+      "sourceStatus": {
+        "progressCode": "0002100001",
+        "itemStatusCode": "01",
+        "progressing": "Y"
+      },
+      "status": "new",
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {

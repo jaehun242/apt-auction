@@ -4,13 +4,14 @@
 
 ## 구현 범위
 
-- 서울·부산, 매각기일 현재일~14일, 법원 용도코드 `20000 > 20100 > 20104` 아파트만 수집
-- 전체 페이지 저속 수집과 `법원코드 + 사건번호 + 물건번호` 그룹 중복 제거
+- 서울·부산, 실행일~90일을 14일 이하 7개 구간으로 분할해 법원 용도코드 `20000 > 20100 > 20104` 아파트만 수집
+- 각 구간 전체 페이지 저속 수집과 `법원코드 + 내부사건번호 + 물건번호` 그룹 중복 제거
 - 사건번호, 법원, 주소, 아파트명, 면적, 감정가, 최저매각가, 유찰횟수, 매각기일 저장
 - FIRST_SEEN, FAILED, AUCTION_DATE_CHANGED, MINIMUM_PRICE_CHANGED, STATUS_CHANGED, REMOVED 이력 저장
-- 최초 적재 물건은 `isBootstrapItem`으로 표시해 이번 주 신규에서 제외
+- 최초 적재 및 수집 정책 확대 backfill 물건은 `isBootstrapItem`으로 표시해 이번 주 신규에서 제외
 - 0건 또는 기존 대비 50% 이상 급감 시 기존 정상 파일을 덮어쓰지 않는 fail-safe
 - GitHub Actions에서만 NAVER Geocoding 실행, 주소별 좌표 캐시 및 실패 물건 보존
+- 검색 시 공백·구두점·아파트 표기와 `SK ↔ 에스케이`, `LG ↔ 엘지` 별칭 정규화
 - 매일 22:00 UTC(한국시간 다음 날 07:00) 자동 수집·테스트·빌드·커밋·Pages 배포
 
 ## 로컬 실행
@@ -36,7 +37,7 @@ VITE_SAMPLE_DATA=true
 npm run collect:auctions
 ```
 
-수집 결과는 `public/data/auctions.json`, 비교 상태는 `data/auction-state.json`, 좌표 캐시는 `data/geocode-cache.json`에 저장됩니다. 로컬에 네이버 비밀키를 넣지 않는 운영을 권장하며, 비밀키가 없으면 물건은 유지되고 좌표 상태만 `UNAVAILABLE_NO_CREDENTIALS`가 됩니다.
+수집 결과는 `public/data/auctions.json`, 비교 상태는 `data/auction-state.json`, 좌표 캐시는 `data/geocode-cache.json`에 저장됩니다. 로컬에서는 NAVER Geocoding을 실행하지 않으며, GitHub Actions의 캐시 미등록 주소만 서버에서 조회합니다.
 
 상세 조사 근거와 운영 원칙은 [docs/data-source-investigation.md](docs/data-source-investigation.md)에 기록했습니다.
 

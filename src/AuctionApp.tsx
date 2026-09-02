@@ -9,6 +9,7 @@ import { SUMMARY_HELP } from './content/helpText'
 import { getAuctionData } from './services/auctionService'
 import type { AuctionDataMetadata, AuctionFilters, AuctionItem } from './types/auction'
 import { formatDate, getAppraisalDiscount, getEffectiveAuctionStatus, getSummaryMetrics } from './utils/auction'
+import { matchesAuctionSearch } from './utils/search'
 
 const initialFilters: AuctionFilters = { query: '', city: 'all', status: 'all', failedCount: 'all', sort: 'auctionDate' }
 
@@ -35,8 +36,7 @@ export default function AuctionApp() {
   const summary = useMemo(() => getSummaryMetrics(auctions), [auctions])
   const filtered = useMemo(() => {
     const result = auctions.filter((item) => {
-      const query = filters.query.trim().toLowerCase()
-      const matchesQuery = !query || [item.apartmentName, item.address, item.caseNumber].some((value) => value.toLowerCase().includes(query))
+      const matchesQuery = matchesAuctionSearch(item, filters.query)
       const matchesCity = filters.city === 'all' || item.city === filters.city
       const matchesStatus = filters.status === 'all' || getEffectiveAuctionStatus(item) === filters.status
       const matchesFailed = filters.failedCount === 'all' || (filters.failedCount === '3+' ? item.failedCount >= 3 : item.failedCount === Number(filters.failedCount))
@@ -83,11 +83,7 @@ export default function AuctionApp() {
         <section className="notice" aria-label="데이터 안내"><strong>{isSample ? '개발용 샘플 데이터입니다.' : '대한민국 법원경매정보 공개 조회 결과입니다.'}</strong><span>{metadata?.status === 'DELAYED' ? '마지막 정상 수집 이후 36시간이 지났습니다. 원문 최신 상태를 확인해 주세요.' : '권리·점유·체납관리비는 자동 분석하지 않으며 실제 입찰 전 법원 원문과 등기사항을 확인해야 합니다.'}</span></section>
 
         <div className="summary-heading"><span>경매 현황 <small>Asia/Seoul 기준</small></span><button type="button" onClick={() => setGuideOpen(true)}>지표 설명 <Info size={13} /></button></div>
-        <section className="summary-grid" aria-label="경매 현황 요약">
-          {summaryCards.map(({ label, value, icon: Icon, help }) => (
-            <article className="summary-card" key={label}><div className="summary-icon"><Icon size={18} /></div><div><span className="summary-label">{label}<InfoTip label={label} wide>{help}</InfoTip></span><strong>{value}<small>건</small></strong></div></article>
-          ))}
-        </section>
+        <section className="summary-grid" aria-label="경매 현황 요약">{summaryCards.map(({ label, value, icon: Icon, help }) => <article className="summary-card" key={label}><div className="summary-icon"><Icon size={18} /></div><div><span className="summary-label">{label}<InfoTip label={label} wide>{help}</InfoTip></span><strong>{value}<small>건</small></strong></div></article>)}</section>
 
         <section className="filter-panel" aria-label="검색 및 필터">
           <label className="search-box"><Search size={18} /><input aria-label="경매 물건 검색" value={filters.query} onChange={(event) => setFilters({ ...filters, query: event.target.value })} placeholder="아파트명, 주소, 사건번호 검색" /></label>
