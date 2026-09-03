@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 22 * * *'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: Update mode
+        required: true
+        default: full
+        type: choice
+        options:
+          - full
+          - names-only
 
 permissions:
   contents: write
@@ -36,7 +45,15 @@ jobs:
         run: npm ci
 
       - name: Collect court auctions, analysis data, and geocoding
+        if: github.event_name != 'workflow_dispatch' || inputs.mode != 'names-only'
         run: npm run collect:auctions
+        env:
+          NAVER_MAP_CLIENT_ID: ${{ secrets.NAVER_MAP_CLIENT_ID }}
+          NAVER_MAP_CLIENT_SECRET: ${{ secrets.NAVER_MAP_CLIENT_SECRET }}
+
+      - name: Enrich unresolved apartment names with NAVER
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'names-only'
+        run: node scripts/auction/enrich-apartment-names.mjs
         env:
           NAVER_MAP_CLIENT_ID: ${{ secrets.NAVER_MAP_CLIENT_ID }}
           NAVER_MAP_CLIENT_SECRET: ${{ secrets.NAVER_MAP_CLIENT_SECRET }}
