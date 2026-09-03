@@ -19,6 +19,7 @@ export const PATHS = {
   publicData: 'public/data/auctions.json',
   state: 'data/auction-state.json',
   geocodeCache: 'data/geocode-cache.json',
+  documentCache: 'data/document-cache/documents.json',
 }
 export const SOURCE_HORIZON_DAYS = 90
 export const SOURCE_SEGMENT_DAYS = 14

@@ -11,9 +11,14 @@ interface AuctionCardProps {
   onOpenDetail: (item: AuctionItem) => void
 }
 
+const confidenceLabel = (value: AuctionItem['analysisConfidence']) => ({ HIGH: '자료 충분', MEDIUM: '일부 확인 필요', LOW: '자료 부족', UNAVAILABLE: '확인 필요' }[value ?? 'UNAVAILABLE'])
+
 export function AuctionCard({ item, selected, onSelect, onOpenDetail }: AuctionCardProps) {
   const recentDiscount = getRecentDealDiscount(item)
   const effectiveStatus = getEffectiveAuctionStatus(item)
+  const hasAnalysis = item.analysisStatus === 'AVAILABLE' || item.analysisStatus === 'PARTIAL'
+  const assumedLabel = item.assumedAmountLabel ?? item.rightsAnalysis.assumedAmountLabel
+    ?? (item.rightsAnalysis.assumedAmount === null ? '확인 필요' : formatKoreanCurrency(item.rightsAnalysis.assumedAmount))
   const handleKeyDown = (event: React.KeyboardEvent<HTMLElement>) => {
     if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); onSelect(item.id) }
   }
@@ -42,11 +47,13 @@ export function AuctionCard({ item, selected, onSelect, onOpenDetail }: AuctionC
       </div>
 
       <div className="analysis-strip" aria-label="분석 정보">
-        <span className="auto-badge">{item.isSample ? '자동분석' : '분석 미제공'}</span>
+        <span className="auto-badge">{hasAnalysis ? '1차 자동분석' : '분석 미제공'}{hasAnalysis && <InfoTip label="1차 자동분석 안내" wide>법원 공개 문서를 이용한 참고용 자동분석입니다. 등기부 및 최신 원문 확인 전에는 확정판단으로 사용할 수 없습니다.</InfoTip>}</span>
         <span><span className="term-label">권리<InfoTip label="권리 분석" wide>{TERM_HELP.rights} {RISK_HELP}</InfoTip></span> <i className={`risk-dot risk-${item.rightsAnalysis.riskLevel}`} /> <strong>{riskLabel(item.rightsAnalysis.riskLevel)}</strong></span>
         <span><span className="term-label">명도<InfoTip label="명도 분석" wide>{TERM_HELP.eviction} {RISK_HELP}</InfoTip></span> <i className={`risk-dot risk-${item.occupancyAnalysis.evictionRisk}`} /> <strong>{riskLabel(item.occupancyAnalysis.evictionRisk)}</strong></span>
-        <span><span className="term-label">인수예상<InfoTip label="인수예상" wide>{TERM_HELP.assumed}</InfoTip></span> <strong>{item.rightsAnalysis.assumedAmount === null ? '확인 필요' : formatKoreanCurrency(item.rightsAnalysis.assumedAmount)}</strong></span>
+        <span><span className="term-label">인수<InfoTip label="인수예상" wide>{TERM_HELP.assumed}</InfoTip></span> <strong>{assumedLabel}</strong></span>
+        {hasAnalysis && <small className="analysis-confidence">{confidenceLabel(item.analysisConfidence)}</small>}
       </div>
+      {hasAnalysis && item.analysisReasons?.length ? <details className="analysis-reasons" onClick={(event) => event.stopPropagation()}><summary>분석 근거 보기</summary><ul>{item.analysisReasons.slice(0, 5).map((reason) => <li key={reason}>{reason}</li>)}</ul></details> : null}
 
       <div className="card-footer">
         <span>유찰 <strong>{item.failedCount}회</strong></span><span><CalendarDays size={12} /> 입찰 {formatDate(item.auctionDate)}</span><b>{formatDday(item.auctionDate)}</b>

@@ -35,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Collect court auctions and geocode on runner
+      - name: Collect court auctions, analysis data, and geocoding
         run: npm run collect:auctions
         env:
           NAVER_MAP_CLIENT_ID: ${{ secrets.NAVER_MAP_CLIENT_ID }}
@@ -54,7 +54,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/auctions.json data/auction-state.json data/geocode-cache.json
+          git add public/data/auctions.json data/auction-state.json data/geocode-cache.json data/document-cache/documents.json
           if git diff --cached --quiet; then
             echo "No data changes to commit"
           else
