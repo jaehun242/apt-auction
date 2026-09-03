@@ -36,6 +36,7 @@ try {
   const geocoded = await geocodeItems(normalized.items, geocodeCache, {
     clientId: geocodingAllowed ? process.env.NAVER_MAP_CLIENT_ID?.trim() : '',
     clientSecret: geocodingAllowed ? process.env.NAVER_MAP_CLIENT_SECRET?.trim() : '',
+    previousItems: previousState.items,
     onProgress: progress,
   })
   const analysisInput = stabilizeAnalysisFingerprint(geocoded.items, previousState)
@@ -65,7 +66,7 @@ try {
   await writeJsonAtomic(PATHS.documentCache, named.cache)
   progress(`완료: 총 ${metadata.total}건 (서울 ${metadata.seoul}, 부산 ${metadata.busan}), 좌표 ${metadata.geocoding.located}건`)
   progress(`1차 자동분석: 성공 ${analyzed.stats.available}건, 부분 ${analyzed.stats.partial}건, 확인 필요 ${analyzed.stats.unavailable}건`)
-  progress(`아파트명: 복원 ${named.stats.recovered}건, 확인 필요 ${named.stats.unresolved}건`)
+  progress(`아파트명: NAVER 복원 ${named.stats.naverRecovered}건, 확인 필요 ${named.stats.unresolved}건`)
   if (normalized.reviewRequired.length) progress(`검토 제외 ${normalized.reviewRequired.length}건`)
 } catch (error) {
   console.error(`[auction] 실패: ${error instanceof Error ? error.stack ?? error.message : error}`)

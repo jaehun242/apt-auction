@@ -2,6 +2,7 @@ export const UNKNOWN_APARTMENT_NAME = '아파트명 확인 필요'
 
 const GENERIC_NAMES = new Set(['', '아파트 경매물건', UNKNOWN_APARTMENT_NAME])
 const BUILDING_MARKER = /(아파트|빌라|맨션|하이츠|팰리스|타운|캐슬|시티|파크|뷰|자이|래미안|푸르지오|아이파크|힐스테이트|더샵|센트럴)/i
+const INVALID_NAVER_BUILDING = /(행정복지센터|주민센터|학교|유치원|학원|상가|시장|마트|병원|의원|교회|성당|사찰|파출소|경찰서|소방서|주차장)/
 
 export const cleanApartmentName = (value) => String(value ?? '')
   .replace(/<br\s*\/?\s*>/gi, ' ')
@@ -14,6 +15,11 @@ export function isUsableApartmentName(value) {
     && name.length >= 2
     && name.length <= 60
     && !/^(아파트|공동주택|집합건물|주상복합아파트)$/.test(name)
+}
+
+export function isUsableNaverBuildingName(value) {
+  const name = cleanApartmentName(value)
+  return isUsableApartmentName(name) && !INVALID_NAVER_BUILDING.test(name)
 }
 
 function decodeCourtText(value) {
@@ -102,13 +108,15 @@ export function extractApartmentNameFromAddress(address) {
   return BUILDING_MARKER.test(candidate) && isExplicitCandidate(candidate) ? candidate : null
 }
 
-export function resolveApartmentName({ listName, detail, previousName, address }) {
+export function resolveApartmentName({ listName, detail, previousName, naverBuildingName, address }) {
   const fromList = cleanApartmentName(listName)
   if (isUsableApartmentName(fromList)) return { name: fromList, source: 'buldNm' }
   const fromDetail = extractApartmentNameFromDetail(detail)
   if (fromDetail) return { name: fromDetail.name, source: fromDetail.field }
   const previous = cleanApartmentName(previousName)
   if (isUsableApartmentName(previous)) return { name: previous, source: 'previousState' }
+  const naver = cleanApartmentName(naverBuildingName)
+  if (isUsableNaverBuildingName(naver)) return { name: naver, source: 'NAVER_GEOCODING_BUILDING_NAME' }
   const fromAddress = extractApartmentNameFromAddress(address)
   if (fromAddress) return { name: fromAddress, source: 'address' }
   return { name: UNKNOWN_APARTMENT_NAME, source: 'unavailable' }

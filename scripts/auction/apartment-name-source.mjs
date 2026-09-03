@@ -6,6 +6,10 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 const fingerprint = (item) => createHash('sha256').update([
   item.courtOfficeCode, item.caseNumber, item.itemNumber, item.address,
 ].join('|')).digest('hex').slice(0, 20)
+const isCourtDetailSource = (source) => source === 'gdsDspslObjctLst[].rdnmRefcAddr'
+  || source === 'dspslGdsDxdyInfo.gdsSpcfcRmk'
+  || source === 'dspslGdsDxdyInfo.dspslGdsRmk'
+  || source === 'aeeWevlMnpntLst[].aeeWevlMnpntCtt'
 
 function collectCookies(headers) {
   const values = typeof headers.getSetCookie === 'function' ? headers.getSetCookie() : [headers.get('set-cookie')].filter(Boolean)
@@ -43,6 +47,19 @@ async function fetchDetail(cookie, item) {
   return payload.data.dma_result
 }
 
+function withoutTemporaryGeocode(item) {
+  const { geocodeBuildingName, ...persisted } = item
+  return { persisted, geocodeBuildingName }
+}
+
+function cacheResolvedName(cache, item, itemFingerprint, resolved) {
+  return {
+    ...(cache ?? {}), apartmentNameFingerprint: itemFingerprint,
+    apartmentName: resolved.name, apartmentNameSource: resolved.source,
+    apartmentNameCheckedAt: new Date().toISOString(),
+  }
+}
+
 export async function restoreApartmentNames(items, previousState, cache = {}, { onProgress = () => {} } = {}) {
   const nextCache = { schemaVersion: cache.schemaVersion ?? 1, items: { ...(cache.items ?? {}) } }
   const output = []
@@ -50,47 +67,47 @@ export async function restoreApartmentNames(items, previousState, cache = {}, { 
   let fetched = 0
   let reused = 0
   let failed = 0
+  let naverRecovered = 0
   const initialGeneric = items.filter((item) => !isUsableApartmentName(item.apartmentName)).length
 
   for (const item of items) {
+    const { persisted, geocodeBuildingName } = withoutTemporaryGeocode(item)
     if (isUsableApartmentName(item.apartmentName)) {
-      output.push(item)
+      output.push(persisted)
       continue
     }
     const itemFingerprint = fingerprint(item)
     const cached = nextCache.items[item.id]
     const previousName = previousState.items?.[item.id]?.apartmentName
     if (cached?.apartmentNameFingerprint === itemFingerprint && cached.apartmentName) {
-      const resolved = resolveApartmentName({ detail: null, previousName: cached.apartmentName, address: item.address })
-      output.push({ ...item, apartmentName: resolved.name })
+      const detailName = isUsableApartmentName(cached.apartmentName) && isCourtDetailSource(cached.apartmentNameSource)
+        ? cached.apartmentName : null
+      const resolved = resolveApartmentName({ listName: detailName, previousName, naverBuildingName: geocodeBuildingName, address: item.address })
+      nextCache.items[item.id] = cacheResolvedName(cached, item, itemFingerprint, resolved)
+      output.push({ ...persisted, apartmentName: resolved.name })
+      if (resolved.source === 'NAVER_GEOCODING_BUILDING_NAME') naverRecovered += 1
       reused += 1
       continue
     }
     if (isUsableApartmentName(previousName)) {
-      const resolved = resolveApartmentName({ previousName, address: item.address })
-      nextCache.items[item.id] = {
-        ...(cached ?? {}), apartmentNameFingerprint: itemFingerprint,
-        apartmentName: resolved.name, apartmentNameSource: resolved.source,
-        apartmentNameCheckedAt: new Date().toISOString(),
-      }
-      output.push({ ...item, apartmentName: resolved.name })
+      const resolved = resolveApartmentName({ previousName, naverBuildingName: geocodeBuildingName, address: item.address })
+      nextCache.items[item.id] = cacheResolvedName(cached, item, itemFingerprint, resolved)
+      output.push({ ...persisted, apartmentName: resolved.name })
       reused += 1
       continue
     }
     try {
       if (!session) session = await createSession()
       const detail = await fetchDetail(session, item)
-      const resolved = resolveApartmentName({ detail, previousName, address: item.address })
-      nextCache.items[item.id] = {
-        ...(cached ?? {}), apartmentNameFingerprint: itemFingerprint,
-        apartmentName: resolved.name, apartmentNameSource: resolved.source,
-        apartmentNameCheckedAt: new Date().toISOString(),
-      }
-      output.push({ ...item, apartmentName: resolved.name })
+      const resolved = resolveApartmentName({ detail, previousName, naverBuildingName: geocodeBuildingName, address: item.address })
+      nextCache.items[item.id] = cacheResolvedName(cached, item, itemFingerprint, resolved)
+      output.push({ ...persisted, apartmentName: resolved.name })
+      if (resolved.source === 'NAVER_GEOCODING_BUILDING_NAME') naverRecovered += 1
       fetched += 1
     } catch (error) {
-      const resolved = resolveApartmentName({ previousName, address: item.address })
-      output.push({ ...item, apartmentName: resolved.name })
+      const resolved = resolveApartmentName({ previousName, naverBuildingName: geocodeBuildingName, address: item.address })
+      output.push({ ...persisted, apartmentName: resolved.name })
+      if (resolved.source === 'NAVER_GEOCODING_BUILDING_NAME') naverRecovered += 1
       failed += 1
       onProgress(`아파트명 복원 실패: ${item.caseNumber} 물건 ${item.itemNumber} - ${String(error?.message ?? error)}`)
     }
@@ -102,7 +119,7 @@ export async function restoreApartmentNames(items, previousState, cache = {}, { 
     items: output,
     cache: nextCache,
     stats: {
-      initialGeneric, fetched, reused, failed,
+      initialGeneric, fetched, reused, failed, naverRecovered,
       recovered: output.filter((item) => isUsableApartmentName(item.apartmentName)).length
         - items.filter((item) => isUsableApartmentName(item.apartmentName)).length,
       unresolved: output.filter((item) => item.apartmentName === UNKNOWN_APARTMENT_NAME).length,
