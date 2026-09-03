@@ -1,3 +1,5 @@
+import { isUsableApartmentName, UNKNOWN_APARTMENT_NAME } from './apartment-name.mjs'
+
 const trackedChanges = [
   ['auctionDate', 'AUCTION_DATE_CHANGED'],
   ['minimumPrice', 'MINIMUM_PRICE_CHANGED'],
@@ -35,7 +37,10 @@ export function mergeWithState(items, previousState, collectedAt, { collectionPo
         statusUpdatedAt = collectedAt
       }
     }
-    const updated = { ...item, firstSeenAt: previous.firstSeenAt, lastSeenAt: collectedAt, failedAt, statusUpdatedAt, history, isBootstrapItem: previous.isBootstrapItem ?? false }
+    const apartmentName = isUsableApartmentName(item.apartmentName)
+      ? item.apartmentName
+      : isUsableApartmentName(previous.apartmentName) ? previous.apartmentName : UNKNOWN_APARTMENT_NAME
+    const updated = { ...item, apartmentName, firstSeenAt: previous.firstSeenAt, lastSeenAt: collectedAt, failedAt, statusUpdatedAt, history, isBootstrapItem: previous.isBootstrapItem ?? false }
     nextItems[item.id] = { ...updated, removedAt: null }
     merged.push(updated)
   }

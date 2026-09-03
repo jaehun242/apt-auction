@@ -1,4 +1,5 @@
 import { APARTMENT_USAGE } from './config.mjs'
+import { extractApartmentNameFromListRow, UNKNOWN_APARTMENT_NAME } from './apartment-name.mjs'
 
 const UNKNOWN_RIGHTS = {
   status: 'unavailable', riskLevel: 'unknown', benchmarkRight: null, benchmarkRightDate: null,
@@ -87,7 +88,7 @@ export function normalizeCourtRows(rows, { collectedAt, today }) {
     const normalizedStatus = normalizeStatus(row, auctionDate, today)
     items.push({
       id, city, district: clean(row.hjguSigu) || '구 확인 필요',
-      apartmentName: clean(row.buldNm) || '아파트 경매물건', address, caseNumber, court,
+      apartmentName: extractApartmentNameFromListRow(row) ?? UNKNOWN_APARTMENT_NAME, address, caseNumber, court,
       courtOfficeCode: clean(row.boCd), itemNumber: clean(row.maemulSer), propertyType: '아파트',
       classificationStatus: 'VERIFIED_COURT_CODE', latitude: null, longitude: null, geocodeStatus: 'PENDING',
       buildingUnit: clean(row.buldList) || null, exclusiveAreaM2: parseArea(row), floor: parseFloor(row), totalFloors: null,

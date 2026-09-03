@@ -1,5 +1,6 @@
 import { collectCourtRows } from './court-source.mjs'
 import { enrichWithCourtAnalysis } from './court-documents.mjs'
+import { restoreApartmentNames } from './apartment-name-source.mjs'
 import { assertSafeReplacement, mergeWithState } from './diff.mjs'
 import { geocodeItems } from './geocode.mjs'
 import { readJson, writeJsonAtomic } from './io.mjs'
@@ -39,7 +40,8 @@ try {
   })
   const analysisInput = stabilizeAnalysisFingerprint(geocoded.items, previousState)
   const analyzed = await enrichWithCourtAnalysis(analysisInput, documentCache, { onProgress: progress })
-  const merged = mergeWithState(analyzed.items, previousState, collectedAt, { collectionPolicyVersion: COLLECTION_POLICY_VERSION })
+  const named = await restoreApartmentNames(analyzed.items, previousState, analyzed.cache, { onProgress: progress })
+  const merged = mergeWithState(named.items, previousState, collectedAt, { collectionPolicyVersion: COLLECTION_POLICY_VERSION })
   const items = merged.items.sort((a, b) => a.auctionDate.localeCompare(b.auctionDate) || a.id.localeCompare(b.id))
   const metadata = {
     collectedAt,
@@ -52,6 +54,7 @@ try {
     collectionPolicyVersion: COLLECTION_POLICY_VERSION,
     geocoding: { runnerOnly: true, enabled: geocoded.enabled, located: items.filter((item) => item.latitude != null && item.longitude != null).length, requested: geocoded.requested, failed: geocoded.failed },
     documentAnalysis: analyzed.stats,
+    apartmentNames: named.stats,
     bootstrap: merged.isBootstrap,
     backfill: merged.isBackfill,
     reviewRequiredCount: normalized.reviewRequired.length,
@@ -59,9 +62,10 @@ try {
   await writeJsonAtomic(PATHS.publicData, { schemaVersion: 1, metadata, items })
   await writeJsonAtomic(PATHS.state, merged.state)
   await writeJsonAtomic(PATHS.geocodeCache, geocoded.cache)
-  await writeJsonAtomic(PATHS.documentCache, analyzed.cache)
+  await writeJsonAtomic(PATHS.documentCache, named.cache)
   progress(`완료: 총 ${metadata.total}건 (서울 ${metadata.seoul}, 부산 ${metadata.busan}), 좌표 ${metadata.geocoding.located}건`)
   progress(`1차 자동분석: 성공 ${analyzed.stats.available}건, 부분 ${analyzed.stats.partial}건, 확인 필요 ${analyzed.stats.unavailable}건`)
+  progress(`아파트명: 복원 ${named.stats.recovered}건, 확인 필요 ${named.stats.unresolved}건`)
   if (normalized.reviewRequired.length) progress(`검토 제외 ${normalized.reviewRequired.length}건`)
 } catch (error) {
   console.error(`[auction] 실패: ${error instanceof Error ? error.stack ?? error.message : error}`)
