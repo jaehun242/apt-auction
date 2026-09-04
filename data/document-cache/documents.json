@@ -2356,8 +2356,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "dba1796ed4536025f63c",
       "apartmentName": "대흥아파트",
-      "apartmentNameSource": "NAVER_GEOCODING_BUILDING_NAME",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.341Z"
+      "apartmentNameSource": "previousState",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.218Z"
     },
     "B000210:20250130103155:1": {
       "itemFingerprint": "aaf589034280819b10f3",
@@ -5453,8 +5453,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "75340bebff52d4cad6d3",
       "apartmentName": "(주)파르네빌아파트",
-      "apartmentNameSource": "NAVER_GEOCODING_BUILDING_NAME",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.342Z"
+      "apartmentNameSource": "previousState",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.219Z"
     },
     "B000211:20250130052314:1": {
       "itemFingerprint": "16c8dde344219896f064",
@@ -5937,8 +5937,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "424a0ed5689e7c8f5d85",
       "apartmentName": "오경아파트",
-      "apartmentNameSource": "aeeWevlMnpntLst[].aeeWevlMnpntCtt",
-      "apartmentNameCheckedAt": "2026-09-03T00:28:58.871Z"
+      "apartmentNameSource": "buldNm",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.220Z"
     },
     "B000212:20240130147837:1": {
       "itemFingerprint": "4b74e614ddc363db070b",
@@ -6782,7 +6782,7 @@
       "apartmentNameFingerprint": "862a985c78d8d14bc478",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.342Z"
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.220Z"
     },
     "B000212:20250130010955:1": {
       "itemFingerprint": "837efd964a5417d9ad35",
@@ -8212,7 +8212,7 @@
       "apartmentNameFingerprint": "d2a59893127e7c202de1",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.342Z"
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.220Z"
     },
     "B000212:20260130003046:1": {
       "itemFingerprint": "9515106b0a085e43d61b",
@@ -9707,7 +9707,7 @@
       "apartmentNameFingerprint": "25af58d8d69f8008923b",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.341Z"
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.220Z"
     },
     "B000213:20250130013946:1": {
       "itemFingerprint": "778fb89fc1115c312069",
@@ -10641,7 +10641,7 @@
       "apartmentNameFingerprint": "88692c29e8ce519ef284",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.343Z"
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000212:20250130010286:1": {
       "itemFingerprint": "82c79f24b6bd080ec164",
@@ -11143,8 +11143,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "63ebf7c671a8937764bb",
       "apartmentName": "허브팰리스",
-      "apartmentNameSource": "dspslGdsDxdyInfo.gdsSpcfcRmk",
-      "apartmentNameCheckedAt": "2026-09-03T00:29:03.801Z"
+      "apartmentNameSource": "buldNm",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000410:20240130066053:1": {
       "itemFingerprint": "691c902f020abdd8f18e",
@@ -11307,8 +11307,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "dae931eeb28e562de079",
       "apartmentName": "고원아파트",
-      "apartmentNameSource": "gdsDspslObjctLst[].rdnmRefcAddr",
-      "apartmentNameCheckedAt": "2026-09-03T00:29:04.626Z"
+      "apartmentNameSource": "buldNm",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000410:20250130001930:1": {
       "itemFingerprint": "8d42f7b03beb6367d3c8",
@@ -16005,8 +16005,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "b5c38b1f1302f2f9b028",
       "apartmentName": "정우골든시티",
-      "apartmentNameSource": "aeeWevlMnpntLst[].aeeWevlMnpntCtt",
-      "apartmentNameCheckedAt": "2026-09-03T00:29:06.196Z"
+      "apartmentNameSource": "buldNm",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000410:20250130022744:1": {
       "itemFingerprint": "20cb6f6a312f69d5c841",
@@ -17460,7 +17460,7 @@
       "apartmentNameFingerprint": "dcd38788fc93d412665f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.340Z"
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000410:20260130010123:1": {
       "itemFingerprint": "3ceb5bed9e92caf3ea24",
@@ -23065,8 +23065,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "ab2cb442df4c23fe9587",
       "apartmentName": "아남하이츠4",
-      "apartmentNameSource": "dspslGdsDxdyInfo.gdsSpcfcRmk",
-      "apartmentNameCheckedAt": "2026-09-03T00:29:07.793Z"
+      "apartmentNameSource": "buldNm",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000414:20240130004620:3": {
       "itemFingerprint": "209420650b692c9eab6e",
@@ -24726,8 +24726,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "a37f24fd4c5aea141acb",
       "apartmentName": "청탑그린 빌라",
-      "apartmentNameSource": "aeeWevlMnpntLst[].aeeWevlMnpntCtt",
-      "apartmentNameCheckedAt": "2026-09-03T00:29:08.530Z"
+      "apartmentNameSource": "buldNm",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000414:20250130004290:2": {
       "itemFingerprint": "74a1c985584eefaea89e",
@@ -24809,8 +24809,8 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "71ec7c6f7c6dbf99d497",
       "apartmentName": "청탑그린 빌라",
-      "apartmentNameSource": "aeeWevlMnpntLst[].aeeWevlMnpntCtt",
-      "apartmentNameCheckedAt": "2026-09-03T00:29:09.809Z"
+      "apartmentNameSource": "buldNm",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000414:20250130101311:1": {
       "itemFingerprint": "433e017febb612973ce3",
@@ -28240,9 +28240,404 @@
       },
       "analysisPolicyVersion": 2
     },
+    "B000213:20250130003739:1": {
+      "itemFingerprint": "e345da157bac8293ee09",
+      "checkedAt": "2026-09-04T22:09:19.233Z",
+      "sourceVersion": "802011FEAC1906DA2FCE849AC4BB63A9:20260724:20260908",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "AVAILABLE",
+        "analysisConfidence": "MEDIUM",
+        "analysisReasons": [
+          "최선순위 설정일자 2022-08-12 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+        ],
+        "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "low",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2022-08-12",
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "assumedAmount": null,
+          "notes": "현재 확보한 법원 자료에서 주요 인수 위험요소가 발견되지 않음",
+          "reasons": [
+            "최선순위 설정일자 2022-08-12 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          ],
+          "confidence": "MEDIUM",
+          "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음"
+        },
+        "occupancyAnalysis": {
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
+          "evictionRisk": "low",
+          "notes": "현황조사서 기반 1차 참고정보입니다.",
+          "reasons": [
+            "현황조사 임차인 명세에 별도 기재 없음"
+          ],
+          "confidence": "MEDIUM"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-04T22:09:19.233Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2022. 8. 12. 근저당권",
+          "benchmarkDate": "2022-08-12",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인됨",
+          "tenants": []
+        }
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000213:20250130003821:1": {
+      "itemFingerprint": "da5217ee622c160c9d7c",
+      "checkedAt": "2026-09-04T22:09:23.706Z",
+      "sourceVersion": "802E1627AC1906E6206DF4E5C9369195:20260721:20260908",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
+        "analysisReasons": [
+          "최선순위 설정일자 2022-08-12 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "unknown",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2022-08-12",
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "assumedAmount": null,
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
+          "reasons": [
+            "최선순위 설정일자 2022-08-12 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          ],
+          "confidence": "LOW",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": "점유관계 불명",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
+          "evictionRisk": "unknown",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
+          "reasons": [
+            "현황조사 임차인 명세에 별도 기재 없음"
+          ],
+          "confidence": "LOW"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-04T22:09:23.706Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2022. 8. 12. 근저당권",
+          "benchmarkDate": "2022-08-12",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "점유관계 불명",
+          "investigationStatus": "확인 필요",
+          "tenants": []
+        }
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000213:20250130003913:1": {
+      "itemFingerprint": "62b3d0912a173dede4c0",
+      "checkedAt": "2026-09-04T22:09:28.082Z",
+      "sourceVersion": "8529FC17AC1906E6206DF4E528ED2EC8:20260724:20260908",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
+        "analysisReasons": [
+          "최선순위 설정일자 2022-08-12 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "unknown",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2022-08-12",
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "assumedAmount": null,
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
+          "reasons": [
+            "최선순위 설정일자 2022-08-12 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          ],
+          "confidence": "LOW",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": "점유관계 불명",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
+          "evictionRisk": "unknown",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
+          "reasons": [
+            "현황조사 임차인 명세에 별도 기재 없음"
+          ],
+          "confidence": "LOW"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-04T22:09:28.082Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2022. 8. 12. 근저당권",
+          "benchmarkDate": "2022-08-12",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "점유관계 불명",
+          "investigationStatus": "확인 필요",
+          "tenants": []
+        }
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000213:20250130004008:1": {
+      "itemFingerprint": "02524ed2faeeb13de5e1",
+      "checkedAt": "2026-09-04T22:09:31.215Z",
+      "sourceVersion": "8539601AAC1906DA2FCE849A3F6A9529:20260724:20260908",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
+        "analysisReasons": [
+          "최선순위 설정일자 2022-08-12 확인",
+          "현황조사 임차인·점유관계인 1명 확인",
+          "임차인 전입일 2024-11-22 확인",
+          "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "medium",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2022-08-12",
+          "seniorTenant": null,
+          "juniorTenant": "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "assumedAmount": null,
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
+          "reasons": [
+            "최선순위 설정일자 2022-08-12 확인",
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2024-11-22 확인",
+            "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          ],
+          "confidence": "LOW",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": "임차인 점유",
+          "tenantOpposability": "전입일 비교 결과 추가 확인 필요",
+          "evictionRisk": "unknown",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
+          "reasons": [
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2024-11-22 확인",
+            "최선순위 설정일자 이후 또는 같은 날 전입 기재"
+          ],
+          "confidence": "LOW"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-04T22:09:31.215Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2022. 8. 12. 근저당권",
+          "benchmarkDate": "2022-08-12",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "임차인 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": [
+            {
+              "role": "임차인 또는 점유관계인",
+              "occupancyPart": null,
+              "use": null,
+              "occupancyPeriod": null,
+              "deposit": null,
+              "monthlyRent": null,
+              "moveInDate": "2024-11-22",
+              "fixedDate": null,
+              "distributionRequest": "확인 필요",
+              "comparison": "AFTER"
+            }
+          ]
+        }
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000210:20240130124852:1": {
+      "itemFingerprint": "bf8749846589b7d5704e",
+      "checkedAt": "2026-09-04T22:09:34.632Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
     "B000210:20250130003860:1": {
       "itemFingerprint": "f0d662a45197363b7708",
-      "checkedAt": "2026-09-03T00:28:24.360Z",
+      "checkedAt": "2026-09-04T22:09:35.844Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28302,7 +28697,7 @@
     },
     "B000210:20250130004023:1": {
       "itemFingerprint": "1df3ef648c147d186081",
-      "checkedAt": "2026-09-03T00:28:25.392Z",
+      "checkedAt": "2026-09-04T22:09:37.057Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28360,9 +28755,107 @@
       },
       "analysisPolicyVersion": 2
     },
+    "B000210:20250130103160:1": {
+      "itemFingerprint": "0460633739cca6a0ae2c",
+      "checkedAt": "2026-09-04T22:09:38.276Z",
+      "sourceVersion": "18A39F4DAC19061F47F95EB6F3689640:20260907:20260922",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "AVAILABLE",
+        "analysisConfidence": "MEDIUM",
+        "analysisReasons": [
+          "최선순위 설정일자 2021-10-20 확인",
+          "현황조사 임차인·점유관계인 1명 확인",
+          "임차인 전입일 2019-02-25 확인",
+          "최선순위 설정일자 이전 전입 기재 발견",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+        ],
+        "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "high",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2021-10-20",
+          "seniorTenant": "최선순위 설정일자 이전 전입 기재 — 대항력/인수 가능성 추가 확인 필요",
+          "juniorTenant": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "assumedAmount": null,
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
+          "reasons": [
+            "최선순위 설정일자 2021-10-20 확인",
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2019-02-25 확인",
+            "최선순위 설정일자 이전 전입 기재 발견",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          ],
+          "confidence": "MEDIUM",
+          "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요"
+        },
+        "occupancyAnalysis": {
+          "occupant": "임차인 점유",
+          "tenantOpposability": "가능성 있음 — 추가 확인 필요",
+          "evictionRisk": "high",
+          "notes": "현황조사서 기반 1차 참고정보입니다.",
+          "reasons": [
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2019-02-25 확인",
+            "최선순위 설정일자 이전 전입 기재 발견"
+          ],
+          "confidence": "MEDIUM"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-04T22:09:38.276Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2021.10.20. 근저당권",
+          "benchmarkDate": "2021-10-20",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "임차인 점유",
+          "investigationStatus": "확인됨",
+          "tenants": [
+            {
+              "role": "임차인 또는 점유관계인",
+              "occupancyPart": null,
+              "use": null,
+              "occupancyPeriod": null,
+              "deposit": null,
+              "monthlyRent": null,
+              "moveInDate": "2019-02-25",
+              "fixedDate": null,
+              "distributionRequest": "확인 필요",
+              "comparison": "BEFORE"
+            }
+          ]
+        }
+      },
+      "analysisPolicyVersion": 2
+    },
     "B000210:20250130104727:1": {
       "itemFingerprint": "5d548281706c4aa75cb7",
-      "checkedAt": "2026-09-03T00:28:26.404Z",
+      "checkedAt": "2026-09-04T22:09:43.568Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28422,7 +28915,7 @@
     },
     "B000211:20240130059814:1": {
       "itemFingerprint": "6b55b9ef184ce7c72fed",
-      "checkedAt": "2026-09-03T00:28:27.400Z",
+      "checkedAt": "2026-09-04T22:09:44.773Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28481,12 +28974,110 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "51ba03e6a45ca3646459",
       "apartmentName": "현대아파트",
-      "apartmentNameSource": "NAVER_GEOCODING_BUILDING_NAME",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.342Z"
+      "apartmentNameSource": "previousState",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
+    },
+    "B000211:20250130051300:1": {
+      "itemFingerprint": "070e5aab4a61b22d6bd3",
+      "checkedAt": "2026-09-04T22:09:45.981Z",
+      "sourceVersion": "F85729EEAC19061E58F139CD39697603:20260624:20260921",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
+        "analysisReasons": [
+          "최선순위 설정일자 2024-07-12 확인",
+          "현황조사 임차인·점유관계인 1명 확인",
+          "임차인 전입일 2018-10-08 확인",
+          "최선순위 설정일자 이전 전입 기재 발견",
+          "매각 후 존속권리 관련 기재 있음"
+        ],
+        "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "high",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2024-07-12",
+          "seniorTenant": "최선순위 설정일자 이전 전입 기재 — 대항력/인수 가능성 추가 확인 필요",
+          "juniorTenant": null,
+          "survivingRights": "을구 순위번호 9번 전세권(매각대상)은 말소되지 아니하고 전세권변경등기(권리자변경) 필요",
+          "assumedAmount": null,
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
+          "reasons": [
+            "최선순위 설정일자 2024-07-12 확인",
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2018-10-08 확인",
+            "최선순위 설정일자 이전 전입 기재 발견",
+            "매각 후 존속권리 관련 기재 있음"
+          ],
+          "confidence": "LOW",
+          "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요"
+        },
+        "occupancyAnalysis": {
+          "occupant": "임차인 점유",
+          "tenantOpposability": "가능성 있음 — 추가 확인 필요",
+          "evictionRisk": "high",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
+          "reasons": [
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2018-10-08 확인",
+            "최선순위 설정일자 이전 전입 기재 발견"
+          ],
+          "confidence": "LOW"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-04T22:09:45.981Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2024.7.12.전세권근저당권",
+          "benchmarkDate": "2024-07-12",
+          "nonExtinguishedRights": "을구 순위번호 9번 전세권(매각대상)은 말소되지 아니하고 전세권변경등기(권리자변경) 필요",
+          "specialSaleConditions": "-매각대상: 을구 순위번호 9번 전세권임에 주의(전세권 근저당권 실행) -존속기간: 2018.9.28.부터2026.10.9.까지 -최저매각가격: 전세권 존속기간(을 고려한 전세권에 대한 평가액임",
+          "occupancySummary": "임차인 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": [
+            {
+              "role": "임차인 또는 점유관계인",
+              "occupancyPart": "3501호",
+              "use": null,
+              "occupancyPeriod": null,
+              "deposit": null,
+              "monthlyRent": null,
+              "moveInDate": "2018-10-08",
+              "fixedDate": null,
+              "distributionRequest": "확인 필요",
+              "comparison": "BEFORE"
+            }
+          ]
+        }
+      },
+      "analysisPolicyVersion": 2
     },
     "B000211:20250130052237:1": {
       "itemFingerprint": "fcadbf3901e707472c9d",
-      "checkedAt": "2026-09-03T00:28:28.457Z",
+      "checkedAt": "2026-09-04T22:09:49.560Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28546,7 +29137,7 @@
     },
     "B000211:20250130052311:1": {
       "itemFingerprint": "9ff8e13abdbe09677b22",
-      "checkedAt": "2026-09-03T00:28:29.469Z",
+      "checkedAt": "2026-09-04T22:09:50.769Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28606,7 +29197,7 @@
     },
     "B000412:20240130112419:1": {
       "itemFingerprint": "1a65433506811c65e954",
-      "checkedAt": "2026-09-03T00:28:31.236Z",
+      "checkedAt": "2026-09-04T22:09:51.977Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28666,7 +29257,7 @@
     },
     "B000412:20250130000810:1": {
       "itemFingerprint": "0bc1d2507ea9842f04e3",
-      "checkedAt": "2026-09-03T00:28:32.278Z",
+      "checkedAt": "2026-09-04T22:09:53.196Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28725,12 +29316,12 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "f7bb4c9381722512befb",
       "apartmentName": "삼화아파트",
-      "apartmentNameSource": "NAVER_GEOCODING_BUILDING_NAME",
-      "apartmentNameCheckedAt": "2026-09-03T00:56:17.342Z"
+      "apartmentNameSource": "previousState",
+      "apartmentNameCheckedAt": "2026-09-04T22:10:04.221Z"
     },
     "B000412:20250130005818:1": {
       "itemFingerprint": "c4a06a9fa846273746f4",
-      "checkedAt": "2026-09-03T00:28:33.282Z",
+      "checkedAt": "2026-09-04T22:09:54.521Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28790,7 +29381,7 @@
     },
     "B000412:20250130005828:1": {
       "itemFingerprint": "a8c8916a4365b284dbd3",
-      "checkedAt": "2026-09-03T00:28:34.360Z",
+      "checkedAt": "2026-09-04T22:09:55.733Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28850,7 +29441,7 @@
     },
     "B000412:20250130005861:1": {
       "itemFingerprint": "0f22b6e80492303ebfb5",
-      "checkedAt": "2026-09-03T00:28:35.422Z",
+      "checkedAt": "2026-09-04T22:09:56.938Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28910,7 +29501,7 @@
     },
     "B000412:20250130005873:1": {
       "itemFingerprint": "84376101ac1540640509",
-      "checkedAt": "2026-09-03T00:28:37.060Z",
+      "checkedAt": "2026-09-04T22:09:58.153Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28970,7 +29561,7 @@
     },
     "B000412:20250130005932:1": {
       "itemFingerprint": "220bc0bcda4203be3f62",
-      "checkedAt": "2026-09-03T00:28:38.098Z",
+      "checkedAt": "2026-09-04T22:09:59.363Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29030,7 +29621,7 @@
     },
     "B000412:20250130006014:1": {
       "itemFingerprint": "e1e3781d0c17ab755738",
-      "checkedAt": "2026-09-03T00:28:39.126Z",
+      "checkedAt": "2026-09-04T22:10:00.570Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29090,7 +29681,7 @@
     },
     "B000412:20250130006066:1": {
       "itemFingerprint": "29a585170cef89c3d158",
-      "checkedAt": "2026-09-03T00:28:40.145Z",
+      "checkedAt": "2026-09-04T22:10:01.798Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29150,7 +29741,7 @@
     },
     "B000412:20250130006112:1": {
       "itemFingerprint": "4d7477cbbfc2cee07e0e",
-      "checkedAt": "2026-09-03T00:28:41.191Z",
+      "checkedAt": "2026-09-04T22:10:03.005Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
