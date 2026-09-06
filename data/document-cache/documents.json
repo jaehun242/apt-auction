@@ -2357,7 +2357,7 @@
       "apartmentNameFingerprint": "dba1796ed4536025f63c",
       "apartmentName": "대흥아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.777Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.920Z"
     },
     "B000210:20250130103155:1": {
       "itemFingerprint": "aaf589034280819b10f3",
@@ -3625,8 +3625,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130000345:1": {
-      "itemFingerprint": "c6bf778af3585aa765a3",
-      "checkedAt": "2026-09-02T23:56:06.840Z",
+      "itemFingerprint": "535dc85b76b8185b0523",
+      "checkedAt": "2026-09-06T22:08:50.887Z",
       "sourceVersion": "92A2C4D8AC19061F2A3F7E881E64814C:20260724:20260907",
       "documents": {
         "detail": {
@@ -3687,7 +3687,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:06.840Z",
+          "checkedAt": "2026-09-06T22:08:50.887Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -3785,8 +3785,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130000424:1": {
-      "itemFingerprint": "cd2695e5b3da47ab37d2",
-      "checkedAt": "2026-09-02T23:56:09.648Z",
+      "itemFingerprint": "e572a840d2afce8296bc",
+      "checkedAt": "2026-09-06T22:08:52.584Z",
       "sourceVersion": "927C19DEAC19061E0725AFA6FD93CAD5:20260724:20260907",
       "documents": {
         "detail": {
@@ -3845,7 +3845,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:09.648Z",
+          "checkedAt": "2026-09-06T22:08:52.584Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -3864,8 +3864,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130000465:1": {
-      "itemFingerprint": "ad3704792f76f78b081e",
-      "checkedAt": "2026-09-02T23:56:10.825Z",
+      "itemFingerprint": "9cd2a6007b04a82c0960",
+      "checkedAt": "2026-09-06T22:08:55.033Z",
       "sourceVersion": "929BFDA0AC1906DA7796E4CF3F8BFA09:20260724:20260907",
       "documents": {
         "detail": {
@@ -3930,7 +3930,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:10.825Z",
+          "checkedAt": "2026-09-06T22:08:55.033Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -4139,8 +4139,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130051117:1": {
-      "itemFingerprint": "f0c3f80646a6ea3a042a",
-      "checkedAt": "2026-09-02T23:56:16.786Z",
+      "itemFingerprint": "85670ea48f94a9a474dd",
+      "checkedAt": "2026-09-06T22:09:01.218Z",
       "sourceVersion": "A77D1610AC1906E6586267FA81CC5BAD:20260728:20260907",
       "documents": {
         "detail": {
@@ -4199,7 +4199,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:16.786Z",
+          "checkedAt": "2026-09-06T22:09:01.218Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -4328,8 +4328,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130051242:1": {
-      "itemFingerprint": "3d36c52da801dbd0694e",
-      "checkedAt": "2026-09-02T23:56:20.261Z",
+      "itemFingerprint": "4a1ce4f38e9ed0154e64",
+      "checkedAt": "2026-09-06T22:09:06.276Z",
       "sourceVersion": "C17622ABAC19061F608722E796710D94:20260306:20260907",
       "documents": {
         "detail": {
@@ -4388,7 +4388,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:20.261Z",
+          "checkedAt": "2026-09-06T22:09:06.276Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -4407,8 +4407,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130051291:1": {
-      "itemFingerprint": "d6cc01911014f3acc02c",
-      "checkedAt": "2026-09-02T23:56:21.785Z",
+      "itemFingerprint": "43c9de4929b15b0e2bec",
+      "checkedAt": "2026-09-06T22:09:11.610Z",
       "sourceVersion": "CFBD440DAC1906DA41E387E72CDDADD1:20260309:20260907",
       "documents": {
         "detail": {
@@ -4467,7 +4467,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:21.785Z",
+          "checkedAt": "2026-09-06T22:09:11.610Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -4486,8 +4486,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130051367:1": {
-      "itemFingerprint": "c0fcfcb8420ccc251b80",
-      "checkedAt": "2026-09-02T23:56:24.095Z",
+      "itemFingerprint": "be4c91dfe81a73c89645",
+      "checkedAt": "2026-09-06T22:09:15.242Z",
       "sourceVersion": "FC32C44CAC1906DA69EE42DEF5C96B3B:20260506:20260907",
       "documents": {
         "detail": {
@@ -4548,7 +4548,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:24.095Z",
+          "checkedAt": "2026-09-06T22:09:15.242Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -4665,8 +4665,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130051614:1": {
-      "itemFingerprint": "1ec6044e26f30027059d",
-      "checkedAt": "2026-09-02T23:56:27.097Z",
+      "itemFingerprint": "553d16898ee0029ea136",
+      "checkedAt": "2026-09-06T22:09:19.218Z",
       "sourceVersion": "395B9F9CAC19061E50C886B79A7AF297:20260323:20260907",
       "documents": {
         "detail": {
@@ -4731,7 +4731,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:27.097Z",
+          "checkedAt": "2026-09-06T22:09:19.218Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -4763,8 +4763,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130051702:1": {
-      "itemFingerprint": "b2ce7ee20c191c057330",
-      "checkedAt": "2026-09-02T23:56:28.832Z",
+      "itemFingerprint": "0f776b8f432fd52b9e20",
+      "checkedAt": "2026-09-06T22:09:24.079Z",
       "sourceVersion": "2577FBA0AC19061F21DAF4F8913BDC56:20260703:20260907",
       "documents": {
         "detail": {
@@ -4825,7 +4825,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:28.832Z",
+          "checkedAt": "2026-09-06T22:09:24.079Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -5004,8 +5004,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130052013:1": {
-      "itemFingerprint": "375c9244ea4342b4d42a",
-      "checkedAt": "2026-09-02T23:56:33.527Z",
+      "itemFingerprint": "24a00254ea38d1f389bc",
+      "checkedAt": "2026-09-06T22:09:29.000Z",
       "sourceVersion": "D31D5178AC1906E60F861D8BDE508BA3:20260617:20260907",
       "documents": {
         "detail": {
@@ -5066,7 +5066,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:33.527Z",
+          "checkedAt": "2026-09-06T22:09:29.000Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -5085,8 +5085,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130052080:1": {
-      "itemFingerprint": "151675bf26de34a09da4",
-      "checkedAt": "2026-09-02T23:56:35.657Z",
+      "itemFingerprint": "46df9e5e0910314e9d3b",
+      "checkedAt": "2026-09-06T22:09:35.090Z",
       "sourceVersion": "D32EB708AC1906DA2A8BCED230529600:20260617:20260907",
       "documents": {
         "detail": {
@@ -5147,7 +5147,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:35.657Z",
+          "checkedAt": "2026-09-06T22:09:35.090Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -5166,8 +5166,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130052149:1": {
-      "itemFingerprint": "81f125688122e807ba41",
-      "checkedAt": "2026-09-02T23:56:37.603Z",
+      "itemFingerprint": "1fd285ef03c0743130f9",
+      "checkedAt": "2026-09-06T22:09:40.069Z",
       "sourceVersion": "5B27D28FAC19061E559EC5AF7A51004A:20260714:20260907",
       "documents": {
         "detail": {
@@ -5226,7 +5226,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:37.603Z",
+          "checkedAt": "2026-09-06T22:09:40.069Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -5245,8 +5245,8 @@
       "analysisPolicyVersion": 2
     },
     "B000211:20250130052172:1": {
-      "itemFingerprint": "e1eff3237400e6a182cf",
-      "checkedAt": "2026-09-02T23:56:38.946Z",
+      "itemFingerprint": "0dcbaec13328194f3779",
+      "checkedAt": "2026-09-06T22:09:43.324Z",
       "sourceVersion": "5E5A4601AC1906DA7F10BB1056B92565:20260714:20260907",
       "documents": {
         "detail": {
@@ -5311,7 +5311,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:38.946Z",
+          "checkedAt": "2026-09-06T22:09:43.324Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -5454,11 +5454,11 @@
       "apartmentNameFingerprint": "75340bebff52d4cad6d3",
       "apartmentName": "(주)파르네빌아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.778Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.921Z"
     },
     "B000211:20250130052314:1": {
-      "itemFingerprint": "16c8dde344219896f064",
-      "checkedAt": "2026-09-02T23:56:42.418Z",
+      "itemFingerprint": "3dec013162d78117a275",
+      "checkedAt": "2026-09-06T22:09:45.931Z",
       "sourceVersion": "20260723:20260907",
       "documents": {
         "detail": {
@@ -5519,7 +5519,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:56:42.418Z",
+          "checkedAt": "2026-09-06T22:09:45.931Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -5938,7 +5938,7 @@
       "apartmentNameFingerprint": "424a0ed5689e7c8f5d85",
       "apartmentName": "오경아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.778Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.921Z"
     },
     "B000212:20240130147837:1": {
       "itemFingerprint": "4b74e614ddc363db070b",
@@ -6782,7 +6782,7 @@
       "apartmentNameFingerprint": "862a985c78d8d14bc478",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.778Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.921Z"
     },
     "B000212:20250130010955:1": {
       "itemFingerprint": "837efd964a5417d9ad35",
@@ -8212,7 +8212,7 @@
       "apartmentNameFingerprint": "d2a59893127e7c202de1",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.778Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.922Z"
     },
     "B000212:20260130003046:1": {
       "itemFingerprint": "9515106b0a085e43d61b",
@@ -9707,7 +9707,7 @@
       "apartmentNameFingerprint": "25af58d8d69f8008923b",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.778Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.922Z"
     },
     "B000213:20250130013946:1": {
       "itemFingerprint": "778fb89fc1115c312069",
@@ -10641,7 +10641,7 @@
       "apartmentNameFingerprint": "88692c29e8ce519ef284",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.922Z"
     },
     "B000212:20250130010286:1": {
       "itemFingerprint": "82c79f24b6bd080ec164",
@@ -11144,7 +11144,7 @@
       "apartmentNameFingerprint": "63ebf7c671a8937764bb",
       "apartmentName": "허브팰리스",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.922Z"
     },
     "B000410:20240130066053:1": {
       "itemFingerprint": "691c902f020abdd8f18e",
@@ -11308,7 +11308,7 @@
       "apartmentNameFingerprint": "dae931eeb28e562de079",
       "apartmentName": "고원아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.922Z"
     },
     "B000410:20250130001930:1": {
       "itemFingerprint": "8d42f7b03beb6367d3c8",
@@ -12104,8 +12104,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130021797:1": {
-      "itemFingerprint": "1f9066a2171a2cbb33ae",
-      "checkedAt": "2026-09-02T23:58:49.547Z",
+      "itemFingerprint": "06723fe7607f9717b875",
+      "checkedAt": "2026-09-06T22:10:10.742Z",
       "sourceVersion": "40A06769AC19861F1D71768108CC3AA5:20260708:20260907",
       "documents": {
         "detail": {
@@ -12164,7 +12164,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:58:49.547Z",
+          "checkedAt": "2026-09-06T22:10:10.742Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -12420,8 +12420,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130021840:1": {
-      "itemFingerprint": "8c57915cc445d83048db",
-      "checkedAt": "2026-09-02T23:58:55.100Z",
+      "itemFingerprint": "6818a0db53887a2da933",
+      "checkedAt": "2026-09-06T22:10:13.795Z",
       "sourceVersion": "EF946C48AC1986DB2B79299CEB01E5F6:20260812:20260907",
       "documents": {
         "detail": {
@@ -12482,7 +12482,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:58:55.100Z",
+          "checkedAt": "2026-09-06T22:10:13.795Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -12580,8 +12580,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130021892:1": {
-      "itemFingerprint": "33dd24be686891ed0f73",
-      "checkedAt": "2026-09-02T23:58:57.752Z",
+      "itemFingerprint": "5d08b8bdddf7ad603af3",
+      "checkedAt": "2026-09-06T22:10:16.394Z",
       "sourceVersion": "40ABF5D5AC19861F1D717681ED429866:20260708:20260907",
       "documents": {
         "detail": {
@@ -12642,7 +12642,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:58:57.752Z",
+          "checkedAt": "2026-09-06T22:10:16.394Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -12838,8 +12838,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130021921:1": {
-      "itemFingerprint": "c525a3830c094da7ff05",
-      "checkedAt": "2026-09-02T23:59:02.357Z",
+      "itemFingerprint": "d45242fe1f2959ccdd17",
+      "checkedAt": "2026-09-06T22:10:19.765Z",
       "sourceVersion": "40EB08AEAC1986DA6E9BB640734DEDE3:20260708:20260907",
       "documents": {
         "detail": {
@@ -12904,7 +12904,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:02.357Z",
+          "checkedAt": "2026-09-06T22:10:19.765Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -13529,8 +13529,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022035:1": {
-      "itemFingerprint": "b5aad8eb6d77e6b5efec",
-      "checkedAt": "2026-09-02T23:59:14.048Z",
+      "itemFingerprint": "582be37186ddd7a2d72d",
+      "checkedAt": "2026-09-06T22:10:25.215Z",
       "sourceVersion": "EF9CBC52AC1986DA324B95C04D5AF61C:20260812:20260907",
       "documents": {
         "detail": {
@@ -13591,7 +13591,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:14.048Z",
+          "checkedAt": "2026-09-06T22:10:25.215Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -13768,8 +13768,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022138:1": {
-      "itemFingerprint": "5e82a23423d176ba1d54",
-      "checkedAt": "2026-09-02T23:59:18.071Z",
+      "itemFingerprint": "df16ed221b85b3d6dd79",
+      "checkedAt": "2026-09-06T22:10:30.475Z",
       "sourceVersion": "441F9705AC1986DB51E6BB15B04446E3:20250709:20260907",
       "documents": {
         "detail": {
@@ -13828,7 +13828,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:18.071Z",
+          "checkedAt": "2026-09-06T22:10:30.475Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -13847,8 +13847,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022201:1": {
-      "itemFingerprint": "6b8aa747386ac3b82f8e",
-      "checkedAt": "2026-09-02T23:59:19.420Z",
+      "itemFingerprint": "71ef3bc12cc9b382ad0a",
+      "checkedAt": "2026-09-06T22:10:35.476Z",
       "sourceVersion": "444BF172AC1986DA3B3B696A5E682117:20260709:20260907",
       "documents": {
         "detail": {
@@ -13909,7 +13909,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:19.420Z",
+          "checkedAt": "2026-09-06T22:10:35.476Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -14490,8 +14490,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022464:1": {
-      "itemFingerprint": "ce3be4c91ddca211c5db",
-      "checkedAt": "2026-09-02T23:59:28.319Z",
+      "itemFingerprint": "b9176f0ae7d1aa633c4b",
+      "checkedAt": "2026-09-06T22:10:38.815Z",
       "sourceVersion": "44A87659AC19861F605157D71FB58EAF:20260709:20260907",
       "documents": {
         "detail": {
@@ -14550,7 +14550,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:28.319Z",
+          "checkedAt": "2026-09-06T22:10:38.815Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -14569,8 +14569,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022465:1": {
-      "itemFingerprint": "6a20b5208c23e6e013bf",
-      "checkedAt": "2026-09-02T23:59:29.592Z",
+      "itemFingerprint": "3c42771afe24feb4a0a2",
+      "checkedAt": "2026-09-06T22:10:41.713Z",
       "sourceVersion": "44B24D1CAC1986DA3B3B696A6B62E61C:20260709:20260907",
       "documents": {
         "detail": {
@@ -14629,7 +14629,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:29.592Z",
+          "checkedAt": "2026-09-06T22:10:41.713Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -14648,8 +14648,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022469:1": {
-      "itemFingerprint": "16212603d304f6bf79a6",
-      "checkedAt": "2026-09-02T23:59:31.592Z",
+      "itemFingerprint": "55956440933a7153d0a4",
+      "checkedAt": "2026-09-06T22:10:46.270Z",
       "sourceVersion": "44B61CB4AC19861E1DC2CDB9627B30B3:20260709:20260907",
       "documents": {
         "detail": {
@@ -14708,7 +14708,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:31.592Z",
+          "checkedAt": "2026-09-06T22:10:46.270Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -14727,8 +14727,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022470:1": {
-      "itemFingerprint": "949de02c5950c4e94631",
-      "checkedAt": "2026-09-02T23:59:32.754Z",
+      "itemFingerprint": "2379ebac2e144f00e16c",
+      "checkedAt": "2026-09-06T22:10:48.557Z",
       "sourceVersion": "44B8E31FAC1986DA3B3B696A179467B7:20260709:20260907",
       "documents": {
         "detail": {
@@ -14787,7 +14787,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:32.754Z",
+          "checkedAt": "2026-09-06T22:10:48.557Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -14806,8 +14806,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022471:1": {
-      "itemFingerprint": "90bc6bf482ec2a258118",
-      "checkedAt": "2026-09-02T23:59:33.990Z",
+      "itemFingerprint": "22946d70c901c76bc7c4",
+      "checkedAt": "2026-09-06T22:10:53.079Z",
       "sourceVersion": "44BD5EDAAC19861F605157D7FAF714E4:20260709:20260907",
       "documents": {
         "detail": {
@@ -14866,7 +14866,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:33.990Z",
+          "checkedAt": "2026-09-06T22:10:53.079Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -14885,8 +14885,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022472:1": {
-      "itemFingerprint": "a152a5c5245fa17c68d6",
-      "checkedAt": "2026-09-02T23:59:35.297Z",
+      "itemFingerprint": "7be84ea96c5005a38d83",
+      "checkedAt": "2026-09-06T22:10:58.826Z",
       "sourceVersion": "44C07BF4AC19861E1DC2CDB9523E924F:20260709:20260907",
       "documents": {
         "detail": {
@@ -14945,7 +14945,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:35.297Z",
+          "checkedAt": "2026-09-06T22:10:58.826Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -14964,8 +14964,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022473:1": {
-      "itemFingerprint": "56be565d947ae8927f4e",
-      "checkedAt": "2026-09-02T23:59:37.243Z",
+      "itemFingerprint": "6479576e6bab0618d662",
+      "checkedAt": "2026-09-06T22:11:02.545Z",
       "sourceVersion": "EAEE779BAC1986DA324B95C03852442E:20260812:20260907",
       "documents": {
         "detail": {
@@ -15024,7 +15024,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:37.243Z",
+          "checkedAt": "2026-09-06T22:11:02.545Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15043,8 +15043,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022476:1": {
-      "itemFingerprint": "7233b443c3fc58ba44b6",
-      "checkedAt": "2026-09-02T23:59:38.550Z",
+      "itemFingerprint": "cadf33a050e59fa48bad",
+      "checkedAt": "2026-09-06T22:11:07.247Z",
       "sourceVersion": "44C2BC0DAC1986DB51E6BB15FE7BA395:20260709:20260907",
       "documents": {
         "detail": {
@@ -15103,7 +15103,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:38.550Z",
+          "checkedAt": "2026-09-06T22:11:07.247Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15122,8 +15122,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022477:1": {
-      "itemFingerprint": "b9c2c8182dc37b725e4e",
-      "checkedAt": "2026-09-02T23:59:39.797Z",
+      "itemFingerprint": "568fca3ac92683374565",
+      "checkedAt": "2026-09-06T22:11:10.446Z",
       "sourceVersion": "44C53DA4AC19861F605157D7BC0E630F:20260709:20260907",
       "documents": {
         "detail": {
@@ -15182,7 +15182,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:39.797Z",
+          "checkedAt": "2026-09-06T22:11:10.446Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15201,8 +15201,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022478:1": {
-      "itemFingerprint": "84e00dde358496ae637f",
-      "checkedAt": "2026-09-02T23:59:41.149Z",
+      "itemFingerprint": "016c44e8bcd6b28f138f",
+      "checkedAt": "2026-09-06T22:11:15.902Z",
       "sourceVersion": "44C7F784AC1986DA3B3B696AC8C7E78C:20260709:20260907",
       "documents": {
         "detail": {
@@ -15261,7 +15261,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:41.149Z",
+          "checkedAt": "2026-09-06T22:11:15.902Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15280,8 +15280,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022479:1": {
-      "itemFingerprint": "cf6b3a7cbff932d86f8f",
-      "checkedAt": "2026-09-02T23:59:43.450Z",
+      "itemFingerprint": "7f7ca03c7dd0cd235289",
+      "checkedAt": "2026-09-06T22:11:23.160Z",
       "sourceVersion": "44CBC34AAC19861F605157D76A463C01:20260709:20260907",
       "documents": {
         "detail": {
@@ -15340,7 +15340,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:43.450Z",
+          "checkedAt": "2026-09-06T22:11:23.160Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15359,8 +15359,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022480:1": {
-      "itemFingerprint": "121faa03c51c927b47d2",
-      "checkedAt": "2026-09-02T23:59:44.768Z",
+      "itemFingerprint": "89247ca21586b83c9599",
+      "checkedAt": "2026-09-06T22:11:28.750Z",
       "sourceVersion": "EE694C8BAC1986DA324B95C057ECDB5F:20260812:20260907",
       "documents": {
         "detail": {
@@ -15419,7 +15419,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:44.768Z",
+          "checkedAt": "2026-09-06T22:11:28.750Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15438,8 +15438,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022486:1": {
-      "itemFingerprint": "899ac23d25d08a3926a4",
-      "checkedAt": "2026-09-02T23:59:46.079Z",
+      "itemFingerprint": "cd17e5009d7195b6b34f",
+      "checkedAt": "2026-09-06T22:11:35.018Z",
       "sourceVersion": "EFA3E3CCAC19861F3F2D733B6036DE0D:20260812:20260907",
       "documents": {
         "detail": {
@@ -15500,7 +15500,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:46.079Z",
+          "checkedAt": "2026-09-06T22:11:35.018Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15519,8 +15519,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022502:1": {
-      "itemFingerprint": "0220acf34c7c3102e291",
-      "checkedAt": "2026-09-02T23:59:47.779Z",
+      "itemFingerprint": "3c5af2b8a00276397a85",
+      "checkedAt": "2026-09-06T22:11:38.600Z",
       "sourceVersion": "EFC0DFD1AC1986DA324B95C00D31A904:20260810:20260907",
       "documents": {
         "detail": {
@@ -15581,7 +15581,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:47.779Z",
+          "checkedAt": "2026-09-06T22:11:38.600Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15600,8 +15600,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022504:1": {
-      "itemFingerprint": "a8e02f8a00507e3cd721",
-      "checkedAt": "2026-09-02T23:59:49.763Z",
+      "itemFingerprint": "29895fb1659d416340fc",
+      "checkedAt": "2026-09-06T22:11:44.381Z",
       "sourceVersion": "452D57C5AC19861E1DC2CDB966C1769C:20260709:20260907",
       "documents": {
         "detail": {
@@ -15662,7 +15662,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:49.763Z",
+          "checkedAt": "2026-09-06T22:11:44.381Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15681,8 +15681,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022576:1": {
-      "itemFingerprint": "561bac827195d5ec43ca",
-      "checkedAt": "2026-09-02T23:59:51.101Z",
+      "itemFingerprint": "06284b21c6606b0b2fe1",
+      "checkedAt": "2026-09-06T22:11:50.122Z",
       "sourceVersion": "EFF45559AC19861F3F2D733B34F790C9:20260812:20260907",
       "documents": {
         "detail": {
@@ -15743,7 +15743,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:51.101Z",
+          "checkedAt": "2026-09-06T22:11:50.122Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15762,8 +15762,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022669:1": {
-      "itemFingerprint": "140fb7a29169c61f7631",
-      "checkedAt": "2026-09-02T23:59:52.406Z",
+      "itemFingerprint": "c8f885b1a64b6f773e9b",
+      "checkedAt": "2026-09-06T22:11:54.886Z",
       "sourceVersion": "45531114AC1986DA3B3B696A7032DB24:20260709:20260907",
       "documents": {
         "detail": {
@@ -15824,7 +15824,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:52.406Z",
+          "checkedAt": "2026-09-06T22:11:54.886Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15843,8 +15843,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022732:1": {
-      "itemFingerprint": "d7b8710bc02beaf91856",
-      "checkedAt": "2026-09-02T23:59:54.179Z",
+      "itemFingerprint": "13699f55c471c40c48aa",
+      "checkedAt": "2026-09-06T22:12:00.222Z",
       "sourceVersion": "45776C95AC19861E1DC2CDB9C0BC92DB:20260709:20260907",
       "documents": {
         "detail": {
@@ -15905,7 +15905,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:54.179Z",
+          "checkedAt": "2026-09-06T22:12:00.222Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -15924,8 +15924,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022742:1": {
-      "itemFingerprint": "5664c88c8b20187e0199",
-      "checkedAt": "2026-09-02T23:59:55.542Z",
+      "itemFingerprint": "2f9e3e90dd07e4e40756",
+      "checkedAt": "2026-09-06T22:12:04.677Z",
       "sourceVersion": "457B2D8CAC19861F605157D720075ED9:20260709:20260907",
       "documents": {
         "detail": {
@@ -15986,7 +15986,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:55.542Z",
+          "checkedAt": "2026-09-06T22:12:04.677Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16006,11 +16006,11 @@
       "apartmentNameFingerprint": "b5c38b1f1302f2f9b028",
       "apartmentName": "정우골든시티",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.922Z"
     },
     "B000410:20250130022744:1": {
-      "itemFingerprint": "20cb6f6a312f69d5c841",
-      "checkedAt": "2026-09-02T23:59:56.882Z",
+      "itemFingerprint": "db67dc84460d6207f889",
+      "checkedAt": "2026-09-06T22:12:10.020Z",
       "sourceVersion": "458EF1AAAC19861F605157D733A28AB1:20260709:20260907",
       "documents": {
         "detail": {
@@ -16069,7 +16069,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:56.882Z",
+          "checkedAt": "2026-09-06T22:12:10.020Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16088,8 +16088,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022747:1": {
-      "itemFingerprint": "0f85d9521a05ea3d8ffd",
-      "checkedAt": "2026-09-02T23:59:58.156Z",
+      "itemFingerprint": "bad1c3413d67caa89667",
+      "checkedAt": "2026-09-06T22:12:15.136Z",
       "sourceVersion": "459DE32EAC19861E1DC2CDB91B68D957:20260709:20260907",
       "documents": {
         "detail": {
@@ -16148,7 +16148,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:58.156Z",
+          "checkedAt": "2026-09-06T22:12:15.136Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16167,8 +16167,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022748:1": {
-      "itemFingerprint": "c8b820863b4cc9089fd7",
-      "checkedAt": "2026-09-02T23:59:59.557Z",
+      "itemFingerprint": "8a1139c12b8649b00878",
+      "checkedAt": "2026-09-06T22:12:18.639Z",
       "sourceVersion": "45BAF646AC19861F605157D7CD8FA8CC:20260709:20260907",
       "documents": {
         "detail": {
@@ -16227,7 +16227,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-02T23:59:59.557Z",
+          "checkedAt": "2026-09-06T22:12:18.639Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16246,8 +16246,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023027:1": {
-      "itemFingerprint": "309b769e4cc15df7194a",
-      "checkedAt": "2026-09-03T00:00:01.031Z",
+      "itemFingerprint": "28b4741a35a0b7fa2754",
+      "checkedAt": "2026-09-06T22:12:24.386Z",
       "sourceVersion": "5E4BAB6DAC1986DA49872C47EDA59067:20260714:20260907",
       "documents": {
         "detail": {
@@ -16312,7 +16312,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:01.031Z",
+          "checkedAt": "2026-09-06T22:12:24.386Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16344,8 +16344,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023062:1": {
-      "itemFingerprint": "44cb02c0df62a052d0d1",
-      "checkedAt": "2026-09-03T00:00:02.558Z",
+      "itemFingerprint": "82e740e9c4700a26ffcf",
+      "checkedAt": "2026-09-06T22:12:29.215Z",
       "sourceVersion": "5F25A741AC19861E206C64721A2B7C19:20260714:20260907",
       "documents": {
         "detail": {
@@ -16404,7 +16404,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:02.558Z",
+          "checkedAt": "2026-09-06T22:12:29.215Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16423,8 +16423,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023119:1": {
-      "itemFingerprint": "c4a3cb21912772bfcd5d",
-      "checkedAt": "2026-09-03T00:00:04.745Z",
+      "itemFingerprint": "8b211e74aa4784d22b81",
+      "checkedAt": "2026-09-06T22:12:34.555Z",
       "sourceVersion": "EFFEB895AC1986DA324B95C00CBA8C30:20260812:20260907",
       "documents": {
         "detail": {
@@ -16489,7 +16489,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:04.745Z",
+          "checkedAt": "2026-09-06T22:12:34.555Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16521,8 +16521,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023139:1": {
-      "itemFingerprint": "3eb5399b7d63f572846e",
-      "checkedAt": "2026-09-03T00:00:06.523Z",
+      "itemFingerprint": "a59b9d2730725aeec035",
+      "checkedAt": "2026-09-06T22:12:39.938Z",
       "sourceVersion": "69586A00AC1986DB6B042D243071FE5B:20260727:20260907",
       "documents": {
         "detail": {
@@ -16581,7 +16581,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:06.523Z",
+          "checkedAt": "2026-09-06T22:12:39.938Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16600,8 +16600,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023142:1": {
-      "itemFingerprint": "b92c6db9c2d21bec92eb",
-      "checkedAt": "2026-09-03T00:00:08.023Z",
+      "itemFingerprint": "693026f3e4856005340d",
+      "checkedAt": "2026-09-06T22:12:44.813Z",
       "sourceVersion": "696397F2AC19861F4BDB25B1E1101597:20260727:20260907",
       "documents": {
         "detail": {
@@ -16660,7 +16660,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:08.023Z",
+          "checkedAt": "2026-09-06T22:12:44.813Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16777,8 +16777,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023189:1": {
-      "itemFingerprint": "e3ac5641eb46be48ba03",
-      "checkedAt": "2026-09-03T00:00:11.814Z",
+      "itemFingerprint": "a7affb0602c7b680bc9a",
+      "checkedAt": "2026-09-06T22:12:49.145Z",
       "sourceVersion": "799ED1C7AC1986DB6B042D2415CFEF62:20260727:20260907",
       "documents": {
         "detail": {
@@ -16839,7 +16839,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:11.814Z",
+          "checkedAt": "2026-09-06T22:12:49.145Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -16858,8 +16858,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023190:1": {
-      "itemFingerprint": "043065a41983be747bb6",
-      "checkedAt": "2026-09-03T00:00:13.233Z",
+      "itemFingerprint": "a19fcb17c92368380904",
+      "checkedAt": "2026-09-06T22:12:54.280Z",
       "sourceVersion": "79ABDFE5AC1986DA40C557784FA3C795:20260727:20260907",
       "documents": {
         "detail": {
@@ -16920,7 +16920,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:13.233Z",
+          "checkedAt": "2026-09-06T22:12:54.280Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17020,8 +17020,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023282:1": {
-      "itemFingerprint": "3445847d4f6a6c884ea2",
-      "checkedAt": "2026-09-03T00:00:16.153Z",
+      "itemFingerprint": "e4cbed964fbf314193fd",
+      "checkedAt": "2026-09-06T22:12:57.612Z",
       "sourceVersion": "F00D09A1AC1986DA324B95C00AE014B0:20260812:20260907",
       "documents": {
         "detail": {
@@ -17082,7 +17082,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:16.153Z",
+          "checkedAt": "2026-09-06T22:12:57.612Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17101,8 +17101,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023289:1": {
-      "itemFingerprint": "6c595f0b192e099b9355",
-      "checkedAt": "2026-09-03T00:00:17.677Z",
+      "itemFingerprint": "9e6b0b55b22b96e37077",
+      "checkedAt": "2026-09-06T22:13:00.982Z",
       "sourceVersion": "87876ABBAC1986DB6B042D247D943722:20260727:20260907",
       "documents": {
         "detail": {
@@ -17163,7 +17163,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:17.677Z",
+          "checkedAt": "2026-09-06T22:13:00.982Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17182,8 +17182,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023295:1": {
-      "itemFingerprint": "771d0188920698d472c1",
-      "checkedAt": "2026-09-03T00:00:19.258Z",
+      "itemFingerprint": "b6685568f5811842e9e2",
+      "checkedAt": "2026-09-06T22:13:06.012Z",
       "sourceVersion": "8859FD60AC19861E47F54D7EF79E9D97:20260727:20260907",
       "documents": {
         "detail": {
@@ -17248,7 +17248,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:19.258Z",
+          "checkedAt": "2026-09-06T22:13:06.012Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17280,8 +17280,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023336:1": {
-      "itemFingerprint": "be4283f5fb69128e9738",
-      "checkedAt": "2026-09-03T00:00:20.631Z",
+      "itemFingerprint": "5b71094f0d60ddbca6e5",
+      "checkedAt": "2026-09-06T22:13:11.050Z",
       "sourceVersion": "7EB96F74AC19861F4BDB25B18B90CB84:20260727:20260907",
       "documents": {
         "detail": {
@@ -17346,7 +17346,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:20.631Z",
+          "checkedAt": "2026-09-06T22:13:11.050Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17378,8 +17378,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130010106:1": {
-      "itemFingerprint": "c8aa5712923d3a76c57e",
-      "checkedAt": "2026-09-03T00:00:22.184Z",
+      "itemFingerprint": "617fedaa57059b6f657b",
+      "checkedAt": "2026-09-06T22:13:16.630Z",
       "sourceVersion": "F36700EEAC1986DB2B79299CCD752351:20260812:20260907",
       "documents": {
         "detail": {
@@ -17440,7 +17440,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:22.184Z",
+          "checkedAt": "2026-09-06T22:13:16.630Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17460,11 +17460,11 @@
       "apartmentNameFingerprint": "dcd38788fc93d412665f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:16:03.425Z"
     },
     "B000410:20260130010123:1": {
-      "itemFingerprint": "3ceb5bed9e92caf3ea24",
-      "checkedAt": "2026-09-03T00:00:23.552Z",
+      "itemFingerprint": "06ce0372d0c55dcc863b",
+      "checkedAt": "2026-09-06T22:13:21.656Z",
       "sourceVersion": "8D8DCAE7AC19861E47F54D7E564658F1:20260727:20260907",
       "documents": {
         "detail": {
@@ -17525,7 +17525,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:23.552Z",
+          "checkedAt": "2026-09-06T22:13:21.656Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17544,8 +17544,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130010125:1": {
-      "itemFingerprint": "53ad98dd1416f0b69074",
-      "checkedAt": "2026-09-03T00:00:24.943Z",
+      "itemFingerprint": "20dc6e7acd32991197b2",
+      "checkedAt": "2026-09-06T22:13:26.115Z",
       "sourceVersion": "F3757876AC1986DA324B95C02539163C:20260812:20260907",
       "documents": {
         "detail": {
@@ -17606,7 +17606,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:24.943Z",
+          "checkedAt": "2026-09-06T22:13:26.115Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17625,8 +17625,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130010176:1": {
-      "itemFingerprint": "8e6507a50617525d1b58",
-      "checkedAt": "2026-09-03T00:00:26.913Z",
+      "itemFingerprint": "0a7c09f35a631a0c92e8",
+      "checkedAt": "2026-09-06T22:13:31.672Z",
       "sourceVersion": "BF058990AC1986DB59E36CAACDD22652:20260803:20260907",
       "documents": {
         "detail": {
@@ -17687,7 +17687,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:26.913Z",
+          "checkedAt": "2026-09-06T22:13:31.672Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17706,8 +17706,8 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130010417:1": {
-      "itemFingerprint": "e14489bff66eb0e2177e",
-      "checkedAt": "2026-09-03T00:00:28.438Z",
+      "itemFingerprint": "084ba23aa066bcb38b60",
+      "checkedAt": "2026-09-06T22:13:36.194Z",
       "sourceVersion": "EE9DC2EEAC1986DA324B95C0F6EAB62D:20260812:20260907",
       "documents": {
         "detail": {
@@ -17768,7 +17768,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:28.438Z",
+          "checkedAt": "2026-09-06T22:13:36.194Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17868,8 +17868,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20230130005187:1": {
-      "itemFingerprint": "88817683a2e00a4a21c2",
-      "checkedAt": "2026-09-03T00:00:31.372Z",
+      "itemFingerprint": "f7f79cd2df0d5fcab911",
+      "checkedAt": "2026-09-06T22:13:41.132Z",
       "sourceVersion": "16328A3AAC19861E0AB8D5FA79CDCB43:20260630:20260907",
       "documents": {
         "detail": {
@@ -17928,7 +17928,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:31.372Z",
+          "checkedAt": "2026-09-06T22:13:41.132Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -17947,8 +17947,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20230130103203:1": {
-      "itemFingerprint": "22f8c65ba24137116ea6",
-      "checkedAt": "2026-09-03T00:00:34.001Z",
+      "itemFingerprint": "6ed499731e5f02edbfd0",
+      "checkedAt": "2026-09-06T22:13:46.742Z",
       "sourceVersion": "D044E7FDAC19861E3DFF2ABB4F58CDE8:20260805:20260907",
       "documents": {
         "detail": {
@@ -18007,7 +18007,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:34.001Z",
+          "checkedAt": "2026-09-06T22:13:46.742Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -18346,8 +18346,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130000491:1": {
-      "itemFingerprint": "afd8e0e6a31adb8dc0eb",
-      "checkedAt": "2026-09-03T00:00:41.471Z",
+      "itemFingerprint": "62eb396d745e528e5cc2",
+      "checkedAt": "2026-09-06T22:13:47.981Z",
       "sourceVersion": "EA7D5112AC19861E48B5C18B4E131ECB:20260810:20260907",
       "documents": {
         "detail": {
@@ -18406,7 +18406,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:41.471Z",
+          "checkedAt": "2026-09-06T22:13:47.981Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -18504,8 +18504,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130000634:1": {
-      "itemFingerprint": "6923f411eb5791d0f655",
-      "checkedAt": "2026-09-03T00:00:44.770Z",
+      "itemFingerprint": "db13b8e20dd7b93beae9",
+      "checkedAt": "2026-09-06T22:13:52.412Z",
       "sourceVersion": "2CF03736AC1986DB7A392C57283E1326:20260325:20260907",
       "documents": {
         "detail": {
@@ -18570,7 +18570,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:44.770Z",
+          "checkedAt": "2026-09-06T22:13:52.412Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -18810,8 +18810,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130000747:1": {
-      "itemFingerprint": "55d0960e89afa0f0e5ef",
-      "checkedAt": "2026-09-03T00:00:50.778Z",
+      "itemFingerprint": "b02b46b2290d7a83c7ed",
+      "checkedAt": "2026-09-06T22:13:57.925Z",
       "sourceVersion": "0536EA12AC1986DA3E1F3F6490157228:20260508:20260907",
       "documents": {
         "detail": {
@@ -18876,7 +18876,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:50.778Z",
+          "checkedAt": "2026-09-06T22:13:57.925Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -18908,8 +18908,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130000753:1": {
-      "itemFingerprint": "da8695fc3b7cc88f2fd2",
-      "checkedAt": "2026-09-03T00:00:52.087Z",
+      "itemFingerprint": "e8b822f4ea9ab74937a5",
+      "checkedAt": "2026-09-06T22:14:03.062Z",
       "sourceVersion": "1A7CB3E6AC19861E4BA6BB8F55CE7A2E:20260511:20260907",
       "documents": {
         "detail": {
@@ -18968,7 +18968,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:52.087Z",
+          "checkedAt": "2026-09-06T22:14:03.062Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -18987,8 +18987,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130000772:1": {
-      "itemFingerprint": "047cbb4a6e44776dac19",
-      "checkedAt": "2026-09-03T00:00:53.551Z",
+      "itemFingerprint": "24d8cd6b5c71c528ad9d",
+      "checkedAt": "2026-09-06T22:14:06.600Z",
       "sourceVersion": "0536EF03AC19861E4BA6BB8FEA1921C3:20260508:20260907",
       "documents": {
         "detail": {
@@ -19047,7 +19047,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:53.551Z",
+          "checkedAt": "2026-09-06T22:14:06.600Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -19243,8 +19243,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130004904:1": {
-      "itemFingerprint": "ff195b5e861eaebeeccb",
-      "checkedAt": "2026-09-03T00:00:58.470Z",
+      "itemFingerprint": "a45e9b6e423bd59f849a",
+      "checkedAt": "2026-09-06T22:14:09.557Z",
       "sourceVersion": "B5BAEAC5AC19861E3DFF2ABBF01FFF0A:20260803:20260907",
       "documents": {
         "detail": {
@@ -19303,7 +19303,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:00:58.470Z",
+          "checkedAt": "2026-09-06T22:14:09.557Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -20225,8 +20225,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005157:1": {
-      "itemFingerprint": "d754585b968e74a882c2",
-      "checkedAt": "2026-09-03T00:01:08.039Z",
+      "itemFingerprint": "515e900b17d5587ae9f9",
+      "checkedAt": "2026-09-06T22:14:13.254Z",
       "sourceVersion": "80D18C92AC1986DB1D6F3E9831E5B738:20260601:20260907",
       "documents": {
         "detail": {
@@ -20285,7 +20285,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:08.039Z",
+          "checkedAt": "2026-09-06T22:14:13.254Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -20304,8 +20304,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005255:1": {
-      "itemFingerprint": "a0bbb0727db74fa2f62c",
-      "checkedAt": "2026-09-03T00:01:09.641Z",
+      "itemFingerprint": "f1d61b1eba4c164f56e7",
+      "checkedAt": "2026-09-06T22:14:17.682Z",
       "sourceVersion": "84762728AC19861F546AF2EF0CEE9684:20260413:20260907",
       "documents": {
         "detail": {
@@ -20364,7 +20364,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:09.641Z",
+          "checkedAt": "2026-09-06T22:14:17.682Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -20383,8 +20383,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005289:1": {
-      "itemFingerprint": "a8f3bc4ab78e85a92069",
-      "checkedAt": "2026-09-03T00:01:10.991Z",
+      "itemFingerprint": "57a41eb37a90e866663d",
+      "checkedAt": "2026-09-06T22:14:23.000Z",
       "sourceVersion": "1ED98266AC1986DB1C58EA204864B2F3:20260513:20260907",
       "documents": {
         "detail": {
@@ -20445,7 +20445,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:10.991Z",
+          "checkedAt": "2026-09-06T22:14:23.000Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -20701,8 +20701,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005467:1": {
-      "itemFingerprint": "147d87c83886951a8ee5",
-      "checkedAt": "2026-09-03T00:01:17.324Z",
+      "itemFingerprint": "e32a276cd322b6a1ce7f",
+      "checkedAt": "2026-09-06T22:14:27.952Z",
       "sourceVersion": "1ED969B8AC1986DB1C58EA2023251942:20260513:20260907",
       "documents": {
         "detail": {
@@ -20767,7 +20767,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:17.324Z",
+          "checkedAt": "2026-09-06T22:14:27.952Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -20799,8 +20799,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005519:1": {
-      "itemFingerprint": "6a793f8a5f0cd4334906",
-      "checkedAt": "2026-09-03T00:01:18.610Z",
+      "itemFingerprint": "13e0950959e7ba6722b5",
+      "checkedAt": "2026-09-06T22:14:31.456Z",
       "sourceVersion": "6FE14B86AC19861E46F901CCE228FDF9:20260409:20260907",
       "documents": {
         "detail": {
@@ -20859,7 +20859,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:18.610Z",
+          "checkedAt": "2026-09-06T22:14:31.456Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -20957,8 +20957,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005600:1": {
-      "itemFingerprint": "c48403576c4131c14472",
-      "checkedAt": "2026-09-03T00:01:21.232Z",
+      "itemFingerprint": "1eab8f918689a721fc1c",
+      "checkedAt": "2026-09-06T22:14:33.754Z",
       "sourceVersion": "6FE13C82AC19861E46F901CC404CED7F:20260409:20260907",
       "documents": {
         "detail": {
@@ -21023,7 +21023,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:21.232Z",
+          "checkedAt": "2026-09-06T22:14:33.754Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -21055,8 +21055,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005635:1": {
-      "itemFingerprint": "7bf2cf34087746ab31f0",
-      "checkedAt": "2026-09-03T00:01:22.976Z",
+      "itemFingerprint": "a6651dbc333c6a5962ca",
+      "checkedAt": "2026-09-06T22:14:36.495Z",
       "sourceVersion": "6FE1339EAC1986DA75D5756045DD12B4:20260409:20260907",
       "documents": {
         "detail": {
@@ -21115,7 +21115,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:22.976Z",
+          "checkedAt": "2026-09-06T22:14:36.495Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -21213,8 +21213,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005652:1": {
-      "itemFingerprint": "068e1f420e353433f9e1",
-      "checkedAt": "2026-09-03T00:01:26.465Z",
+      "itemFingerprint": "68c65a0a99193a6a5a70",
+      "checkedAt": "2026-09-06T22:14:39.698Z",
       "sourceVersion": "0536FC49AC19861E4BA6BB8FF1623B50:20260508:20260907",
       "documents": {
         "detail": {
@@ -21279,7 +21279,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:26.465Z",
+          "checkedAt": "2026-09-06T22:14:39.698Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -21311,8 +21311,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005652:2": {
-      "itemFingerprint": "97ce45067e6baa0ad936",
-      "checkedAt": "2026-09-03T00:01:28.205Z",
+      "itemFingerprint": "722cfed0851711f57963",
+      "checkedAt": "2026-09-06T22:14:44.128Z",
       "sourceVersion": "053700A5AC1986DA3E1F3F6462E5D280:20260508:20260907",
       "documents": {
         "detail": {
@@ -21371,7 +21371,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:28.205Z",
+          "checkedAt": "2026-09-06T22:14:44.128Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -21567,8 +21567,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005675:1": {
-      "itemFingerprint": "1e7a143b36620157ebe7",
-      "checkedAt": "2026-09-03T00:01:35.194Z",
+      "itemFingerprint": "a68665dc0e4471c15118",
+      "checkedAt": "2026-09-06T22:14:49.880Z",
       "sourceVersion": "6FE14187AC1986DB27888F2363F5A4DE:20260409:20260907",
       "documents": {
         "detail": {
@@ -21627,7 +21627,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:35.194Z",
+          "checkedAt": "2026-09-06T22:14:49.880Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -21646,8 +21646,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005689:1": {
-      "itemFingerprint": "1a734bb8203bd2aa816f",
-      "checkedAt": "2026-09-03T00:01:37.143Z",
+      "itemFingerprint": "4a4678062928da056522",
+      "checkedAt": "2026-09-06T22:14:56.243Z",
       "sourceVersion": "9585602EAC19861E7635670B3E17E459:20260417:20260907",
       "documents": {
         "detail": {
@@ -21712,7 +21712,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:37.143Z",
+          "checkedAt": "2026-09-06T22:14:56.243Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -21842,8 +21842,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005703:1": {
-      "itemFingerprint": "1da857ace6c6f7e79749",
-      "checkedAt": "2026-09-03T00:01:39.895Z",
+      "itemFingerprint": "75150b9a7c579dc01149",
+      "checkedAt": "2026-09-06T22:14:59.751Z",
       "sourceVersion": "85DD4280AC1986DB1D6F3E98177908DE:20260602:20260907",
       "documents": {
         "detail": {
@@ -21904,7 +21904,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:39.895Z",
+          "checkedAt": "2026-09-06T22:14:59.751Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -21923,8 +21923,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005709:1": {
-      "itemFingerprint": "2979c7cca36bba801668",
-      "checkedAt": "2026-09-03T00:01:41.424Z",
+      "itemFingerprint": "8980c9ec6eb256016649",
+      "checkedAt": "2026-09-06T22:15:02.679Z",
       "sourceVersion": "74C82033AC19861F46C0B833C4B8B307:20260410:20260907",
       "documents": {
         "detail": {
@@ -21983,7 +21983,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:41.424Z",
+          "checkedAt": "2026-09-06T22:15:02.679Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -22002,8 +22002,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005746:1": {
-      "itemFingerprint": "c4c06219a02f3133ecb3",
-      "checkedAt": "2026-09-03T00:01:42.950Z",
+      "itemFingerprint": "708aa9b93e087dfecd4d",
+      "checkedAt": "2026-09-06T22:15:08.377Z",
       "sourceVersion": "89AE85ACAC1986DA6C470C3BCC0119F2:20260414:20260907",
       "documents": {
         "detail": {
@@ -22062,7 +22062,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:42.950Z",
+          "checkedAt": "2026-09-06T22:15:08.377Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -22081,8 +22081,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005775:1": {
-      "itemFingerprint": "f5f7daebce8fd5f4f274",
-      "checkedAt": "2026-09-03T00:01:44.961Z",
+      "itemFingerprint": "8e4e299a5da9c7c3b0a6",
+      "checkedAt": "2026-09-06T22:15:12.217Z",
       "sourceVersion": "EAD1D44BAC1986DB2B79299CAFAA402E:20260810:20260907",
       "documents": {
         "detail": {
@@ -22147,7 +22147,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:44.961Z",
+          "checkedAt": "2026-09-06T22:15:12.217Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -22179,8 +22179,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005820:1": {
-      "itemFingerprint": "719ab7da155bfe95739a",
-      "checkedAt": "2026-09-03T00:01:47.042Z",
+      "itemFingerprint": "eb32f5103ca2afaa218e",
+      "checkedAt": "2026-09-06T22:15:17.111Z",
       "sourceVersion": "F0907CD5AC1986DB1C58EA205F190034:20260504:20260907",
       "documents": {
         "detail": {
@@ -22239,7 +22239,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:47.042Z",
+          "checkedAt": "2026-09-06T22:15:17.111Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -22339,8 +22339,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130005829:1": {
-      "itemFingerprint": "18daab1f417cd073a858",
-      "checkedAt": "2026-09-03T00:01:50.335Z",
+      "itemFingerprint": "021dd2587e97f6dc0c0f",
+      "checkedAt": "2026-09-06T22:15:21.526Z",
       "sourceVersion": "BD2156F5AC1986DA3E1F3F64228E05E0:20260424:20260907",
       "documents": {
         "detail": {
@@ -22405,7 +22405,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:50.335Z",
+          "checkedAt": "2026-09-06T22:15:21.526Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -22805,8 +22805,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130006012:1": {
-      "itemFingerprint": "a7cd44bfada5a5afce5f",
-      "checkedAt": "2026-09-03T00:01:59.702Z",
+      "itemFingerprint": "bbe4455fe88353f3684a",
+      "checkedAt": "2026-09-06T22:15:24.856Z",
       "sourceVersion": "42C2A31BAC19861E33BCE37BDC849AE0:20260520:20260907",
       "documents": {
         "detail": {
@@ -22871,7 +22871,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:01:59.702Z",
+          "checkedAt": "2026-09-06T22:15:24.856Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -22903,8 +22903,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130006023:1": {
-      "itemFingerprint": "aefb60c27d1a7d6fcff9",
-      "checkedAt": "2026-09-03T00:02:02.320Z",
+      "itemFingerprint": "73401ce4761de27a7fad",
+      "checkedAt": "2026-09-06T22:15:28.254Z",
       "sourceVersion": "291684E4AC19861E153D49286F8D0F91:20260515:20260907",
       "documents": {
         "detail": {
@@ -22965,7 +22965,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:02:02.320Z",
+          "checkedAt": "2026-09-06T22:15:28.254Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -22984,8 +22984,8 @@
       "analysisPolicyVersion": 2
     },
     "B000412:20250130006065:1": {
-      "itemFingerprint": "0b2eb0d2dd1f809df745",
-      "checkedAt": "2026-09-03T00:02:05.146Z",
+      "itemFingerprint": "7c69b2bc7292ade24949",
+      "checkedAt": "2026-09-06T22:15:33.812Z",
       "sourceVersion": "42C2B40DAC1986DB4093BF532E352DA0:20260520:20260907",
       "documents": {
         "detail": {
@@ -23046,7 +23046,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-09-03T00:02:05.146Z",
+          "checkedAt": "2026-09-06T22:15:33.812Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -23066,7 +23066,7 @@
       "apartmentNameFingerprint": "ab2cb442df4c23fe9587",
       "apartmentName": "아남하이츠4",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:16:03.875Z"
     },
     "B000414:20240130004620:3": {
       "itemFingerprint": "209420650b692c9eab6e",
@@ -24727,7 +24727,7 @@
       "apartmentNameFingerprint": "a37f24fd4c5aea141acb",
       "apartmentName": "청탑그린 빌라",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:16:03.875Z"
     },
     "B000414:20250130004290:2": {
       "itemFingerprint": "74a1c985584eefaea89e",
@@ -24810,7 +24810,7 @@
       "apartmentNameFingerprint": "71ec7c6f7c6dbf99d497",
       "apartmentName": "청탑그린 빌라",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:16:03.875Z"
     },
     "B000414:20250130101311:1": {
       "itemFingerprint": "433e017febb612973ce3",
@@ -28773,7 +28773,7 @@
     },
     "B000210:20240130124852:1": {
       "itemFingerprint": "bf8749846589b7d5704e",
-      "checkedAt": "2026-09-05T22:08:47.482Z",
+      "checkedAt": "2026-09-06T22:09:48.554Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28833,7 +28833,7 @@
     },
     "B000210:20250130003860:1": {
       "itemFingerprint": "f0d662a45197363b7708",
-      "checkedAt": "2026-09-05T22:08:49.690Z",
+      "checkedAt": "2026-09-06T22:09:49.797Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28893,7 +28893,7 @@
     },
     "B000210:20250130004023:1": {
       "itemFingerprint": "1df3ef648c147d186081",
-      "checkedAt": "2026-09-05T22:08:50.925Z",
+      "checkedAt": "2026-09-06T22:09:51.027Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -28953,7 +28953,7 @@
     },
     "B000210:20250130104727:1": {
       "itemFingerprint": "5d548281706c4aa75cb7",
-      "checkedAt": "2026-09-05T22:08:52.161Z",
+      "checkedAt": "2026-09-06T22:09:52.258Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29013,15 +29013,15 @@
     },
     "B000211:20240130059814:1": {
       "itemFingerprint": "6b55b9ef184ce7c72fed",
-      "checkedAt": "2026-09-05T22:08:53.408Z",
-      "sourceVersion": null,
+      "checkedAt": "2026-09-06T22:09:53.647Z",
+      "sourceVersion": "C698CA2DAC19061F2A3F7E8838EA4909:20260803:20260921",
       "documents": {
         "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+          "available": true,
+          "error": null
         },
         "statusReport": {
-          "available": false,
+          "available": true,
           "error": null
         },
         "saleSpecification": {
@@ -29035,57 +29035,95 @@
         }
       },
       "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
         "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2009-05-20 확인",
+          "현황조사 임차인·점유관계인 1명 확인",
+          "임차인 전입일 2009-06-30 확인",
+          "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+          "매각 후 존속권리 관련 기재 있음"
         ],
         "assumedAmountLabel": "자동 산정 불가",
         "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
+          "status": "reviewed",
+          "riskLevel": "medium",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2009-05-20",
           "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
+          "juniorTenant": "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+          "survivingRights": "해당사항없음",
           "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "최선순위 설정일자 2009-05-20 확인",
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2009-06-30 확인",
+            "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+            "매각 후 존속권리 관련 기재 있음"
           ],
-          "confidence": "UNAVAILABLE",
+          "confidence": "LOW",
           "assumedAmountLabel": "자동 산정 불가"
         },
         "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
+          "occupant": "소유자·임차인 점유",
+          "tenantOpposability": "전입일 비교 결과 추가 확인 필요",
           "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "현황조사 임차인·점유관계인 1명 확인",
+            "임차인 전입일 2009-06-30 확인",
+            "최선순위 설정일자 이후 또는 같은 날 전입 기재"
           ],
-          "confidence": "UNAVAILABLE"
+          "confidence": "LOW"
         },
-        "auctionAnalysisSource": null
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-06T22:09:53.647Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2009.5.20.근저당",
+          "benchmarkDate": "2009-05-20",
+          "nonExtinguishedRights": "해당사항없음",
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자·임차인 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": [
+            {
+              "role": "임차인 또는 점유관계인",
+              "occupancyPart": "302호",
+              "use": null,
+              "occupancyPeriod": null,
+              "deposit": null,
+              "monthlyRent": null,
+              "moveInDate": "2009-06-30",
+              "fixedDate": null,
+              "distributionRequest": "확인 필요",
+              "comparison": "AFTER"
+            }
+          ]
+        }
       },
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "51ba03e6a45ca3646459",
       "apartmentName": "현대아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:15:59.922Z"
     },
     "B000211:20250130052237:1": {
       "itemFingerprint": "fcadbf3901e707472c9d",
-      "checkedAt": "2026-09-05T22:08:54.650Z",
-      "sourceVersion": null,
+      "checkedAt": "2026-09-06T22:10:00.183Z",
+      "sourceVersion": "FECDA716AC19061E3049384FF41657B3:20260814:20260921",
       "documents": {
         "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+          "available": true,
+          "error": null
         },
         "statusReport": {
-          "available": false,
+          "available": true,
           "error": null
         },
         "saleSpecification": {
@@ -29099,53 +29137,72 @@
         }
       },
       "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
         "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2025-02-24 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
         "assumedAmountLabel": "자동 산정 불가",
         "rightsAnalysis": {
-          "status": "unavailable",
+          "status": "reviewed",
           "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2025-02-24",
           "seniorTenant": null,
           "juniorTenant": null,
-          "survivingRights": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
           "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "최선순위 설정일자 2025-02-24 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE",
+          "confidence": "LOW",
           "assumedAmountLabel": "자동 산정 불가"
         },
         "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
           "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "현황조사 임차인 명세에 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE"
+          "confidence": "LOW"
         },
-        "auctionAnalysisSource": null
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-06T22:10:00.183Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2025.2.24.근저당",
+          "benchmarkDate": "2025-02-24",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": []
+        }
       },
       "analysisPolicyVersion": 2
     },
     "B000211:20250130052311:1": {
       "itemFingerprint": "9ff8e13abdbe09677b22",
-      "checkedAt": "2026-09-05T22:08:55.895Z",
-      "sourceVersion": null,
+      "checkedAt": "2026-09-06T22:10:05.392Z",
+      "sourceVersion": "F35E2183AC1906E625B55F08778756A8:20260812:20260921",
       "documents": {
         "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+          "available": true,
+          "error": null
         },
         "statusReport": {
-          "available": false,
+          "available": true,
           "error": null
         },
         "saleSpecification": {
@@ -29159,45 +29216,66 @@
         }
       },
       "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
         "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2025-10-21 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "매각 후 존속권리 관련 기재 있음",
+          "특별매각조건 또는 물건 비고 기재 있음"
         ],
         "assumedAmountLabel": "자동 산정 불가",
         "rightsAnalysis": {
-          "status": "unavailable",
+          "status": "reviewed",
           "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2025-10-21",
           "seniorTenant": null,
           "juniorTenant": null,
-          "survivingRights": null,
+          "survivingRights": "해당사항없음",
           "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "최선순위 설정일자 2025-10-21 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "매각 후 존속권리 관련 기재 있음",
+            "특별매각조건 또는 물건 비고 기재 있음"
           ],
-          "confidence": "UNAVAILABLE",
+          "confidence": "LOW",
           "assumedAmountLabel": "자동 산정 불가"
         },
         "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
           "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "현황조사 임차인 명세에 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE"
+          "confidence": "LOW"
         },
-        "auctionAnalysisSource": null
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-06T22:10:05.392Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2025.10.21.근저당",
+          "benchmarkDate": "2025-10-21",
+          "nonExtinguishedRights": "해당사항없음",
+          "specialSaleConditions": "지분매각, 공유자 우선매수신고 1회 제한",
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": []
+        }
       },
       "analysisPolicyVersion": 2
     },
     "B000412:20240130112419:1": {
       "itemFingerprint": "1a65433506811c65e954",
-      "checkedAt": "2026-09-05T22:08:57.135Z",
+      "checkedAt": "2026-09-06T22:15:38.315Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29257,15 +29335,15 @@
     },
     "B000412:20250130000810:1": {
       "itemFingerprint": "0bc1d2507ea9842f04e3",
-      "checkedAt": "2026-09-05T22:08:58.439Z",
-      "sourceVersion": null,
+      "checkedAt": "2026-09-06T22:15:39.564Z",
+      "sourceVersion": "A0F6647DAC19861E3DFF2ABB977EC09D:20260722:20260921",
       "documents": {
         "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+          "available": true,
+          "error": null
         },
         "statusReport": {
-          "available": false,
+          "available": true,
           "error": null
         },
         "saleSpecification": {
@@ -29279,49 +29357,68 @@
         }
       },
       "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
+        "analysisStatus": "AVAILABLE",
+        "analysisConfidence": "MEDIUM",
         "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2022-09-23 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
-        "assumedAmountLabel": "자동 산정 불가",
+        "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
         "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
+          "status": "reviewed",
+          "riskLevel": "low",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2022-09-23",
           "seniorTenant": null,
           "juniorTenant": null,
-          "survivingRights": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
           "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "현재 확보한 법원 자료에서 주요 인수 위험요소가 발견되지 않음",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "최선순위 설정일자 2022-09-23 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
+          "confidence": "MEDIUM",
+          "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음"
         },
         "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
+          "evictionRisk": "low",
+          "notes": "현황조사서 기반 1차 참고정보입니다.",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "현황조사 임차인 명세에 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE"
+          "confidence": "MEDIUM"
         },
-        "auctionAnalysisSource": null
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-06T22:15:39.564Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2022. 9. 23. 근저당권",
+          "benchmarkDate": "2022-09-23",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인됨",
+          "tenants": []
+        }
       },
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "f7bb4c9381722512befb",
       "apartmentName": "삼화아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-09-05T22:09:09.779Z"
+      "apartmentNameCheckedAt": "2026-09-06T22:16:03.875Z"
     },
     "B000412:20250130005818:1": {
       "itemFingerprint": "c4a06a9fa846273746f4",
-      "checkedAt": "2026-09-05T22:08:59.674Z",
+      "checkedAt": "2026-09-06T22:15:43.151Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29381,7 +29478,7 @@
     },
     "B000412:20250130005828:1": {
       "itemFingerprint": "a8c8916a4365b284dbd3",
-      "checkedAt": "2026-09-05T22:09:00.909Z",
+      "checkedAt": "2026-09-06T22:15:44.432Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29441,7 +29538,7 @@
     },
     "B000412:20250130005861:1": {
       "itemFingerprint": "0f22b6e80492303ebfb5",
-      "checkedAt": "2026-09-05T22:09:02.144Z",
+      "checkedAt": "2026-09-06T22:15:45.695Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29501,7 +29598,7 @@
     },
     "B000412:20250130005873:1": {
       "itemFingerprint": "84376101ac1540640509",
-      "checkedAt": "2026-09-05T22:09:03.392Z",
+      "checkedAt": "2026-09-06T22:15:46.925Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29561,7 +29658,7 @@
     },
     "B000412:20250130005932:1": {
       "itemFingerprint": "220bc0bcda4203be3f62",
-      "checkedAt": "2026-09-05T22:09:04.627Z",
+      "checkedAt": "2026-09-06T22:15:48.167Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -29621,15 +29718,15 @@
     },
     "B000412:20250130006014:1": {
       "itemFingerprint": "e1e3781d0c17ab755738",
-      "checkedAt": "2026-09-05T22:09:05.860Z",
-      "sourceVersion": null,
+      "checkedAt": "2026-09-06T22:15:49.726Z",
+      "sourceVersion": "A0F65BE4AC19861E3DFF2ABBEA3B5D0D:20260722:20260921",
       "documents": {
         "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+          "available": true,
+          "error": null
         },
         "statusReport": {
-          "available": false,
+          "available": true,
           "error": null
         },
         "saleSpecification": {
@@ -29643,53 +29740,72 @@
         }
       },
       "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
         "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2019-10-30 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
         "assumedAmountLabel": "자동 산정 불가",
         "rightsAnalysis": {
-          "status": "unavailable",
+          "status": "reviewed",
           "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2019-10-30",
           "seniorTenant": null,
           "juniorTenant": null,
-          "survivingRights": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
           "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "최선순위 설정일자 2019-10-30 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE",
+          "confidence": "LOW",
           "assumedAmountLabel": "자동 산정 불가"
         },
         "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
           "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "현황조사 임차인 명세에 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE"
+          "confidence": "LOW"
         },
-        "auctionAnalysisSource": null
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-06T22:15:49.726Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2019. 10. 30. 근저당권",
+          "benchmarkDate": "2019-10-30",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": []
+        }
       },
       "analysisPolicyVersion": 2
     },
     "B000412:20250130006066:1": {
       "itemFingerprint": "29a585170cef89c3d158",
-      "checkedAt": "2026-09-05T22:09:07.105Z",
-      "sourceVersion": null,
+      "checkedAt": "2026-09-06T22:15:53.057Z",
+      "sourceVersion": "F3618DCBAC19861E48B5C18BAAEACB26:20260724:20260921",
       "documents": {
         "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+          "available": true,
+          "error": null
         },
         "statusReport": {
-          "available": false,
+          "available": true,
           "error": null
         },
         "saleSpecification": {
@@ -29703,53 +29819,72 @@
         }
       },
       "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
         "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2022-04-29 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
         "assumedAmountLabel": "자동 산정 불가",
         "rightsAnalysis": {
-          "status": "unavailable",
+          "status": "reviewed",
           "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2022-04-29",
           "seniorTenant": null,
           "juniorTenant": null,
-          "survivingRights": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
           "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "최선순위 설정일자 2022-04-29 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE",
+          "confidence": "LOW",
           "assumedAmountLabel": "자동 산정 불가"
         },
         "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
           "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "현황조사 임차인 명세에 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE"
+          "confidence": "LOW"
         },
-        "auctionAnalysisSource": null
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-06T22:15:53.057Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2022. 4. 29. 근저당권",
+          "benchmarkDate": "2022-04-29",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": []
+        }
       },
       "analysisPolicyVersion": 2
     },
     "B000412:20250130006112:1": {
       "itemFingerprint": "4d7477cbbfc2cee07e0e",
-      "checkedAt": "2026-09-05T22:09:08.339Z",
-      "sourceVersion": null,
+      "checkedAt": "2026-09-06T22:15:56.721Z",
+      "sourceVersion": "F361B41AAC1986DA324B95C0A20EABDC:20260728:20260921",
       "documents": {
         "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+          "available": true,
+          "error": null
         },
         "statusReport": {
-          "available": false,
+          "available": true,
           "error": null
         },
         "saleSpecification": {
@@ -29763,39 +29898,58 @@
         }
       },
       "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
+        "analysisStatus": "PARTIAL",
+        "analysisConfidence": "LOW",
         "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2017-07-28 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
         "assumedAmountLabel": "자동 산정 불가",
         "rightsAnalysis": {
-          "status": "unavailable",
+          "status": "reviewed",
           "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2017-07-28",
           "seniorTenant": null,
           "juniorTenant": null,
-          "survivingRights": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
           "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "최선순위 설정일자 2017-07-28 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE",
+          "confidence": "LOW",
           "assumedAmountLabel": "자동 산정 불가"
         },
         "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
           "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
           "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+            "현황조사 임차인 명세에 별도 기재 없음"
           ],
-          "confidence": "UNAVAILABLE"
+          "confidence": "LOW"
         },
-        "auctionAnalysisSource": null
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-09-06T22:15:56.721Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2017.07.28. 근저당권",
+          "benchmarkDate": "2017-07-28",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인 필요",
+          "tenants": []
+        }
       },
       "analysisPolicyVersion": 2
     }

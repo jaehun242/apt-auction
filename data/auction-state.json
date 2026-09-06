@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "collectionPolicyVersion": 2,
-  "lastSuccessfulCollectedAt": "2026-09-05T22:08:24.783Z",
+  "lastSuccessfulCollectedAt": "2026-09-06T22:08:29.569Z",
   "items": {
     "B000210:20080130025092:1": {
       "id": "B000210:20080130025092:1",
@@ -2246,7 +2246,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2486,7 +2486,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2621,7 +2621,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -2897,7 +2897,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3013,7 +3013,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3295,7 +3295,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3543,7 +3543,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3659,7 +3659,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -3775,7 +3775,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4019,7 +4019,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4154,7 +4154,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4289,7 +4289,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4405,7 +4405,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4521,7 +4521,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4637,7 +4637,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4753,7 +4753,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4871,7 +4871,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -4987,7 +4987,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5122,7 +5122,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5257,18 +5257,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -5334,7 +5340,7 @@
       ],
       "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:06.840Z",
+        "checkedAt": "2026-09-06T22:08:50.887Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -5375,7 +5381,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -5491,18 +5497,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -5566,7 +5578,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:09.648Z",
+        "checkedAt": "2026-09-06T22:08:52.584Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -5607,18 +5619,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -5688,7 +5706,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:10.825Z",
+        "checkedAt": "2026-09-06T22:08:55.033Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -6005,18 +6023,24 @@
       "failedCount": 4,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -6080,7 +6104,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:16.786Z",
+        "checkedAt": "2026-09-06T22:09:01.218Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -6121,7 +6145,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6268,18 +6292,24 @@
       "failedCount": 3,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -6343,7 +6373,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:20.261Z",
+        "checkedAt": "2026-09-06T22:09:06.276Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -6384,18 +6414,24 @@
       "failedCount": 3,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -6459,7 +6495,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:21.785Z",
+        "checkedAt": "2026-09-06T22:09:11.610Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -6500,18 +6536,24 @@
       "failedCount": 2,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -6577,7 +6619,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:24.095Z",
+        "checkedAt": "2026-09-06T22:09:15.242Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -6618,7 +6660,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -6753,18 +6795,24 @@
       "failedCount": 2,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -6834,7 +6882,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:27.097Z",
+        "checkedAt": "2026-09-06T22:09:19.218Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -6888,18 +6936,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -6965,7 +7019,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:28.832Z",
+        "checkedAt": "2026-09-06T22:09:24.079Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -7006,7 +7060,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7122,7 +7176,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7240,18 +7294,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -7317,7 +7377,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:33.527Z",
+        "checkedAt": "2026-09-06T22:09:29.000Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -7358,18 +7418,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -7435,7 +7501,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:35.657Z",
+        "checkedAt": "2026-09-06T22:09:35.090Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -7476,18 +7542,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -7551,7 +7623,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:37.603Z",
+        "checkedAt": "2026-09-06T22:09:40.069Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -7592,18 +7664,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -7673,7 +7751,7 @@
       ],
       "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:38.946Z",
+        "checkedAt": "2026-09-06T22:09:43.324Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -7739,7 +7817,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -7874,18 +7952,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -7951,7 +8035,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:56:42.418Z",
+        "checkedAt": "2026-09-06T22:09:45.931Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -7992,7 +8076,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8110,7 +8194,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8226,7 +8310,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8470,7 +8554,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8588,7 +8672,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8706,7 +8790,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8824,7 +8908,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -8940,7 +9024,7 @@
       "failedCount": 9,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9075,7 +9159,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9193,7 +9277,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9311,7 +9395,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9553,7 +9637,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -9669,7 +9753,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10100,7 +10184,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10235,7 +10319,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10370,7 +10454,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -10716,7 +10800,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-11",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11079,7 +11163,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11195,7 +11279,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11443,7 +11527,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11578,7 +11662,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11694,7 +11778,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11812,7 +11896,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -11930,7 +12014,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12065,7 +12149,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12200,7 +12284,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12316,7 +12400,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12432,7 +12516,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12550,7 +12634,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12666,7 +12750,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -12912,7 +12996,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13030,7 +13114,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13270,7 +13354,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13386,7 +13470,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13521,7 +13605,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13656,7 +13740,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13772,7 +13856,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -13888,7 +13972,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14004,7 +14088,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14139,7 +14223,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14257,7 +14341,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14375,7 +14459,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14491,7 +14575,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14626,7 +14710,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14742,7 +14826,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14858,7 +14942,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -14993,7 +15077,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15111,7 +15195,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15227,7 +15311,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15343,7 +15427,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15461,7 +15545,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15577,7 +15661,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15695,7 +15779,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15811,7 +15895,7 @@
       "failedCount": 10,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -15929,7 +16013,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16064,7 +16148,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16182,7 +16266,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16298,7 +16382,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16433,7 +16517,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16551,7 +16635,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -16878,7 +16962,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17081,7 +17165,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17303,7 +17387,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17438,7 +17522,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17573,7 +17657,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17691,18 +17775,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -17766,7 +17856,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:58:49.547Z",
+        "checkedAt": "2026-09-06T22:10:10.742Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -17807,7 +17897,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -17923,7 +18013,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18039,7 +18129,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18155,18 +18245,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -18232,7 +18328,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:58:55.100Z",
+        "checkedAt": "2026-09-06T22:10:13.795Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -18273,7 +18369,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18389,18 +18485,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -18466,7 +18568,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:58:57.752Z",
+        "checkedAt": "2026-09-06T22:10:16.394Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -18507,7 +18609,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18642,7 +18744,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -18758,18 +18860,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -18839,7 +18947,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:02.357Z",
+        "checkedAt": "2026-09-06T22:10:19.765Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -18893,7 +19001,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19011,7 +19119,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19214,7 +19322,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19349,7 +19457,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19465,7 +19573,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19600,7 +19708,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-10",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19803,7 +19911,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -19919,18 +20027,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -19996,7 +20110,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:14.048Z",
+        "checkedAt": "2026-09-06T22:10:25.215Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -20037,7 +20151,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20240,7 +20354,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20356,18 +20470,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -20431,7 +20551,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:18.071Z",
+        "checkedAt": "2026-09-06T22:10:30.475Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -20472,18 +20592,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -20549,7 +20675,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:19.420Z",
+        "checkedAt": "2026-09-06T22:10:35.476Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -20590,7 +20716,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20725,7 +20851,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -20860,7 +20986,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21019,7 +21145,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21178,7 +21304,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -21337,18 +21463,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -21412,7 +21544,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:28.319Z",
+        "checkedAt": "2026-09-06T22:10:38.815Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -21453,18 +21585,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -21528,7 +21666,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:29.592Z",
+        "checkedAt": "2026-09-06T22:10:41.713Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -21569,18 +21707,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -21644,7 +21788,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:31.592Z",
+        "checkedAt": "2026-09-06T22:10:46.270Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -21685,18 +21829,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -21760,7 +21910,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:32.754Z",
+        "checkedAt": "2026-09-06T22:10:48.557Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -21801,18 +21951,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -21876,7 +22032,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:33.990Z",
+        "checkedAt": "2026-09-06T22:10:53.079Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -21917,18 +22073,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -21992,7 +22154,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:35.297Z",
+        "checkedAt": "2026-09-06T22:10:58.826Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22033,18 +22195,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22108,7 +22276,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:37.243Z",
+        "checkedAt": "2026-09-06T22:11:02.545Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22149,18 +22317,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22224,7 +22398,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:38.550Z",
+        "checkedAt": "2026-09-06T22:11:07.247Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22265,18 +22439,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22340,7 +22520,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:39.797Z",
+        "checkedAt": "2026-09-06T22:11:10.446Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22381,18 +22561,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22456,7 +22642,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:41.149Z",
+        "checkedAt": "2026-09-06T22:11:15.902Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22497,18 +22683,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22572,7 +22764,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:43.450Z",
+        "checkedAt": "2026-09-06T22:11:23.160Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22613,18 +22805,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22688,7 +22886,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:44.768Z",
+        "checkedAt": "2026-09-06T22:11:28.750Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22729,18 +22927,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22806,7 +23010,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:46.079Z",
+        "checkedAt": "2026-09-06T22:11:35.018Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22847,18 +23051,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -22924,7 +23134,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:47.779Z",
+        "checkedAt": "2026-09-06T22:11:38.600Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -22965,18 +23175,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23042,7 +23258,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:49.763Z",
+        "checkedAt": "2026-09-06T22:11:44.381Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23083,18 +23299,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23160,7 +23382,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:51.101Z",
+        "checkedAt": "2026-09-06T22:11:50.122Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23201,18 +23423,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23278,7 +23506,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:52.406Z",
+        "checkedAt": "2026-09-06T22:11:54.886Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23319,18 +23547,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23396,7 +23630,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:54.179Z",
+        "checkedAt": "2026-09-06T22:12:00.222Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23437,18 +23671,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23514,7 +23754,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:55.542Z",
+        "checkedAt": "2026-09-06T22:12:04.677Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23555,18 +23795,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23630,7 +23876,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:56.882Z",
+        "checkedAt": "2026-09-06T22:12:10.020Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23671,18 +23917,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23746,7 +23998,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:58.156Z",
+        "checkedAt": "2026-09-06T22:12:15.136Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23787,18 +24039,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23862,7 +24120,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-02T23:59:59.557Z",
+        "checkedAt": "2026-09-06T22:12:18.639Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -23903,18 +24161,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -23984,7 +24248,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:01.031Z",
+        "checkedAt": "2026-09-06T22:12:24.386Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -24038,18 +24302,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -24113,7 +24383,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:02.558Z",
+        "checkedAt": "2026-09-06T22:12:29.215Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -24154,18 +24424,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -24235,7 +24511,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:04.745Z",
+        "checkedAt": "2026-09-06T22:12:34.555Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -24289,18 +24565,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -24364,7 +24646,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:06.523Z",
+        "checkedAt": "2026-09-06T22:12:39.938Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -24405,18 +24687,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -24480,7 +24768,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:08.023Z",
+        "checkedAt": "2026-09-06T22:12:44.813Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -24521,7 +24809,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -24656,18 +24944,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -24733,7 +25027,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:11.814Z",
+        "checkedAt": "2026-09-06T22:12:49.145Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -24774,18 +25068,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -24851,7 +25151,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:13.233Z",
+        "checkedAt": "2026-09-06T22:12:54.280Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -24892,7 +25192,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-09",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -25010,18 +25310,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25087,7 +25393,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:16.153Z",
+        "checkedAt": "2026-09-06T22:12:57.612Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25128,18 +25434,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25205,7 +25517,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:17.677Z",
+        "checkedAt": "2026-09-06T22:13:00.982Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25246,18 +25558,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25327,7 +25645,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:19.258Z",
+        "checkedAt": "2026-09-06T22:13:06.012Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25381,18 +25699,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25462,7 +25786,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:20.631Z",
+        "checkedAt": "2026-09-06T22:13:11.050Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25516,18 +25840,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25593,7 +25923,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:22.184Z",
+        "checkedAt": "2026-09-06T22:13:16.630Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25634,18 +25964,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25711,7 +26047,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:23.552Z",
+        "checkedAt": "2026-09-06T22:13:21.656Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25752,18 +26088,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25829,7 +26171,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:24.943Z",
+        "checkedAt": "2026-09-06T22:13:26.115Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25870,18 +26212,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -25947,7 +26295,7 @@
       ],
       "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:26.913Z",
+        "checkedAt": "2026-09-06T22:13:31.672Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -25988,18 +26336,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -26065,7 +26419,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:28.438Z",
+        "checkedAt": "2026-09-06T22:13:36.194Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -26106,7 +26460,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -26224,18 +26578,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -26299,7 +26659,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:31.372Z",
+        "checkedAt": "2026-09-06T22:13:41.132Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -26340,18 +26700,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -26415,7 +26781,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:34.001Z",
+        "checkedAt": "2026-09-06T22:13:46.742Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -26456,7 +26822,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -26572,7 +26938,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -26688,7 +27054,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -26930,18 +27296,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -27005,7 +27377,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:41.471Z",
+        "checkedAt": "2026-09-06T22:13:47.981Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -27046,7 +27418,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -27162,18 +27534,24 @@
       "failedCount": 2,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -27243,7 +27621,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:44.770Z",
+        "checkedAt": "2026-09-06T22:13:52.412Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -27309,7 +27687,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -27444,7 +27822,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -27579,18 +27957,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -27660,7 +28044,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:50.778Z",
+        "checkedAt": "2026-09-06T22:13:57.925Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -27714,18 +28098,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -27789,7 +28179,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:52.087Z",
+        "checkedAt": "2026-09-06T22:14:03.062Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -27830,18 +28220,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -27905,7 +28301,7 @@
       ],
       "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:53.551Z",
+        "checkedAt": "2026-09-06T22:14:06.600Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -27946,7 +28342,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -28203,18 +28599,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -28278,7 +28680,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:00:58.470Z",
+        "checkedAt": "2026-09-06T22:14:09.557Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -28319,7 +28721,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -28435,7 +28837,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -28678,7 +29080,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -28921,7 +29323,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -29164,7 +29566,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -29407,18 +29809,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -29482,7 +29890,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:08.039Z",
+        "checkedAt": "2026-09-06T22:14:13.254Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -29523,18 +29931,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -29598,7 +30012,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:09.641Z",
+        "checkedAt": "2026-09-06T22:14:17.682Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -29639,18 +30053,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -29716,7 +30136,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:10.991Z",
+        "checkedAt": "2026-09-06T22:14:23.000Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -29757,7 +30177,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -29873,7 +30293,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -29989,7 +30409,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -30105,18 +30525,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -30186,7 +30612,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:17.324Z",
+        "checkedAt": "2026-09-06T22:14:27.952Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -30240,18 +30666,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -30315,7 +30747,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:18.610Z",
+        "checkedAt": "2026-09-06T22:14:31.456Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -30356,7 +30788,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -30472,18 +30904,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -30553,7 +30991,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:21.232Z",
+        "checkedAt": "2026-09-06T22:14:33.754Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -30607,18 +31045,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -30682,7 +31126,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:22.976Z",
+        "checkedAt": "2026-09-06T22:14:36.495Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -30845,18 +31289,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -30926,7 +31376,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:26.465Z",
+        "checkedAt": "2026-09-06T22:14:39.698Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -30980,18 +31430,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -31055,7 +31511,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:28.205Z",
+        "checkedAt": "2026-09-06T22:14:44.128Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -31096,7 +31552,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -31231,7 +31687,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -31347,18 +31803,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -31422,7 +31884,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:35.194Z",
+        "checkedAt": "2026-09-06T22:14:49.880Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -31463,18 +31925,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -31544,7 +32012,7 @@
       ],
       "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:37.143Z",
+        "checkedAt": "2026-09-06T22:14:56.243Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -31598,7 +32066,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -31733,18 +32201,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -31810,7 +32284,7 @@
       ],
       "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:39.895Z",
+        "checkedAt": "2026-09-06T22:14:59.751Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -31938,18 +32412,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -32013,7 +32493,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:41.424Z",
+        "checkedAt": "2026-09-06T22:15:02.679Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -32054,18 +32534,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -32129,7 +32615,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:42.950Z",
+        "checkedAt": "2026-09-06T22:15:08.377Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -32170,18 +32656,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -32251,7 +32743,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:44.961Z",
+        "checkedAt": "2026-09-06T22:15:12.217Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -32305,18 +32797,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -32380,7 +32878,7 @@
       ],
       "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:47.042Z",
+        "checkedAt": "2026-09-06T22:15:17.111Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -32421,7 +32919,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -32539,18 +33037,24 @@
       "failedCount": 1,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -32620,7 +33124,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:50.335Z",
+        "checkedAt": "2026-09-06T22:15:21.526Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -32674,7 +33178,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -32821,7 +33325,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -32939,7 +33443,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -33196,18 +33700,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -33277,7 +33787,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:01:59.702Z",
+        "checkedAt": "2026-09-06T22:15:24.856Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -33331,18 +33841,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -33408,7 +33924,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:02:02.320Z",
+        "checkedAt": "2026-09-06T22:15:28.254Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -33449,18 +33965,24 @@
       "failedCount": 0,
       "auctionDate": "2026-09-07",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
-      "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
+      "statusUpdatedAt": "2026-09-06T22:08:29.569Z",
       "history": [
         {
           "date": "2026-09-02T04:52:43.313Z",
           "type": "FIRST_SEEN",
           "previousValue": null,
           "newValue": "처음 수집"
+        },
+        {
+          "date": "2026-09-06T22:08:29.569Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "UPCOMING",
+          "newValue": "ACTIVE"
         }
       ],
-      "normalizedStatus": "UPCOMING",
+      "normalizedStatus": "ACTIVE",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -33526,7 +34048,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-03T00:02:05.146Z",
+        "checkedAt": "2026-09-06T22:15:33.812Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -33567,7 +34089,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -33858,7 +34380,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -34149,7 +34671,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -34440,7 +34962,7 @@
       "failedCount": 7,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -35519,7 +36041,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -35654,7 +36176,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -36158,7 +36680,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -36274,7 +36796,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -36390,7 +36912,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -36525,7 +37047,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -36660,7 +37182,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -36795,7 +37317,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -36930,7 +37452,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -37325,7 +37847,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -37443,7 +37965,7 @@
       "failedCount": 4,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -37578,7 +38100,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -37696,7 +38218,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T04:52:43.313Z",
       "history": [
@@ -37812,7 +38334,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -37909,7 +38431,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38006,7 +38528,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38103,7 +38625,7 @@
       "failedCount": 6,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38219,7 +38741,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38354,7 +38876,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38472,7 +38994,7 @@
       "failedCount": 3,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38588,7 +39110,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38759,7 +39281,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38877,7 +39399,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -38974,7 +39496,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -39109,7 +39631,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -39244,7 +39766,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -39360,7 +39882,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -39600,7 +40122,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -39716,7 +40238,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -39832,7 +40354,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -39967,7 +40489,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40102,7 +40624,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40218,7 +40740,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40239,30 +40761,32 @@
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {
-        "status": "unavailable",
-        "riskLevel": "unknown",
-        "benchmarkRight": null,
-        "benchmarkRightDate": null,
+        "status": "reviewed",
+        "riskLevel": "low",
+        "benchmarkRight": "최선순위 설정일자 참고정보",
+        "benchmarkRightDate": "2022-09-23",
         "seniorTenant": null,
         "juniorTenant": null,
-        "survivingRights": null,
+        "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
         "assumedAmount": null,
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "현재 확보한 법원 자료에서 주요 인수 위험요소가 발견되지 않음",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2022-09-23 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE",
-        "assumedAmountLabel": "자동 산정 불가"
+        "confidence": "MEDIUM",
+        "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음"
       },
       "occupancyAnalysis": {
-        "occupant": null,
-        "tenantOpposability": null,
-        "evictionRisk": "unknown",
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "occupant": "소유자 점유",
+        "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
+        "evictionRisk": "low",
+        "notes": "현황조사서 기반 1차 참고정보입니다.",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "현황조사 임차인 명세에 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE"
+        "confidence": "MEDIUM"
       },
       "additionalCosts": {
         "managementFeeStatus": "unknown",
@@ -40275,20 +40799,37 @@
         "appraisalReportUrl": null,
         "courtUrl": null
       },
-      "documentsAvailability": "UNAVAILABLE",
+      "documentsAvailability": "SESSION_ONLY",
       "isBootstrapItem": true,
       "isSample": false,
       "source": {
         "name": "대한민국 법원경매정보",
         "url": "https://www.courtauction.go.kr/pgj/index.on"
       },
-      "analysisStatus": "UNAVAILABLE",
-      "analysisConfidence": "UNAVAILABLE",
+      "analysisStatus": "AVAILABLE",
+      "analysisConfidence": "MEDIUM",
       "analysisReasons": [
-        "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        "최선순위 설정일자 2022-09-23 확인",
+        "현황조사 임차인 명세에 별도 기재 없음",
+        "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
       ],
-      "assumedAmountLabel": "자동 산정 불가",
-      "auctionAnalysisSource": null,
+      "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
+      "auctionAnalysisSource": {
+        "checkedAt": "2026-09-06T22:15:39.564Z",
+        "sources": {
+          "detail": "AVAILABLE",
+          "statusReport": "AVAILABLE",
+          "saleSpecification": "UNAVAILABLE",
+          "appraisalReport": "AVAILABLE"
+        },
+        "benchmarkReference": "2022. 9. 23. 근저당권",
+        "benchmarkDate": "2022-09-23",
+        "nonExtinguishedRights": null,
+        "specialSaleConditions": null,
+        "occupancySummary": "소유자 점유",
+        "investigationStatus": "확인됨",
+        "tenants": []
+      },
       "removedAt": null
     },
     "B000412:20250130005042:1": {
@@ -40315,7 +40856,7 @@
       "failedCount": 5,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40433,7 +40974,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40551,7 +41092,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40667,7 +41208,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40802,7 +41343,7 @@
       "failedCount": 2,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -40918,7 +41459,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41036,7 +41577,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41133,7 +41674,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41249,7 +41790,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41346,7 +41887,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41443,7 +41984,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41540,7 +42081,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41675,7 +42216,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41810,7 +42351,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -41945,7 +42486,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -42042,7 +42583,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -42063,30 +42604,32 @@
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {
-        "status": "unavailable",
+        "status": "reviewed",
         "riskLevel": "unknown",
-        "benchmarkRight": null,
-        "benchmarkRightDate": null,
+        "benchmarkRight": "최선순위 설정일자 참고정보",
+        "benchmarkRightDate": "2019-10-30",
         "seniorTenant": null,
         "juniorTenant": null,
-        "survivingRights": null,
+        "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
         "assumedAmount": null,
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2019-10-30 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE",
+        "confidence": "LOW",
         "assumedAmountLabel": "자동 산정 불가"
       },
       "occupancyAnalysis": {
-        "occupant": null,
-        "tenantOpposability": null,
+        "occupant": "소유자 점유",
+        "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
         "evictionRisk": "unknown",
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "현황조사 임차인 명세에 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE"
+        "confidence": "LOW"
       },
       "additionalCosts": {
         "managementFeeStatus": "unknown",
@@ -42099,20 +42642,37 @@
         "appraisalReportUrl": null,
         "courtUrl": null
       },
-      "documentsAvailability": "UNAVAILABLE",
+      "documentsAvailability": "SESSION_ONLY",
       "isBootstrapItem": true,
       "isSample": false,
       "source": {
         "name": "대한민국 법원경매정보",
         "url": "https://www.courtauction.go.kr/pgj/index.on"
       },
-      "analysisStatus": "UNAVAILABLE",
-      "analysisConfidence": "UNAVAILABLE",
+      "analysisStatus": "PARTIAL",
+      "analysisConfidence": "LOW",
       "analysisReasons": [
-        "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        "최선순위 설정일자 2019-10-30 확인",
+        "현황조사 임차인 명세에 별도 기재 없음",
+        "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
       ],
       "assumedAmountLabel": "자동 산정 불가",
-      "auctionAnalysisSource": null,
+      "auctionAnalysisSource": {
+        "checkedAt": "2026-09-06T22:15:49.726Z",
+        "sources": {
+          "detail": "AVAILABLE",
+          "statusReport": "AVAILABLE",
+          "saleSpecification": "UNAVAILABLE",
+          "appraisalReport": "AVAILABLE"
+        },
+        "benchmarkReference": "2019. 10. 30. 근저당권",
+        "benchmarkDate": "2019-10-30",
+        "nonExtinguishedRights": null,
+        "specialSaleConditions": null,
+        "occupancySummary": "소유자 점유",
+        "investigationStatus": "확인 필요",
+        "tenants": []
+      },
       "removedAt": null
     },
     "B000412:20250130006066:1": {
@@ -42139,7 +42699,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -42160,30 +42720,32 @@
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {
-        "status": "unavailable",
+        "status": "reviewed",
         "riskLevel": "unknown",
-        "benchmarkRight": null,
-        "benchmarkRightDate": null,
+        "benchmarkRight": "최선순위 설정일자 참고정보",
+        "benchmarkRightDate": "2022-04-29",
         "seniorTenant": null,
         "juniorTenant": null,
-        "survivingRights": null,
+        "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
         "assumedAmount": null,
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2022-04-29 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE",
+        "confidence": "LOW",
         "assumedAmountLabel": "자동 산정 불가"
       },
       "occupancyAnalysis": {
-        "occupant": null,
-        "tenantOpposability": null,
+        "occupant": "소유자 점유",
+        "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
         "evictionRisk": "unknown",
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "현황조사 임차인 명세에 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE"
+        "confidence": "LOW"
       },
       "additionalCosts": {
         "managementFeeStatus": "unknown",
@@ -42196,20 +42758,37 @@
         "appraisalReportUrl": null,
         "courtUrl": null
       },
-      "documentsAvailability": "UNAVAILABLE",
+      "documentsAvailability": "SESSION_ONLY",
       "isBootstrapItem": true,
       "isSample": false,
       "source": {
         "name": "대한민국 법원경매정보",
         "url": "https://www.courtauction.go.kr/pgj/index.on"
       },
-      "analysisStatus": "UNAVAILABLE",
-      "analysisConfidence": "UNAVAILABLE",
+      "analysisStatus": "PARTIAL",
+      "analysisConfidence": "LOW",
       "analysisReasons": [
-        "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        "최선순위 설정일자 2022-04-29 확인",
+        "현황조사 임차인 명세에 별도 기재 없음",
+        "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
       ],
       "assumedAmountLabel": "자동 산정 불가",
-      "auctionAnalysisSource": null,
+      "auctionAnalysisSource": {
+        "checkedAt": "2026-09-06T22:15:53.057Z",
+        "sources": {
+          "detail": "AVAILABLE",
+          "statusReport": "AVAILABLE",
+          "saleSpecification": "UNAVAILABLE",
+          "appraisalReport": "AVAILABLE"
+        },
+        "benchmarkReference": "2022. 4. 29. 근저당권",
+        "benchmarkDate": "2022-04-29",
+        "nonExtinguishedRights": null,
+        "specialSaleConditions": null,
+        "occupancySummary": "소유자 점유",
+        "investigationStatus": "확인 필요",
+        "tenants": []
+      },
       "removedAt": null
     },
     "B000412:20250130006112:1": {
@@ -42236,7 +42815,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T05:39:07.174Z",
       "history": [
@@ -42257,30 +42836,32 @@
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {
-        "status": "unavailable",
+        "status": "reviewed",
         "riskLevel": "unknown",
-        "benchmarkRight": null,
-        "benchmarkRightDate": null,
+        "benchmarkRight": "최선순위 설정일자 참고정보",
+        "benchmarkRightDate": "2017-07-28",
         "seniorTenant": null,
         "juniorTenant": null,
-        "survivingRights": null,
+        "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
         "assumedAmount": null,
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2017-07-28 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE",
+        "confidence": "LOW",
         "assumedAmountLabel": "자동 산정 불가"
       },
       "occupancyAnalysis": {
-        "occupant": null,
-        "tenantOpposability": null,
+        "occupant": "소유자 점유",
+        "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
         "evictionRisk": "unknown",
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "현황조사 임차인 명세에 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE"
+        "confidence": "LOW"
       },
       "additionalCosts": {
         "managementFeeStatus": "unknown",
@@ -42293,20 +42874,37 @@
         "appraisalReportUrl": null,
         "courtUrl": null
       },
-      "documentsAvailability": "UNAVAILABLE",
+      "documentsAvailability": "SESSION_ONLY",
       "isBootstrapItem": true,
       "isSample": false,
       "source": {
         "name": "대한민국 법원경매정보",
         "url": "https://www.courtauction.go.kr/pgj/index.on"
       },
-      "analysisStatus": "UNAVAILABLE",
-      "analysisConfidence": "UNAVAILABLE",
+      "analysisStatus": "PARTIAL",
+      "analysisConfidence": "LOW",
       "analysisReasons": [
-        "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        "최선순위 설정일자 2017-07-28 확인",
+        "현황조사 임차인 명세에 별도 기재 없음",
+        "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
       ],
       "assumedAmountLabel": "자동 산정 불가",
-      "auctionAnalysisSource": null,
+      "auctionAnalysisSource": {
+        "checkedAt": "2026-09-06T22:15:56.721Z",
+        "sources": {
+          "detail": "AVAILABLE",
+          "statusReport": "AVAILABLE",
+          "saleSpecification": "UNAVAILABLE",
+          "appraisalReport": "AVAILABLE"
+        },
+        "benchmarkReference": "2017.07.28. 근저당권",
+        "benchmarkDate": "2017-07-28",
+        "nonExtinguishedRights": null,
+        "specialSaleConditions": null,
+        "occupancySummary": "소유자 점유",
+        "investigationStatus": "확인 필요",
+        "tenants": []
+      },
       "removedAt": null
     },
     "B000211:20240130059814:1": {
@@ -42333,7 +42931,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T22:09:16.176Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T22:09:16.176Z",
       "history": [
@@ -42354,30 +42952,36 @@
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {
-        "status": "unavailable",
-        "riskLevel": "unknown",
-        "benchmarkRight": null,
-        "benchmarkRightDate": null,
+        "status": "reviewed",
+        "riskLevel": "medium",
+        "benchmarkRight": "최선순위 설정일자 참고정보",
+        "benchmarkRightDate": "2009-05-20",
         "seniorTenant": null,
-        "juniorTenant": null,
-        "survivingRights": null,
+        "juniorTenant": "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+        "survivingRights": "해당사항없음",
         "assumedAmount": null,
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2009-05-20 확인",
+          "현황조사 임차인·점유관계인 1명 확인",
+          "임차인 전입일 2009-06-30 확인",
+          "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+          "매각 후 존속권리 관련 기재 있음"
         ],
-        "confidence": "UNAVAILABLE",
+        "confidence": "LOW",
         "assumedAmountLabel": "자동 산정 불가"
       },
       "occupancyAnalysis": {
-        "occupant": null,
-        "tenantOpposability": null,
+        "occupant": "소유자·임차인 점유",
+        "tenantOpposability": "전입일 비교 결과 추가 확인 필요",
         "evictionRisk": "unknown",
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "현황조사 임차인·점유관계인 1명 확인",
+          "임차인 전입일 2009-06-30 확인",
+          "최선순위 설정일자 이후 또는 같은 날 전입 기재"
         ],
-        "confidence": "UNAVAILABLE"
+        "confidence": "LOW"
       },
       "additionalCosts": {
         "managementFeeStatus": "unknown",
@@ -42390,20 +42994,52 @@
         "appraisalReportUrl": null,
         "courtUrl": null
       },
-      "documentsAvailability": "UNAVAILABLE",
+      "documentsAvailability": "SESSION_ONLY",
       "isBootstrapItem": false,
       "isSample": false,
       "source": {
         "name": "대한민국 법원경매정보",
         "url": "https://www.courtauction.go.kr/pgj/index.on"
       },
-      "analysisStatus": "UNAVAILABLE",
-      "analysisConfidence": "UNAVAILABLE",
+      "analysisStatus": "PARTIAL",
+      "analysisConfidence": "LOW",
       "analysisReasons": [
-        "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        "최선순위 설정일자 2009-05-20 확인",
+        "현황조사 임차인·점유관계인 1명 확인",
+        "임차인 전입일 2009-06-30 확인",
+        "최선순위 설정일자 이후 또는 같은 날 전입 기재",
+        "매각 후 존속권리 관련 기재 있음"
       ],
       "assumedAmountLabel": "자동 산정 불가",
-      "auctionAnalysisSource": null,
+      "auctionAnalysisSource": {
+        "checkedAt": "2026-09-06T22:09:53.647Z",
+        "sources": {
+          "detail": "AVAILABLE",
+          "statusReport": "AVAILABLE",
+          "saleSpecification": "UNAVAILABLE",
+          "appraisalReport": "AVAILABLE"
+        },
+        "benchmarkReference": "2009.5.20.근저당",
+        "benchmarkDate": "2009-05-20",
+        "nonExtinguishedRights": "해당사항없음",
+        "specialSaleConditions": null,
+        "occupancySummary": "소유자·임차인 점유",
+        "investigationStatus": "확인 필요",
+        "tenants": [
+          {
+            "role": "임차인 또는 점유관계인",
+            "occupancyPart": "302호",
+            "use": null,
+            "occupancyPeriod": null,
+            "deposit": null,
+            "monthlyRent": null,
+            "moveInDate": "2009-06-30",
+            "fixedDate": null,
+            "distributionRequest": "확인 필요",
+            "comparison": "AFTER"
+          }
+        ]
+      },
       "removedAt": null
     },
     "B000211:20250130052237:1": {
@@ -42430,7 +43066,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T22:09:16.176Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T22:09:16.176Z",
       "history": [
@@ -42451,30 +43087,32 @@
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {
-        "status": "unavailable",
+        "status": "reviewed",
         "riskLevel": "unknown",
-        "benchmarkRight": null,
-        "benchmarkRightDate": null,
+        "benchmarkRight": "최선순위 설정일자 참고정보",
+        "benchmarkRightDate": "2025-02-24",
         "seniorTenant": null,
         "juniorTenant": null,
-        "survivingRights": null,
+        "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
         "assumedAmount": null,
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2025-02-24 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE",
+        "confidence": "LOW",
         "assumedAmountLabel": "자동 산정 불가"
       },
       "occupancyAnalysis": {
-        "occupant": null,
-        "tenantOpposability": null,
+        "occupant": "소유자 점유",
+        "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
         "evictionRisk": "unknown",
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "현황조사 임차인 명세에 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE"
+        "confidence": "LOW"
       },
       "additionalCosts": {
         "managementFeeStatus": "unknown",
@@ -42487,20 +43125,37 @@
         "appraisalReportUrl": null,
         "courtUrl": null
       },
-      "documentsAvailability": "UNAVAILABLE",
+      "documentsAvailability": "SESSION_ONLY",
       "isBootstrapItem": false,
       "isSample": false,
       "source": {
         "name": "대한민국 법원경매정보",
         "url": "https://www.courtauction.go.kr/pgj/index.on"
       },
-      "analysisStatus": "UNAVAILABLE",
-      "analysisConfidence": "UNAVAILABLE",
+      "analysisStatus": "PARTIAL",
+      "analysisConfidence": "LOW",
       "analysisReasons": [
-        "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        "최선순위 설정일자 2025-02-24 확인",
+        "현황조사 임차인 명세에 별도 기재 없음",
+        "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
       ],
       "assumedAmountLabel": "자동 산정 불가",
-      "auctionAnalysisSource": null,
+      "auctionAnalysisSource": {
+        "checkedAt": "2026-09-06T22:10:00.183Z",
+        "sources": {
+          "detail": "AVAILABLE",
+          "statusReport": "AVAILABLE",
+          "saleSpecification": "UNAVAILABLE",
+          "appraisalReport": "AVAILABLE"
+        },
+        "benchmarkReference": "2025.2.24.근저당",
+        "benchmarkDate": "2025-02-24",
+        "nonExtinguishedRights": null,
+        "specialSaleConditions": null,
+        "occupancySummary": "소유자 점유",
+        "investigationStatus": "확인 필요",
+        "tenants": []
+      },
       "removedAt": null
     },
     "B000211:20250130052311:1": {
@@ -42527,7 +43182,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-02T22:09:16.176Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-02T22:09:16.176Z",
       "history": [
@@ -42548,30 +43203,33 @@
       "recentDealPrice": null,
       "recentDealDate": null,
       "rightsAnalysis": {
-        "status": "unavailable",
+        "status": "reviewed",
         "riskLevel": "unknown",
-        "benchmarkRight": null,
-        "benchmarkRightDate": null,
+        "benchmarkRight": "최선순위 설정일자 참고정보",
+        "benchmarkRightDate": "2025-10-21",
         "seniorTenant": null,
         "juniorTenant": null,
-        "survivingRights": null,
+        "survivingRights": "해당사항없음",
         "assumedAmount": null,
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "최선순위 설정일자 2025-10-21 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "매각 후 존속권리 관련 기재 있음",
+          "특별매각조건 또는 물건 비고 기재 있음"
         ],
-        "confidence": "UNAVAILABLE",
+        "confidence": "LOW",
         "assumedAmountLabel": "자동 산정 불가"
       },
       "occupancyAnalysis": {
-        "occupant": null,
-        "tenantOpposability": null,
+        "occupant": "소유자 점유",
+        "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
         "evictionRisk": "unknown",
-        "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+        "notes": "현황조사 자료만으로 점유관계를 확정할 수 없습니다.",
         "reasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          "현황조사 임차인 명세에 별도 기재 없음"
         ],
-        "confidence": "UNAVAILABLE"
+        "confidence": "LOW"
       },
       "additionalCosts": {
         "managementFeeStatus": "unknown",
@@ -42584,20 +43242,38 @@
         "appraisalReportUrl": null,
         "courtUrl": null
       },
-      "documentsAvailability": "UNAVAILABLE",
+      "documentsAvailability": "SESSION_ONLY",
       "isBootstrapItem": false,
       "isSample": false,
       "source": {
         "name": "대한민국 법원경매정보",
         "url": "https://www.courtauction.go.kr/pgj/index.on"
       },
-      "analysisStatus": "UNAVAILABLE",
-      "analysisConfidence": "UNAVAILABLE",
+      "analysisStatus": "PARTIAL",
+      "analysisConfidence": "LOW",
       "analysisReasons": [
-        "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        "최선순위 설정일자 2025-10-21 확인",
+        "현황조사 임차인 명세에 별도 기재 없음",
+        "매각 후 존속권리 관련 기재 있음",
+        "특별매각조건 또는 물건 비고 기재 있음"
       ],
       "assumedAmountLabel": "자동 산정 불가",
-      "auctionAnalysisSource": null,
+      "auctionAnalysisSource": {
+        "checkedAt": "2026-09-06T22:10:05.392Z",
+        "sources": {
+          "detail": "AVAILABLE",
+          "statusReport": "AVAILABLE",
+          "saleSpecification": "UNAVAILABLE",
+          "appraisalReport": "AVAILABLE"
+        },
+        "benchmarkReference": "2025.10.21.근저당",
+        "benchmarkDate": "2025-10-21",
+        "nonExtinguishedRights": "해당사항없음",
+        "specialSaleConditions": "지분매각, 공유자 우선매수신고 1회 제한",
+        "occupancySummary": "소유자 점유",
+        "investigationStatus": "확인 필요",
+        "tenants": []
+      },
       "removedAt": null
     },
     "B000213:20250130003739:1": {
@@ -42624,7 +43300,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-04T22:08:53.748Z",
       "history": [
@@ -42740,7 +43416,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-04T22:08:53.748Z",
       "history": [
@@ -42856,7 +43532,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-04T22:08:53.748Z",
       "history": [
@@ -42972,7 +43648,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-08",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-04T22:08:53.748Z",
       "history": [
@@ -43107,7 +43783,7 @@
       "failedCount": 0,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-04T22:08:53.748Z",
       "history": [
@@ -43204,7 +43880,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-22",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-04T22:08:53.748Z",
       "history": [
@@ -43339,7 +44015,7 @@
       "failedCount": 1,
       "auctionDate": "2026-09-21",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-09-05T22:08:24.783Z",
+      "lastSeenAt": "2026-09-06T22:08:29.569Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-04T22:08:53.748Z",
       "history": [
