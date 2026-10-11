@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "collectionPolicyVersion": 2,
-  "lastSuccessfulCollectedAt": "2026-10-09T01:44:18.228Z",
+  "lastSuccessfulCollectedAt": "2026-10-11T00:40:00.235Z",
   "items": {
     "B000210:20080130025092:1": {
       "id": "B000210:20080130025092:1",
@@ -27,7 +27,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -198,7 +198,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -369,7 +369,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -552,7 +552,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -723,7 +723,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -894,7 +894,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -1065,7 +1065,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -1236,7 +1236,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -1419,7 +1419,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -1590,7 +1590,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -1744,7 +1744,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -1915,7 +1915,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -2069,7 +2069,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -2240,7 +2240,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -2411,7 +2411,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -3005,7 +3005,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-02T01:16:51.931Z",
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -3421,7 +3421,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -3845,7 +3845,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -4237,7 +4237,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -4499,7 +4499,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -4652,7 +4652,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-02T01:16:51.931Z",
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -4927,7 +4927,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -5055,7 +5055,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -5704,7 +5704,7 @@
       "failedCount": 10,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-05T00:25:52.823Z",
       "statusUpdatedAt": "2026-10-05T00:25:52.823Z",
       "history": [
@@ -5993,7 +5993,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-05T00:25:52.823Z",
       "statusUpdatedAt": "2026-10-05T00:25:52.823Z",
       "history": [
@@ -6255,7 +6255,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -6683,7 +6683,7 @@
       "failedCount": 5,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -6835,7 +6835,7 @@
       "failedCount": 6,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-05T00:25:52.823Z",
       "statusUpdatedAt": "2026-10-05T00:25:52.823Z",
       "history": [
@@ -7006,7 +7006,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -7158,7 +7158,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -7440,7 +7440,7 @@
       "failedCount": 5,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-05T00:25:52.823Z",
       "statusUpdatedAt": "2026-10-05T00:25:52.823Z",
       "history": [
@@ -7746,7 +7746,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -8022,7 +8022,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-05T00:25:52.823Z",
       "statusUpdatedAt": "2026-10-05T00:25:52.823Z",
       "history": [
@@ -8424,7 +8424,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -8870,7 +8870,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -9386,7 +9386,7 @@
       "failedCount": 12,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -9662,7 +9662,7 @@
       "failedCount": 8,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -9928,7 +9928,7 @@
       "failedCount": 8,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -10068,7 +10068,7 @@
       "failedCount": 10,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -10227,7 +10227,7 @@
       "failedCount": 6,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -10369,7 +10369,7 @@
       "failedCount": 6,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -10511,7 +10511,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -10653,7 +10653,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -10789,7 +10789,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-07T01:12:31.790Z",
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -10923,7 +10923,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-07T01:12:31.790Z",
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -11198,7 +11198,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -11450,7 +11450,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-07T01:12:31.790Z",
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -11603,7 +11603,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-07T01:12:31.790Z",
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -11756,7 +11756,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-07T01:12:31.790Z",
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -11909,7 +11909,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -12074,7 +12074,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -12216,7 +12216,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-07T01:12:31.790Z",
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -12369,7 +12369,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -12737,7 +12737,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -13003,7 +13003,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -13408,7 +13408,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -13550,7 +13550,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -13703,7 +13703,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -13984,7 +13984,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-21",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-02T01:16:51.931Z",
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -14118,7 +14118,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -14260,7 +14260,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -14402,7 +14402,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -14666,7 +14666,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -14802,7 +14802,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-16",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-28T00:17:25.432Z",
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -15323,7 +15323,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -15726,7 +15726,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -15866,7 +15866,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -16019,7 +16019,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -16161,7 +16161,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -16419,7 +16419,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -17203,7 +17203,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -17835,7 +17835,7 @@
       "failedCount": 11,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -17977,7 +17977,7 @@
       "failedCount": 6,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -18260,7 +18260,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -18400,7 +18400,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -18553,7 +18553,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -19746,7 +19746,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -19899,7 +19899,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -20169,7 +20169,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -20303,7 +20303,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -20437,7 +20437,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -20571,7 +20571,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -20983,7 +20983,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -21405,7 +21405,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -21541,7 +21541,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -22025,7 +22025,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -22178,7 +22178,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -22489,7 +22489,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -22629,7 +22629,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -22771,7 +22771,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -23443,7 +23443,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -23596,7 +23596,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -23749,7 +23749,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -23926,7 +23926,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -24103,7 +24103,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -24280,7 +24280,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -24426,7 +24426,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -24572,7 +24572,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -24718,7 +24718,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -24864,7 +24864,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -25010,7 +25010,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -25156,7 +25156,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -25296,7 +25296,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -25442,7 +25442,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -25588,7 +25588,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -25862,7 +25862,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -26002,7 +26002,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -26144,7 +26144,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -26416,7 +26416,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -26948,7 +26948,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -27094,7 +27094,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -27240,7 +27240,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -27533,7 +27533,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -27679,7 +27679,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -27838,7 +27838,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -27978,7 +27978,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -28118,7 +28118,7 @@
       "failedCount": 5,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -28277,7 +28277,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -28419,7 +28419,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -28561,7 +28561,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -28703,7 +28703,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -28845,7 +28845,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -28987,7 +28987,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -29146,7 +29146,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -29305,7 +29305,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -29447,7 +29447,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -29589,7 +29589,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -29731,7 +29731,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -29873,7 +29873,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T00:35:14.129Z",
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -30015,7 +30015,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -30285,7 +30285,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -30559,7 +30559,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -31191,7 +31191,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -31533,7 +31533,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -31686,7 +31686,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -31851,7 +31851,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -31997,7 +31997,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -32143,7 +32143,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -32418,7 +32418,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -32564,7 +32564,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -33694,7 +33694,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -33968,7 +33968,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -34763,7 +34763,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -35300,7 +35300,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -35471,7 +35471,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -36302,7 +36302,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -36793,7 +36793,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -37086,7 +37086,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -37369,7 +37369,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -37534,7 +37534,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -37670,7 +37670,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -37945,7 +37945,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -38110,7 +38110,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -38258,7 +38258,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-01T01:03:23.952Z",
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -38406,7 +38406,7 @@
       "failedCount": 8,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -39018,7 +39018,7 @@
       "failedCount": 8,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -39333,7 +39333,7 @@
       "failedCount": 8,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -40532,7 +40532,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -40691,7 +40691,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -41219,7 +41219,7 @@
       "failedCount": 7,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -41481,7 +41481,7 @@
       "failedCount": 7,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -41640,7 +41640,7 @@
       "failedCount": 7,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -41799,7 +41799,7 @@
       "failedCount": 7,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -41958,7 +41958,7 @@
       "failedCount": 7,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -42117,7 +42117,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -42572,7 +42572,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -42714,7 +42714,7 @@
       "failedCount": 5,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -42873,7 +42873,7 @@
       "failedCount": 6,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-02T04:52:43.313Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-09-22T23:59:04.843Z",
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -43137,7 +43137,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -43430,7 +43430,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -43591,13 +43591,13 @@
       "floor": 9,
       "totalFloors": null,
       "appraisalPrice": 118000000,
-      "minimumPrice": 38666000,
-      "failedCount": 6,
-      "auctionDate": "2026-09-22",
+      "minimumPrice": 30933000,
+      "failedCount": 7,
+      "auctionDate": "2026-10-30",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-22T00:35:14.129Z",
-      "failedAt": null,
-      "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
+      "failedAt": "2026-10-11T00:40:00.235Z",
+      "statusUpdatedAt": "2026-10-11T00:40:00.235Z",
       "history": [
         {
           "date": "2026-09-02T05:39:07.174Z",
@@ -43616,9 +43616,33 @@
           "type": "REMOVED",
           "previousValue": "ACTIVE",
           "newValue": "REMOVED"
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "FAILED",
+          "previousValue": 6,
+          "newValue": 7
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "AUCTION_DATE_CHANGED",
+          "previousValue": "2026-09-22",
+          "newValue": "2026-10-30"
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "MINIMUM_PRICE_CHANGED",
+          "previousValue": 38666000,
+          "newValue": 30933000
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "ACTIVE",
+          "newValue": "UPCOMING"
         }
       ],
-      "normalizedStatus": "ACTIVE",
+      "normalizedStatus": "UPCOMING",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -43682,7 +43706,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-22T00:43:39.642Z",
+        "checkedAt": "2026-10-11T00:40:30.684Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -43697,7 +43721,7 @@
         "investigationStatus": "확인 필요",
         "tenants": []
       },
-      "removedAt": "2026-09-22T23:59:04.843Z"
+      "removedAt": null
     },
     "B000212:20250130008335:1": {
       "id": "B000212:20250130008335:1",
@@ -43719,13 +43743,13 @@
       "floor": 5,
       "totalFloors": null,
       "appraisalPrice": 270000000,
-      "minimumPrice": 110592000,
-      "failedCount": 5,
-      "auctionDate": "2026-09-22",
+      "minimumPrice": 270000000,
+      "failedCount": 6,
+      "auctionDate": "2026-10-30",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-22T00:35:14.129Z",
-      "failedAt": null,
-      "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
+      "failedAt": "2026-10-11T00:40:00.235Z",
+      "statusUpdatedAt": "2026-10-11T00:40:00.235Z",
       "history": [
         {
           "date": "2026-09-02T05:39:07.174Z",
@@ -43744,9 +43768,33 @@
           "type": "REMOVED",
           "previousValue": "ACTIVE",
           "newValue": "REMOVED"
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "FAILED",
+          "previousValue": 5,
+          "newValue": 6
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "AUCTION_DATE_CHANGED",
+          "previousValue": "2026-09-22",
+          "newValue": "2026-10-30"
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "MINIMUM_PRICE_CHANGED",
+          "previousValue": 110592000,
+          "newValue": 270000000
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "ACTIVE",
+          "newValue": "UPCOMING"
         }
       ],
-      "normalizedStatus": "ACTIVE",
+      "normalizedStatus": "UPCOMING",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -43816,7 +43864,7 @@
       ],
       "assumedAmountLabel": "임차보증금 인수 가능성 있음 — 추가 확인 필요",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-22T00:43:43.076Z",
+        "checkedAt": "2026-10-11T00:40:33.317Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -43844,7 +43892,7 @@
           }
         ]
       },
-      "removedAt": "2026-09-22T23:59:04.843Z"
+      "removedAt": null
     },
     "B000212:20250130010286:1": {
       "id": "B000212:20250130010286:1",
@@ -43866,13 +43914,13 @@
       "floor": 12,
       "totalFloors": null,
       "appraisalPrice": 234000000,
-      "minimumPrice": 95846000,
-      "failedCount": 5,
-      "auctionDate": "2026-09-22",
+      "minimumPrice": 234000000,
+      "failedCount": 6,
+      "auctionDate": "2026-10-30",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-09-22T00:35:14.129Z",
-      "failedAt": null,
-      "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
+      "failedAt": "2026-10-11T00:40:00.235Z",
+      "statusUpdatedAt": "2026-10-11T00:40:00.235Z",
       "history": [
         {
           "date": "2026-09-02T05:39:07.174Z",
@@ -43891,9 +43939,33 @@
           "type": "REMOVED",
           "previousValue": "ACTIVE",
           "newValue": "REMOVED"
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "FAILED",
+          "previousValue": 5,
+          "newValue": 6
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "AUCTION_DATE_CHANGED",
+          "previousValue": "2026-09-22",
+          "newValue": "2026-10-30"
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "MINIMUM_PRICE_CHANGED",
+          "previousValue": 95846000,
+          "newValue": 234000000
+        },
+        {
+          "date": "2026-10-11T00:40:00.235Z",
+          "type": "STATUS_CHANGED",
+          "previousValue": "ACTIVE",
+          "newValue": "UPCOMING"
         }
       ],
-      "normalizedStatus": "ACTIVE",
+      "normalizedStatus": "UPCOMING",
       "sourceStatus": {
         "progressCode": "0002100001",
         "itemStatusCode": "01",
@@ -43959,7 +44031,7 @@
       ],
       "assumedAmountLabel": "자동 산정 불가",
       "auctionAnalysisSource": {
-        "checkedAt": "2026-09-22T00:43:53.611Z",
+        "checkedAt": "2026-10-11T00:40:35.817Z",
         "sources": {
           "detail": "AVAILABLE",
           "statusReport": "AVAILABLE",
@@ -43974,7 +44046,7 @@
         "investigationStatus": "확인 필요",
         "tenants": []
       },
-      "removedAt": "2026-09-22T23:59:04.843Z"
+      "removedAt": null
     },
     "B000412:20210130104585:1": {
       "id": "B000412:20210130104585:1",
@@ -44423,7 +44495,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -46746,7 +46818,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -47033,7 +47105,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -47179,7 +47251,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -47325,7 +47397,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -47894,7 +47966,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-02T05:39:07.174Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -48793,7 +48865,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -48933,7 +49005,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -49073,7 +49145,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -49213,7 +49285,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -49519,7 +49591,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-09-04T22:08:53.748Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -52483,7 +52555,7 @@
       "failedCount": 19,
       "auctionDate": "2026-10-29",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -53254,7 +53326,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-29",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -55836,7 +55908,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -55970,7 +56042,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -56104,7 +56176,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -56238,7 +56310,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -56372,7 +56444,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -56525,7 +56597,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -56659,7 +56731,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -56812,7 +56884,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -56965,7 +57037,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -57099,7 +57171,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -57233,7 +57305,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -57386,7 +57458,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -57539,7 +57611,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -57692,7 +57764,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -57826,7 +57898,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -57979,7 +58051,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -58113,7 +58185,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -58266,7 +58338,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -58419,7 +58491,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -58553,7 +58625,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -58706,7 +58778,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -58859,7 +58931,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -59006,7 +59078,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -59159,7 +59231,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -59293,7 +59365,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -59446,7 +59518,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -59599,7 +59671,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -59733,7 +59805,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -59880,7 +59952,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -60033,7 +60105,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -60186,7 +60258,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -60320,7 +60392,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -60715,7 +60787,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -61781,7 +61853,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -62403,7 +62475,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -63469,7 +63541,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -64234,7 +64306,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-04T00:20:59.660Z",
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -64387,7 +64459,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-08T01:32:59.187Z",
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -66883,7 +66955,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -66999,7 +67071,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -67426,7 +67498,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -67798,7 +67870,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -67933,7 +68005,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -68049,7 +68121,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -68442,7 +68514,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -68558,7 +68630,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -68705,7 +68777,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -68852,7 +68924,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -70458,7 +70530,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -70574,7 +70646,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -70812,7 +70884,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -70947,7 +71019,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -71065,7 +71137,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -71181,7 +71253,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -71316,7 +71388,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -71451,7 +71523,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -71567,7 +71639,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -71826,7 +71898,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -71961,7 +72033,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -72077,7 +72149,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -72193,7 +72265,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -72311,7 +72383,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -72427,7 +72499,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -72545,7 +72617,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -74036,7 +74108,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -74576,7 +74648,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -74841,7 +74913,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -74976,7 +75048,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -75491,7 +75563,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -75864,7 +75936,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -76146,7 +76218,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -76262,7 +76334,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -76378,7 +76450,7 @@
       "failedCount": 3,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -76708,7 +76780,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -76824,7 +76896,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -77089,7 +77161,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -77205,7 +77277,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -77451,7 +77523,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -78083,7 +78155,7 @@
       "failedCount": 2,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -78365,7 +78437,7 @@
       "failedCount": 2,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -78519,7 +78591,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -78665,7 +78737,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -78811,7 +78883,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -78957,7 +79029,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -79227,7 +79299,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -79503,7 +79575,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -79777,7 +79849,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -94683,7 +94755,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -96855,7 +96927,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -99231,7 +99303,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -100017,7 +100089,7 @@
       "failedCount": 3,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -100548,7 +100620,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": "2026-10-09T01:44:18.228Z",
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -112081,7 +112153,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -112197,7 +112269,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -112315,7 +112387,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -112433,7 +112505,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -112580,7 +112652,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -112698,7 +112770,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -112816,7 +112888,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -112932,7 +113004,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113050,7 +113122,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113168,7 +113240,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113284,7 +113356,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113402,7 +113474,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113520,7 +113592,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113638,7 +113710,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113756,7 +113828,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -113891,7 +113963,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -114009,7 +114081,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -114125,7 +114197,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -114243,7 +114315,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -114378,7 +114450,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -114494,7 +114566,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -114797,7 +114869,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -114915,7 +114987,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115050,7 +115122,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115179,7 +115251,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115308,7 +115380,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115424,7 +115496,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115540,7 +115612,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115675,7 +115747,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115791,7 +115863,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -115950,7 +116022,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116066,7 +116138,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116182,7 +116254,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116298,7 +116370,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116414,7 +116486,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116532,7 +116604,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116648,7 +116720,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116764,7 +116836,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -116880,7 +116952,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T00:35:14.129Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T00:35:14.129Z",
       "history": [
@@ -124049,7 +124121,7 @@
       "failedCount": 15,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -124184,7 +124256,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -124319,7 +124391,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -124437,7 +124509,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -124555,7 +124627,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-12",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -124671,7 +124743,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -124787,7 +124859,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -125058,7 +125130,7 @@
       "failedCount": 8,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -125334,7 +125406,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -125450,7 +125522,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -125568,7 +125640,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -125684,7 +125756,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -125802,7 +125874,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -125937,7 +126009,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126053,7 +126125,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126169,7 +126241,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126285,7 +126357,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126401,7 +126473,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126519,7 +126591,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-14",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126654,7 +126726,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126770,7 +126842,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -126886,7 +126958,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -127002,7 +127074,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -127137,7 +127209,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-13",
       "firstSeenAt": "2026-09-22T23:59:04.843Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-22T23:59:04.843Z",
       "history": [
@@ -127251,7 +127323,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-09-28T00:17:25.432Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-09-28T00:17:25.432Z",
       "history": [
@@ -127386,7 +127458,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -127521,7 +127593,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -127637,7 +127709,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -127772,7 +127844,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -127890,7 +127962,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128006,7 +128078,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128141,7 +128213,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128276,7 +128348,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128411,7 +128483,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128546,7 +128618,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128662,7 +128734,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128780,7 +128852,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -128894,7 +128966,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129012,7 +129084,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129147,7 +129219,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129282,7 +129354,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129417,7 +129489,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129552,7 +129624,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129687,7 +129759,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129803,7 +129875,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -129919,7 +129991,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-15",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130037,7 +130109,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130153,7 +130225,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130269,7 +130341,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130385,7 +130457,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130520,7 +130592,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130636,7 +130708,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130752,7 +130824,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -130868,7 +130940,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -131003,7 +131075,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -131138,7 +131210,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -131273,7 +131345,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-19",
       "firstSeenAt": "2026-10-01T01:03:23.952Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-01T01:03:23.952Z",
       "history": [
@@ -131408,7 +131480,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -131524,7 +131596,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -131642,7 +131714,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -131758,7 +131830,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-21",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -131893,7 +131965,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-21",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -132028,7 +132100,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-21",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -132163,7 +132235,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-21",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -132281,7 +132353,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-21",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -132397,7 +132469,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-02T01:16:51.931Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-02T01:16:51.931Z",
       "history": [
@@ -132532,7 +132604,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -132648,7 +132720,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-20",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -132764,7 +132836,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -132861,7 +132933,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -132958,7 +133030,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -133074,7 +133146,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -133209,7 +133281,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -133306,7 +133378,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -133403,7 +133475,7 @@
       "failedCount": 2,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -133538,7 +133610,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-10-04T00:20:59.660Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-04T00:20:59.660Z",
       "history": [
@@ -133635,7 +133707,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-26",
       "firstSeenAt": "2026-10-05T00:25:52.823Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-05T00:25:52.823Z",
       "history": [
@@ -133732,7 +133804,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -133867,7 +133939,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -133983,7 +134055,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134101,7 +134173,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134217,7 +134289,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-22",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134333,7 +134405,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134430,7 +134502,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134527,7 +134599,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134624,7 +134696,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134721,7 +134793,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134818,7 +134890,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -134915,7 +134987,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -135012,7 +135084,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -135109,7 +135181,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -135206,7 +135278,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-07T01:12:31.790Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-07T01:12:31.790Z",
       "history": [
@@ -135303,7 +135375,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -135400,7 +135472,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -135497,7 +135569,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -135594,7 +135666,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -135691,7 +135763,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -135788,7 +135860,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -135885,7 +135957,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -135982,7 +136054,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136079,7 +136151,7 @@
       "failedCount": 8,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136197,7 +136269,7 @@
       "failedCount": 4,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136315,7 +136387,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136412,7 +136484,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136509,7 +136581,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136606,7 +136678,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136703,7 +136775,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136800,7 +136872,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-08T01:32:59.187Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-08T01:32:59.187Z",
       "history": [
@@ -136887,7 +136959,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.5506391,
       "longitude": 126.8511495,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "제101동 제1층 제105호",
       "exclusiveAreaM2": 59.74,
       "floor": 1,
@@ -136897,7 +136969,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -136984,7 +137056,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.505636,
       "longitude": 126.8614121,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "제101동 제9층 제902호",
       "exclusiveAreaM2": 84.91,
       "floor": 9,
@@ -136994,7 +137066,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-29",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137081,7 +137153,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.5562697,
       "longitude": 126.8588292,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "제5층 제502호",
       "exclusiveAreaM2": 76.5,
       "floor": 5,
@@ -137091,7 +137163,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137178,7 +137250,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.523405,
       "longitude": 126.8862774,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "제101동 제7층 제705호",
       "exclusiveAreaM2": 55.95,
       "floor": 7,
@@ -137188,7 +137260,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137275,7 +137347,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.5243588,
       "longitude": 126.8699415,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "제201동 제14층 제1403호",
       "exclusiveAreaM2": 155.586,
       "floor": 14,
@@ -137285,7 +137357,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137372,7 +137444,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.5162097,
       "longitude": 126.9212241,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "제3층 제316호",
       "exclusiveAreaM2": 13.06,
       "floor": 3,
@@ -137382,7 +137454,7 @@
       "failedCount": 0,
       "auctionDate": "2026-10-28",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137469,7 +137541,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.6497726,
       "longitude": 127.0782043,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "108동 11층1103호",
       "exclusiveAreaM2": 134.74,
       "floor": 11,
@@ -137479,7 +137551,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137587,7 +137659,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.6316061,
       "longitude": 127.0355354,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "103동 8층805호",
       "exclusiveAreaM2": 84.4405,
       "floor": 8,
@@ -137597,7 +137669,7 @@
       "failedCount": 1,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137722,7 +137794,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.5875102,
       "longitude": 127.0754782,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "8동 6층606호",
       "exclusiveAreaM2": 84.92,
       "floor": 6,
@@ -137732,7 +137804,7 @@
       "failedCount": 0,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137819,7 +137891,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.5774895,
       "longitude": 127.090752,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "101동 6층608호",
       "exclusiveAreaM2": 84.96,
       "floor": 6,
@@ -137829,7 +137901,7 @@
       "failedCount": 0,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -137916,7 +137988,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 37.5830083,
       "longitude": 127.0707521,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "201동 제23층 제2302호",
       "exclusiveAreaM2": 59.79,
       "floor": 23,
@@ -137926,7 +137998,7 @@
       "failedCount": 0,
       "auctionDate": "2026-11-03",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -138013,7 +138085,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 35.1978138,
       "longitude": 129.116499,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "2동 12층1203호",
       "exclusiveAreaM2": 84.81,
       "floor": 12,
@@ -138023,7 +138095,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -138129,7 +138201,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 35.2004854,
       "longitude": 129.1183034,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "106동 5층504호",
       "exclusiveAreaM2": 126.93,
       "floor": 5,
@@ -138139,7 +138211,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
@@ -138245,7 +138317,7 @@
       "classificationStatus": "VERIFIED_COURT_CODE",
       "latitude": 35.1566518,
       "longitude": 129.1450742,
-      "geocodeStatus": "OK",
+      "geocodeStatus": "CACHED",
       "buildingUnit": "102동 48층4810호",
       "exclusiveAreaM2": 157.0176,
       "floor": 48,
@@ -138255,7 +138327,7 @@
       "failedCount": 1,
       "auctionDate": "2026-10-27",
       "firstSeenAt": "2026-10-09T01:44:18.228Z",
-      "lastSeenAt": "2026-10-09T01:44:18.228Z",
+      "lastSeenAt": "2026-10-11T00:40:00.235Z",
       "failedAt": null,
       "statusUpdatedAt": "2026-10-09T01:44:18.228Z",
       "history": [
