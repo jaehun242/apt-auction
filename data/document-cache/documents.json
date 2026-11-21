@@ -8212,7 +8212,7 @@
       "apartmentNameFingerprint": "d2a59893127e7c202de1",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
     },
     "B000212:20260130003046:1": {
       "itemFingerprint": "9515106b0a085e43d61b",
@@ -9709,7 +9709,7 @@
       "apartmentNameFingerprint": "25af58d8d69f8008923b",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000213:20250130013946:1": {
       "itemFingerprint": "778fb89fc1115c312069",
@@ -10643,7 +10643,7 @@
       "apartmentNameFingerprint": "88692c29e8ce519ef284",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
     },
     "B000212:20250130010286:1": {
       "itemFingerprint": "e59a55643a0b8e87b179",
@@ -17462,7 +17462,7 @@
       "apartmentNameFingerprint": "dcd38788fc93d412665f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:08.409Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000410:20260130010123:1": {
       "itemFingerprint": "51d35391a74e12c37d28",
@@ -23072,7 +23072,7 @@
       "apartmentNameFingerprint": "ab2cb442df4c23fe9587",
       "apartmentName": "아남하이츠4",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:07.768Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000414:20240130004620:3": {
       "itemFingerprint": "aa20e24bbf2716bdce79",
@@ -29126,7 +29126,7 @@
       "apartmentNameFingerprint": "f7bb4c9381722512befb",
       "apartmentName": "삼화아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:09.036Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:50.086Z"
     },
     "B000412:20250130006014:1": {
       "itemFingerprint": "49202e2d3f770908c29a",
@@ -40261,7 +40261,7 @@
       "apartmentNameFingerprint": "2de8c42ed4292956585f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:05.682Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000215:20250130051362:1": {
       "itemFingerprint": "eece3a0e063570a6b614",
@@ -40521,7 +40521,7 @@
       "apartmentNameFingerprint": "dd49570404e7230d0e0a",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:07.317Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000215:20250130052242:1": {
       "itemFingerprint": "f1c4bc83f2c84365fb8c",
@@ -84506,7 +84506,7 @@
       "apartmentNameFingerprint": "3075f0ebe08e8d26d38f",
       "apartmentName": "현대아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.673Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
     },
     "B000412:20220130108157:1": {
       "itemFingerprint": "8c12b59f40e762553f46",
@@ -89572,7 +89572,7 @@
       "apartmentNameFingerprint": "0472b07f21d725e1153f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000213:20250130013714:1": {
       "itemFingerprint": "d6bf76c709a377099eab",
@@ -92071,7 +92071,7 @@
       "apartmentNameFingerprint": "8a39a3dd94f9c83c2d78",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
     },
     "B000212:20250130013394:1": {
       "itemFingerprint": "5451eeae3d9c7ee00a17",
@@ -103797,9 +103797,9 @@
       "analysisPolicyVersion": 2
     },
     "B000212:20260130000023:1": {
-      "itemFingerprint": "bb23ef1b3ca1811c8435",
-      "checkedAt": "2026-11-06T01:59:26.607Z",
-      "sourceVersion": "13A7C1D1AC1906E6623E0CE3F41A9C9C:20261007:20261106",
+      "itemFingerprint": "5ca05a12a8055d3cc802",
+      "checkedAt": "2026-11-21T02:58:56.193Z",
+      "sourceVersion": "13A7C1D1AC1906E6623E0CE3F41A9C9C:20261007:20261209",
       "documents": {
         "detail": {
           "available": true,
@@ -103857,7 +103857,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T01:59:26.607Z",
+          "checkedAt": "2026-11-21T02:58:56.193Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -103876,9 +103876,9 @@
       "analysisPolicyVersion": 2
     },
     "B000212:20260130000033:1": {
-      "itemFingerprint": "c8aa3796643a2ffc0fbe",
-      "checkedAt": "2026-11-06T01:59:30.237Z",
-      "sourceVersion": "0E5348D5AC19061E29CF1E1625DB490A:20261006:20261106",
+      "itemFingerprint": "ac128aadbd11aad3a367",
+      "checkedAt": "2026-11-21T02:58:59.163Z",
+      "sourceVersion": "0E5348D5AC19061E29CF1E1625DB490A:20261006:20261209",
       "documents": {
         "detail": {
           "available": true,
@@ -103936,7 +103936,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T01:59:30.237Z",
+          "checkedAt": "2026-11-21T02:58:59.163Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -110136,9 +110136,9 @@
       "analysisPolicyVersion": 2
     },
     "B000212:20260130006152:1": {
-      "itemFingerprint": "b67238dff9ef86509adf",
-      "checkedAt": "2026-11-10T03:59:19.396Z",
-      "sourceVersion": "2DBB87FEAC19061F0429AEEBB2DBB066:20261012:20261110",
+      "itemFingerprint": "9f53aa3a20442faac351",
+      "checkedAt": "2026-11-21T02:59:06.773Z",
+      "sourceVersion": "2DBB87FEAC19061F0429AEEBB2DBB066:20261012:20261210",
       "documents": {
         "detail": {
           "available": true,
@@ -110196,7 +110196,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-10T03:59:19.396Z",
+          "checkedAt": "2026-11-21T02:59:06.773Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -110215,9 +110215,9 @@
       "analysisPolicyVersion": 2
     },
     "B000212:20260130006295:1": {
-      "itemFingerprint": "9eac9d4cf9ffdaf1747a",
-      "checkedAt": "2026-11-10T03:59:24.838Z",
-      "sourceVersion": "5D9458CDAC1906DA150D3B31571D9DEE:20261022:20261110",
+      "itemFingerprint": "4f313f8a7785a81b95fc",
+      "checkedAt": "2026-11-21T02:59:10.224Z",
+      "sourceVersion": "5D9458CDAC1906DA150D3B31571D9DEE:20261022:20261210",
       "documents": {
         "detail": {
           "available": true,
@@ -110275,7 +110275,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-10T03:59:24.838Z",
+          "checkedAt": "2026-11-21T02:59:10.224Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -138931,7 +138931,7 @@
       "apartmentNameFingerprint": "1516d11f37e35278d284",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
     },
     "B000212:20260130004782:1": {
       "itemFingerprint": "87d7f66aa6a1892659d8",
@@ -142271,7 +142271,7 @@
       "apartmentNameFingerprint": "ebce956288d5aee588f4",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
     },
     "B000213:20250130013868:1": {
       "itemFingerprint": "a2f2217649f648a6b98a",
@@ -142533,7 +142533,7 @@
       "apartmentNameFingerprint": "c0151a2229736ecc806e",
       "apartmentName": "우성아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000213:20260130000045:1": {
       "itemFingerprint": "5fb4fffbb3c598163c8b",
@@ -144225,7 +144225,7 @@
       "apartmentNameFingerprint": "25d3f9044acfc82891c6",
       "apartmentName": "삼풍아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.673Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
     },
     "B000210:20260130101212:1": {
       "itemFingerprint": "649bede72c9cff89da6a",
@@ -144308,7 +144308,7 @@
       "apartmentNameFingerprint": "c7e4ae7b6e7c95427eac",
       "apartmentName": "청암빌라트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.673Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
     },
     "B000210:20260130101475:1": {
       "itemFingerprint": "b1d2ab71058b42ea87c4",
@@ -144489,7 +144489,7 @@
       "apartmentNameFingerprint": "3b28987c83011e75762b",
       "apartmentName": "예촌그린아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.673Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
     },
     "B000212:20260130003605:1": {
       "itemFingerprint": "a2f8aec66fa63d98658b",
@@ -144572,7 +144572,7 @@
       "apartmentNameFingerprint": "65a46daf25c5bd608386",
       "apartmentName": "현대하이페리온",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
     },
     "B000212:20260130004281:1": {
       "itemFingerprint": "64c4590366b388ce07f8",
@@ -144813,7 +144813,7 @@
     },
     "B000210:20240130004576:1": {
       "itemFingerprint": "8e2e5286efa007bbd2a0",
-      "checkedAt": "2026-11-20T02:50:23.635Z",
+      "checkedAt": "2026-11-21T02:58:39.701Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -144873,7 +144873,7 @@
     },
     "B000210:20240130125923:1": {
       "itemFingerprint": "1e655542ca4676828973",
-      "checkedAt": "2026-11-20T02:50:26.780Z",
+      "checkedAt": "2026-11-21T02:58:42.471Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -144933,7 +144933,7 @@
     },
     "B000210:20260130100248:1": {
       "itemFingerprint": "0b4f25c656032e2e9a12",
-      "checkedAt": "2026-11-20T02:50:28.037Z",
+      "checkedAt": "2026-11-21T02:58:43.640Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -144993,7 +144993,7 @@
     },
     "B000210:20260130100949:1": {
       "itemFingerprint": "c75ea7ac3961308a6b71",
-      "checkedAt": "2026-11-20T02:50:29.315Z",
+      "checkedAt": "2026-11-21T02:58:44.810Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145053,7 +145053,7 @@
     },
     "B000210:20260130100973:1": {
       "itemFingerprint": "312f84b5b0ec55e670f0",
-      "checkedAt": "2026-11-20T02:50:30.587Z",
+      "checkedAt": "2026-11-21T02:58:45.981Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145113,11 +145113,11 @@
       "apartmentNameFingerprint": "c13f7f715bdc75e7b242",
       "apartmentName": "벨루스빌",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:00.674Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000210:20260130100984:1": {
       "itemFingerprint": "f36610e664f56738edc5",
-      "checkedAt": "2026-11-20T02:50:31.907Z",
+      "checkedAt": "2026-11-21T02:58:47.150Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145177,7 +145177,7 @@
     },
     "B000211:20260130050052:1": {
       "itemFingerprint": "2988c528810e10b16215",
-      "checkedAt": "2026-11-20T02:50:33.205Z",
+      "checkedAt": "2026-11-21T02:58:48.319Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145237,7 +145237,7 @@
     },
     "B000211:20260130050128:1": {
       "itemFingerprint": "4ac04daa3acbc3afdfb2",
-      "checkedAt": "2026-11-20T02:50:34.481Z",
+      "checkedAt": "2026-11-21T02:58:49.486Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145297,7 +145297,7 @@
     },
     "B000211:20260130050158:1": {
       "itemFingerprint": "8b52e762197c6b1d5c54",
-      "checkedAt": "2026-11-20T02:50:35.772Z",
+      "checkedAt": "2026-11-21T02:58:50.809Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145355,9 +145355,88 @@
       },
       "analysisPolicyVersion": 2
     },
+    "B000212:20240130139034:1": {
+      "itemFingerprint": "916ec25100e1277f3268",
+      "checkedAt": "2026-11-21T02:58:51.977Z",
+      "sourceVersion": "AB48CCDEAC19061E0E0821ACA3BD172A:20261104:20261209",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "AVAILABLE",
+        "analysisConfidence": "MEDIUM",
+        "analysisReasons": [
+          "최선순위 설정일자 2022-07-26 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+        ],
+        "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "low",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2022-07-26",
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "assumedAmount": null,
+          "notes": "현재 확보한 법원 자료에서 주요 인수 위험요소가 발견되지 않음",
+          "reasons": [
+            "최선순위 설정일자 2022-07-26 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          ],
+          "confidence": "MEDIUM",
+          "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음"
+        },
+        "occupancyAnalysis": {
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
+          "evictionRisk": "low",
+          "notes": "현황조사서 기반 1차 참고정보입니다.",
+          "reasons": [
+            "현황조사 임차인 명세에 별도 기재 없음"
+          ],
+          "confidence": "MEDIUM"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-11-21T02:58:51.977Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2022.7.26.근저당권",
+          "benchmarkDate": "2022-07-26",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인됨",
+          "tenants": []
+        }
+      },
+      "analysisPolicyVersion": 2
+    },
     "B000212:20250130000771:1": {
       "itemFingerprint": "eca07716faa92e856315",
-      "checkedAt": "2026-11-20T02:50:40.598Z",
+      "checkedAt": "2026-11-21T02:58:55.023Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145417,7 +145496,7 @@
     },
     "B000212:20260130003891:1": {
       "itemFingerprint": "f7f2b772f419015d07e2",
-      "checkedAt": "2026-11-20T02:51:03.172Z",
+      "checkedAt": "2026-11-21T02:59:02.051Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145477,7 +145556,7 @@
     },
     "B000212:20260130004311:1": {
       "itemFingerprint": "aa5008bde5d4b3ff0339",
-      "checkedAt": "2026-11-20T02:51:04.416Z",
+      "checkedAt": "2026-11-21T02:59:03.227Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145536,12 +145615,12 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "6046cb7165eb2b117816",
       "apartmentName": "앤프라2",
-      "apartmentNameSource": "NAVER_GEOCODING_BUILDING_NAME",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:01.562Z"
+      "apartmentNameSource": "previousState",
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000212:20260130004930:1": {
       "itemFingerprint": "c9e79b3b58e628c20760",
-      "checkedAt": "2026-11-20T02:51:05.673Z",
+      "checkedAt": "2026-11-21T02:59:04.394Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145601,7 +145680,67 @@
     },
     "B000212:20260130005261:1": {
       "itemFingerprint": "87ecde149ce1582b63a0",
-      "checkedAt": "2026-11-20T02:51:06.924Z",
+      "checkedAt": "2026-11-21T02:59:05.603Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000212:20260130006550:1": {
+      "itemFingerprint": "dabc3ee9d2a570f60db5",
+      "checkedAt": "2026-11-21T02:59:12.294Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145661,7 +145800,7 @@
     },
     "B000213:20240130110654:1": {
       "itemFingerprint": "38162d6a923e8dc45679",
-      "checkedAt": "2026-11-20T02:51:08.169Z",
+      "checkedAt": "2026-11-21T02:59:13.464Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145721,7 +145860,7 @@
     },
     "B000213:20250130013049:1": {
       "itemFingerprint": "5bd08087fea7b42ccd0c",
-      "checkedAt": "2026-11-20T02:51:09.411Z",
+      "checkedAt": "2026-11-21T02:59:14.635Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145781,7 +145920,7 @@
     },
     "B000213:20250130013415:1": {
       "itemFingerprint": "c22b7ef54219684dcb2f",
-      "checkedAt": "2026-11-20T02:51:10.894Z",
+      "checkedAt": "2026-11-21T02:59:15.822Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145841,7 +145980,7 @@
     },
     "B000213:20260130000022:1": {
       "itemFingerprint": "9f01805be91fe3461d90",
-      "checkedAt": "2026-11-20T02:51:12.140Z",
+      "checkedAt": "2026-11-21T02:59:17.004Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145901,7 +146040,7 @@
     },
     "B000213:20260130000169:1": {
       "itemFingerprint": "23e657a9351e5952e2f4",
-      "checkedAt": "2026-11-20T02:51:13.387Z",
+      "checkedAt": "2026-11-21T02:59:18.173Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145961,7 +146100,7 @@
     },
     "B000213:20260130010194:1": {
       "itemFingerprint": "5d50fa2754fdb7f5bf6f",
-      "checkedAt": "2026-11-20T02:51:14.658Z",
+      "checkedAt": "2026-11-21T02:59:19.342Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146021,7 +146160,7 @@
     },
     "B000213:20260130010454:1": {
       "itemFingerprint": "d4ccd01efcf5b1ce837f",
-      "checkedAt": "2026-11-20T02:51:16.169Z",
+      "checkedAt": "2026-11-21T02:59:20.512Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146081,7 +146220,7 @@
     },
     "B000213:20260130010819:1": {
       "itemFingerprint": "25e86336a9cd856070d6",
-      "checkedAt": "2026-11-20T02:51:17.412Z",
+      "checkedAt": "2026-11-21T02:59:21.687Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146141,7 +146280,7 @@
     },
     "B000213:20260130010954:1": {
       "itemFingerprint": "497bd48dfc76303a5cc3",
-      "checkedAt": "2026-11-20T02:51:18.674Z",
+      "checkedAt": "2026-11-21T02:59:22.856Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146201,7 +146340,7 @@
     },
     "B000213:20260130010988:1": {
       "itemFingerprint": "ec7b4f11019864b86508",
-      "checkedAt": "2026-11-20T02:51:19.917Z",
+      "checkedAt": "2026-11-21T02:59:24.028Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146261,7 +146400,7 @@
     },
     "B000213:20260130011097:1": {
       "itemFingerprint": "110a986413c4e6a8cbf6",
-      "checkedAt": "2026-11-20T02:51:21.298Z",
+      "checkedAt": "2026-11-21T02:59:25.288Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146321,7 +146460,7 @@
     },
     "B000213:20260130011125:1": {
       "itemFingerprint": "95d96f7a20bf8c0ff767",
-      "checkedAt": "2026-11-20T02:51:22.547Z",
+      "checkedAt": "2026-11-21T02:59:26.458Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146381,7 +146520,7 @@
     },
     "B000215:20260130050397:1": {
       "itemFingerprint": "e5e27b6e83967de5017e",
-      "checkedAt": "2026-11-20T02:51:34.594Z",
+      "checkedAt": "2026-11-21T02:59:27.628Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146441,7 +146580,7 @@
     },
     "B000215:20260130050447:1": {
       "itemFingerprint": "ce6a5da10291e547a844",
-      "checkedAt": "2026-11-20T02:51:35.837Z",
+      "checkedAt": "2026-11-21T02:59:28.800Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146501,7 +146640,7 @@
     },
     "B000215:20260130050571:1": {
       "itemFingerprint": "74d9003c7ba7d0cf2b0c",
-      "checkedAt": "2026-11-20T02:51:37.171Z",
+      "checkedAt": "2026-11-21T02:59:29.974Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146561,7 +146700,7 @@
     },
     "B000215:20260130050730:1": {
       "itemFingerprint": "990222ec237f6b4c1d69",
-      "checkedAt": "2026-11-20T02:51:38.412Z",
+      "checkedAt": "2026-11-21T02:59:31.147Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146621,7 +146760,7 @@
     },
     "B000215:20260130050835:1": {
       "itemFingerprint": "8d4b8f3364a2365046e7",
-      "checkedAt": "2026-11-20T02:51:39.660Z",
+      "checkedAt": "2026-11-21T02:59:32.333Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146681,7 +146820,7 @@
     },
     "B000410:20250130002865:1": {
       "itemFingerprint": "af66173e7d54126ff580",
-      "checkedAt": "2026-11-20T02:51:40.911Z",
+      "checkedAt": "2026-11-21T02:59:33.507Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146741,7 +146880,7 @@
     },
     "B000410:20250130004465:1": {
       "itemFingerprint": "824715de21c547a75950",
-      "checkedAt": "2026-11-20T02:51:42.149Z",
+      "checkedAt": "2026-11-21T02:59:34.679Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146801,7 +146940,7 @@
     },
     "B000410:20250130004762:1": {
       "itemFingerprint": "0af7f1286a5d8544418a",
-      "checkedAt": "2026-11-20T02:51:43.408Z",
+      "checkedAt": "2026-11-21T02:59:35.851Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146861,7 +147000,7 @@
     },
     "B000410:20250130021800:1": {
       "itemFingerprint": "0940e27c5c15cc0ae88f",
-      "checkedAt": "2026-11-20T02:51:44.659Z",
+      "checkedAt": "2026-11-21T02:59:37.019Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146921,7 +147060,7 @@
     },
     "B000410:20250130021913:1": {
       "itemFingerprint": "b146346533f55b2651e1",
-      "checkedAt": "2026-11-20T02:51:45.914Z",
+      "checkedAt": "2026-11-21T02:59:38.189Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146981,7 +147120,7 @@
     },
     "B000410:20250130022188:1": {
       "itemFingerprint": "b4ff063379546ab5f6df",
-      "checkedAt": "2026-11-20T02:51:47.186Z",
+      "checkedAt": "2026-11-21T02:59:39.375Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147041,7 +147180,7 @@
     },
     "B000410:20250130022248:1": {
       "itemFingerprint": "513f6a181efc4b72e216",
-      "checkedAt": "2026-11-20T02:51:48.440Z",
+      "checkedAt": "2026-11-21T02:59:40.546Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147101,7 +147240,7 @@
     },
     "B000410:20250130022300:1": {
       "itemFingerprint": "5107ee5e7b8353778dd7",
-      "checkedAt": "2026-11-20T02:51:49.690Z",
+      "checkedAt": "2026-11-21T02:59:41.718Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147161,7 +147300,7 @@
     },
     "B000410:20250130022307:1": {
       "itemFingerprint": "fb5e2b6f62efc77f57b7",
-      "checkedAt": "2026-11-20T02:51:50.938Z",
+      "checkedAt": "2026-11-21T02:59:42.960Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147221,7 +147360,7 @@
     },
     "B000410:20250130022728:1": {
       "itemFingerprint": "ecf961705b816992618b",
-      "checkedAt": "2026-11-20T02:51:52.182Z",
+      "checkedAt": "2026-11-21T02:59:44.129Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147281,7 +147420,7 @@
     },
     "B000410:20250130022749:1": {
       "itemFingerprint": "b5d701179509c59d0b6a",
-      "checkedAt": "2026-11-20T02:51:53.506Z",
+      "checkedAt": "2026-11-21T02:59:45.403Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147341,7 +147480,7 @@
     },
     "B000410:20250130022759:1": {
       "itemFingerprint": "143f6969c0792d429fa3",
-      "checkedAt": "2026-11-20T02:51:54.778Z",
+      "checkedAt": "2026-11-21T02:59:46.575Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147401,7 +147540,7 @@
     },
     "B000410:20250130022788:1": {
       "itemFingerprint": "864a20302e4dbbf645fb",
-      "checkedAt": "2026-11-20T02:51:56.031Z",
+      "checkedAt": "2026-11-21T02:59:47.744Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147460,12 +147599,12 @@
       "analysisPolicyVersion": 2,
       "apartmentNameFingerprint": "d10c1893fe1a83dacab4",
       "apartmentName": "동아아파트",
-      "apartmentNameSource": "NAVER_GEOCODING_BUILDING_NAME",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:07.959Z"
+      "apartmentNameSource": "previousState",
+      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
     },
     "B000410:20250130022930:1": {
       "itemFingerprint": "42a3c24b07d952b10603",
-      "checkedAt": "2026-11-20T02:51:57.274Z",
+      "checkedAt": "2026-11-21T02:59:48.913Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147525,7 +147664,7 @@
     },
     "B000410:20250130023137:1": {
       "itemFingerprint": "5ca23d53d18e5fb883b3",
-      "checkedAt": "2026-11-20T02:51:58.714Z",
+      "checkedAt": "2026-11-21T02:59:50.093Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147585,7 +147724,7 @@
     },
     "B000410:20260130010345:1": {
       "itemFingerprint": "4298a413375e381be293",
-      "checkedAt": "2026-11-20T02:51:59.956Z",
+      "checkedAt": "2026-11-21T02:59:51.277Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147645,7 +147784,7 @@
     },
     "B000410:20260130010468:1": {
       "itemFingerprint": "e9798b94a96b0830808a",
-      "checkedAt": "2026-11-20T02:52:01.208Z",
+      "checkedAt": "2026-11-21T02:59:52.445Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147705,7 +147844,7 @@
     },
     "B000410:20260130010619:1": {
       "itemFingerprint": "8869d8cbe1706651f80b",
-      "checkedAt": "2026-11-20T02:52:02.459Z",
+      "checkedAt": "2026-11-21T02:59:53.620Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147765,7 +147904,7 @@
     },
     "B000410:20260130010663:1": {
       "itemFingerprint": "4ec1d1f96b0463f71777",
-      "checkedAt": "2026-11-20T02:52:03.703Z",
+      "checkedAt": "2026-11-21T02:59:54.789Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147825,7 +147964,7 @@
     },
     "B000410:20260130010818:1": {
       "itemFingerprint": "2ea8e22b0d410d69fd36",
-      "checkedAt": "2026-11-20T02:52:04.952Z",
+      "checkedAt": "2026-11-21T02:59:55.959Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147885,7 +148024,7 @@
     },
     "B000410:20260130010826:1": {
       "itemFingerprint": "dfad322b078d0da41670",
-      "checkedAt": "2026-11-20T02:52:06.192Z",
+      "checkedAt": "2026-11-21T02:59:57.136Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147945,7 +148084,7 @@
     },
     "B000410:20260130010827:1": {
       "itemFingerprint": "173eafc96077284cd494",
-      "checkedAt": "2026-11-20T02:52:07.449Z",
+      "checkedAt": "2026-11-21T02:59:58.305Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148005,7 +148144,7 @@
     },
     "B000410:20260130010828:1": {
       "itemFingerprint": "25c7b3fb72d57d931a69",
-      "checkedAt": "2026-11-20T02:52:08.689Z",
+      "checkedAt": "2026-11-21T02:59:59.476Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148065,7 +148204,7 @@
     },
     "B000410:20260130010835:1": {
       "itemFingerprint": "81ef745dafdc60a16715",
-      "checkedAt": "2026-11-20T02:52:09.936Z",
+      "checkedAt": "2026-11-21T03:00:00.647Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148125,7 +148264,7 @@
     },
     "B000410:20260130010847:1": {
       "itemFingerprint": "574da24331db871c75a8",
-      "checkedAt": "2026-11-20T02:52:11.187Z",
+      "checkedAt": "2026-11-21T03:00:01.815Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148185,7 +148324,7 @@
     },
     "B000410:20260130010871:1": {
       "itemFingerprint": "44e8db2b2594e354b287",
-      "checkedAt": "2026-11-20T02:52:12.435Z",
+      "checkedAt": "2026-11-21T03:00:02.988Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148245,7 +148384,7 @@
     },
     "B000410:20260130010873:1": {
       "itemFingerprint": "8e7eafc7d9ef99059647",
-      "checkedAt": "2026-11-20T02:52:13.866Z",
+      "checkedAt": "2026-11-21T03:00:04.158Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148305,7 +148444,7 @@
     },
     "B000410:20260130010875:1": {
       "itemFingerprint": "5d9affcc67cc150f49cb",
-      "checkedAt": "2026-11-20T02:52:15.111Z",
+      "checkedAt": "2026-11-21T03:00:05.339Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148365,7 +148504,7 @@
     },
     "B000410:20260130010902:1": {
       "itemFingerprint": "b1a45977c0e1f45b5958",
-      "checkedAt": "2026-11-20T02:52:16.357Z",
+      "checkedAt": "2026-11-21T03:00:06.512Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148425,11 +148564,11 @@
       "apartmentNameFingerprint": "dd3045b98d5ae5397ec2",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-20T02:54:08.586Z"
+      "apartmentNameCheckedAt": "2026-11-21T03:00:49.635Z"
     },
     "B000410:20260130010904:1": {
       "itemFingerprint": "7578660a5715c7f61530",
-      "checkedAt": "2026-11-20T02:52:17.601Z",
+      "checkedAt": "2026-11-21T03:00:07.687Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148489,7 +148628,7 @@
     },
     "B000410:20260130010908:1": {
       "itemFingerprint": "1ca2157b168488e17e7d",
-      "checkedAt": "2026-11-20T02:52:18.875Z",
+      "checkedAt": "2026-11-21T03:00:08.857Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148549,7 +148688,7 @@
     },
     "B000410:20260130010909:1": {
       "itemFingerprint": "65c9a8c8f74f75f44afb",
-      "checkedAt": "2026-11-20T02:52:20.124Z",
+      "checkedAt": "2026-11-21T03:00:10.125Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148609,7 +148748,7 @@
     },
     "B000410:20260130010910:1": {
       "itemFingerprint": "eb72f829754d3f1385fc",
-      "checkedAt": "2026-11-20T02:52:21.382Z",
+      "checkedAt": "2026-11-21T03:00:11.359Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148669,7 +148808,7 @@
     },
     "B000410:20260130010937:1": {
       "itemFingerprint": "b6449418c685c95cbe0e",
-      "checkedAt": "2026-11-20T02:52:22.625Z",
+      "checkedAt": "2026-11-21T03:00:12.542Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148729,7 +148868,7 @@
     },
     "B000410:20260130010941:1": {
       "itemFingerprint": "fa83158215fc6519a7e4",
-      "checkedAt": "2026-11-20T02:52:23.872Z",
+      "checkedAt": "2026-11-21T03:00:13.719Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148789,7 +148928,7 @@
     },
     "B000410:20260130010957:1": {
       "itemFingerprint": "13a554912236f665d037",
-      "checkedAt": "2026-11-20T02:52:25.117Z",
+      "checkedAt": "2026-11-21T03:00:14.916Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148849,7 +148988,7 @@
     },
     "B000410:20260130010959:1": {
       "itemFingerprint": "097ff4233f2e093d9ba7",
-      "checkedAt": "2026-11-20T02:52:26.364Z",
+      "checkedAt": "2026-11-21T03:00:16.086Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148909,7 +149048,7 @@
     },
     "B000412:20250130000841:1": {
       "itemFingerprint": "3452e68f94855fb85599",
-      "checkedAt": "2026-11-20T02:52:27.608Z",
+      "checkedAt": "2026-11-21T03:00:17.265Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148969,7 +149108,7 @@
     },
     "B000412:20250130000868:1": {
       "itemFingerprint": "c29742557646f60f9cd2",
-      "checkedAt": "2026-11-20T02:52:28.883Z",
+      "checkedAt": "2026-11-21T03:00:18.447Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149029,7 +149168,7 @@
     },
     "B000412:20250130000884:1": {
       "itemFingerprint": "12977a696d37f7c27a0f",
-      "checkedAt": "2026-11-20T02:52:30.173Z",
+      "checkedAt": "2026-11-21T03:00:19.789Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149089,7 +149228,7 @@
     },
     "B000412:20250130005971:1": {
       "itemFingerprint": "0308db134167d3434eb9",
-      "checkedAt": "2026-11-20T02:52:41.753Z",
+      "checkedAt": "2026-11-21T03:00:21.002Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149149,7 +149288,7 @@
     },
     "B000412:20250130006137:1": {
       "itemFingerprint": "892e094efdb082d7e6e5",
-      "checkedAt": "2026-11-20T02:52:42.994Z",
+      "checkedAt": "2026-11-21T03:00:22.174Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149209,7 +149348,7 @@
     },
     "B000412:20250130006159:1": {
       "itemFingerprint": "9b01aeb28225e81c0e4b",
-      "checkedAt": "2026-11-20T02:52:44.249Z",
+      "checkedAt": "2026-11-21T03:00:23.348Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149269,7 +149408,7 @@
     },
     "B000412:20250130006166:1": {
       "itemFingerprint": "218b5ba76f99d76ce8c2",
-      "checkedAt": "2026-11-20T02:52:45.505Z",
+      "checkedAt": "2026-11-21T03:00:24.521Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149329,7 +149468,7 @@
     },
     "B000412:20250130006171:1": {
       "itemFingerprint": "64b26fbf346513eb667f",
-      "checkedAt": "2026-11-20T02:52:46.753Z",
+      "checkedAt": "2026-11-21T03:00:26.142Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149389,7 +149528,7 @@
     },
     "B000412:20250130006224:1": {
       "itemFingerprint": "4571f9adc4cef94942b5",
-      "checkedAt": "2026-11-20T02:52:47.989Z",
+      "checkedAt": "2026-11-21T03:00:27.313Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149449,7 +149588,7 @@
     },
     "B000412:20250130006239:1": {
       "itemFingerprint": "aa33e09e4020332c5d8d",
-      "checkedAt": "2026-11-20T02:52:49.226Z",
+      "checkedAt": "2026-11-21T03:00:28.482Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149509,7 +149648,7 @@
     },
     "B000412:20250130006264:1": {
       "itemFingerprint": "8af610ea88e351cf336c",
-      "checkedAt": "2026-11-20T02:52:50.599Z",
+      "checkedAt": "2026-11-21T03:00:29.661Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149569,7 +149708,7 @@
     },
     "B000412:20250130006277:1": {
       "itemFingerprint": "4c2dcf40d05b458ac667",
-      "checkedAt": "2026-11-20T02:52:51.844Z",
+      "checkedAt": "2026-11-21T03:00:30.891Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149629,7 +149768,7 @@
     },
     "B000412:20260130005268:1": {
       "itemFingerprint": "70f5482362200ba2b09a",
-      "checkedAt": "2026-11-20T02:52:53.099Z",
+      "checkedAt": "2026-11-21T03:00:32.157Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149689,7 +149828,7 @@
     },
     "B000414:20250130102117:1": {
       "itemFingerprint": "772f1bb04b9ac27cae54",
-      "checkedAt": "2026-11-20T02:53:08.184Z",
+      "checkedAt": "2026-11-21T03:00:33.346Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149749,7 +149888,7 @@
     },
     "B000414:20250130102202:1": {
       "itemFingerprint": "9359b1f88531da3f0ec0",
-      "checkedAt": "2026-11-20T02:53:09.423Z",
+      "checkedAt": "2026-11-21T03:00:34.532Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149809,7 +149948,7 @@
     },
     "B000414:20250130102337:3": {
       "itemFingerprint": "75e3a38b0c9d2cb07592",
-      "checkedAt": "2026-11-20T02:53:26.500Z",
+      "checkedAt": "2026-11-21T03:00:35.705Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149869,7 +150008,7 @@
     },
     "B000414:20260130100129:1": {
       "itemFingerprint": "1f8d56343ba6b75f954c",
-      "checkedAt": "2026-11-20T02:53:47.872Z",
+      "checkedAt": "2026-11-21T03:00:36.885Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149929,7 +150068,7 @@
     },
     "B000414:20260130100147:1": {
       "itemFingerprint": "519c7f1d7b220f791467",
-      "checkedAt": "2026-11-20T02:53:49.227Z",
+      "checkedAt": "2026-11-21T03:00:38.060Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149989,7 +150128,7 @@
     },
     "B000414:20260130100164:1": {
       "itemFingerprint": "07544431a3b781561311",
-      "checkedAt": "2026-11-20T02:53:50.472Z",
+      "checkedAt": "2026-11-21T03:00:39.248Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150049,7 +150188,7 @@
     },
     "B000414:20260130100164:2": {
       "itemFingerprint": "edf205e7012473e8f3bb",
-      "checkedAt": "2026-11-20T02:53:51.722Z",
+      "checkedAt": "2026-11-21T03:00:40.428Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150109,7 +150248,7 @@
     },
     "B000414:20260130100164:3": {
       "itemFingerprint": "601055ba1989e5a26530",
-      "checkedAt": "2026-11-20T02:53:52.966Z",
+      "checkedAt": "2026-11-21T03:00:41.602Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150169,7 +150308,7 @@
     },
     "B000414:20260130100164:4": {
       "itemFingerprint": "77f249fc9a2cbac573c4",
-      "checkedAt": "2026-11-20T02:53:54.332Z",
+      "checkedAt": "2026-11-21T03:00:42.777Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150229,7 +150368,7 @@
     },
     "B000414:20260130100181:1": {
       "itemFingerprint": "f71b161966e27dd1ae7e",
-      "checkedAt": "2026-11-20T02:53:55.581Z",
+      "checkedAt": "2026-11-21T03:00:43.952Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150289,7 +150428,7 @@
     },
     "B000414:20260130100196:1": {
       "itemFingerprint": "1a309fe779f09c60a460",
-      "checkedAt": "2026-11-20T02:53:56.833Z",
+      "checkedAt": "2026-11-21T03:00:45.125Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150349,7 +150488,7 @@
     },
     "B000414:20260130100212:1": {
       "itemFingerprint": "c1dd32394175f067e9dc",
-      "checkedAt": "2026-11-20T02:53:58.167Z",
+      "checkedAt": "2026-11-21T03:00:46.297Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150409,7 +150548,7 @@
     },
     "B000414:20260130100231:1": {
       "itemFingerprint": "28e88e009b23bf680951",
-      "checkedAt": "2026-11-20T02:53:59.423Z",
+      "checkedAt": "2026-11-21T03:00:47.509Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
