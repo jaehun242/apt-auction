@@ -8212,7 +8212,7 @@
       "apartmentNameFingerprint": "d2a59893127e7c202de1",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.273Z"
     },
     "B000212:20260130003046:1": {
       "itemFingerprint": "9515106b0a085e43d61b",
@@ -9709,7 +9709,7 @@
       "apartmentNameFingerprint": "25af58d8d69f8008923b",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
     },
     "B000213:20250130013946:1": {
       "itemFingerprint": "778fb89fc1115c312069",
@@ -10643,7 +10643,7 @@
       "apartmentNameFingerprint": "88692c29e8ce519ef284",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.273Z"
     },
     "B000212:20250130010286:1": {
       "itemFingerprint": "e59a55643a0b8e87b179",
@@ -17462,7 +17462,7 @@
       "apartmentNameFingerprint": "dcd38788fc93d412665f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.275Z"
     },
     "B000410:20260130010123:1": {
       "itemFingerprint": "51d35391a74e12c37d28",
@@ -23072,7 +23072,7 @@
       "apartmentNameFingerprint": "ab2cb442df4c23fe9587",
       "apartmentName": "아남하이츠4",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.275Z"
     },
     "B000414:20240130004620:3": {
       "itemFingerprint": "aa20e24bbf2716bdce79",
@@ -29126,7 +29126,7 @@
       "apartmentNameFingerprint": "f7bb4c9381722512befb",
       "apartmentName": "삼화아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:50.086Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:43.109Z"
     },
     "B000412:20250130006014:1": {
       "itemFingerprint": "49202e2d3f770908c29a",
@@ -40261,7 +40261,7 @@
       "apartmentNameFingerprint": "2de8c42ed4292956585f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
     },
     "B000215:20250130051362:1": {
       "itemFingerprint": "eece3a0e063570a6b614",
@@ -40521,7 +40521,7 @@
       "apartmentNameFingerprint": "dd49570404e7230d0e0a",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
     },
     "B000215:20250130052242:1": {
       "itemFingerprint": "f1c4bc83f2c84365fb8c",
@@ -52395,9 +52395,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130003981:1": {
-      "itemFingerprint": "225fbdbd142fc096ab8c",
-      "checkedAt": "2026-11-06T02:01:04.998Z",
-      "sourceVersion": "2A97866BAC19861F23D813F24671906B:20261007:20261106",
+      "itemFingerprint": "c10d44a5230dd94c96db",
+      "checkedAt": "2026-11-22T01:55:31.298Z",
+      "sourceVersion": "C34419B9AC1986DA70073C8DF7F5ABE0:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -52461,7 +52461,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:04.998Z",
+          "checkedAt": "2026-11-22T01:55:31.298Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -52840,9 +52840,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130004847:1": {
-      "itemFingerprint": "6603af18e5a375c644f1",
-      "checkedAt": "2026-11-06T02:01:10.479Z",
-      "sourceVersion": "2A97A8D8AC19861F23D813F2C5AFD31E:20261007:20261106",
+      "itemFingerprint": "273ff15e621746ca74e0",
+      "checkedAt": "2026-11-22T01:55:36.614Z",
+      "sourceVersion": "C35015ECAC19861E5398D026EF2D7009:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -52902,7 +52902,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:10.479Z",
+          "checkedAt": "2026-11-22T01:55:36.614Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -53000,9 +53000,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130020498:1": {
-      "itemFingerprint": "2f62cde57971ec82d84c",
-      "checkedAt": "2026-11-06T02:01:19.861Z",
-      "sourceVersion": "2A97BC48AC1986DB0F04F3BEA2E9811B:20261007:20261106",
+      "itemFingerprint": "8d27046aff2b3aea88d8",
+      "checkedAt": "2026-11-22T01:55:48.180Z",
+      "sourceVersion": "F6C2C69FAC19861E466DA700F59D01D6:20261119:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -53066,7 +53066,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:19.861Z",
+          "checkedAt": "2026-11-22T01:55:48.180Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -53076,7 +53076,7 @@
           "benchmarkReference": "2024. 7. 16. 황의순 지분 가압류",
           "benchmarkDate": "2024-07-16",
           "nonExtinguishedRights": "을구 순번 3번 주택임차권등기(2024.10.31.)는 임차보증금 중 배당받지 못한 잔액은 말소되지 않고 매수인에게 인수됨.",
-          "specialSaleConditions": null,
+          "specialSaleConditions": "신청채권자로부터 금 2,700,000원의 매수신청 보증이 있음",
           "occupancySummary": "임차인 점유",
           "investigationStatus": "확인됨",
           "tenants": [
@@ -54838,9 +54838,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022268:1": {
-      "itemFingerprint": "106829218e178266fc2a",
-      "checkedAt": "2026-10-02T01:20:34.416Z",
-      "sourceVersion": "A916A352AC1986DA77B127CF0164783A:20260916:20261002",
+      "itemFingerprint": "8491fd5beece03982802",
+      "checkedAt": "2026-11-22T01:56:02.513Z",
+      "sourceVersion": "80CE5F5EAC19861F44D6B6A593B0DB46:20261119:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -54866,23 +54866,23 @@
         "analysisReasons": [
           "최선순위 설정일자 2022-04-29 확인",
           "현황조사 임차인 명세에 별도 기재 없음",
-          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          "매각 후 존속권리 관련 기재 있음"
         ],
         "assumedAmountLabel": "자동 산정 불가",
         "rightsAnalysis": {
           "status": "reviewed",
-          "riskLevel": "unknown",
+          "riskLevel": "high",
           "benchmarkRight": "최선순위 설정일자 참고정보",
           "benchmarkRightDate": "2022-04-29",
           "seniorTenant": null,
           "juniorTenant": null,
-          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "survivingRights": "토지 별도 등기(을구 1번 구분지상권 설정등기)는 말소되지 않고 매수인에게 인수됨",
           "assumedAmount": null,
           "notes": "등기부 및 최신 법원 원문 추가 확인 필요",
           "reasons": [
             "최선순위 설정일자 2022-04-29 확인",
             "현황조사 임차인 명세에 별도 기재 없음",
-            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+            "매각 후 존속권리 관련 기재 있음"
           ],
           "confidence": "LOW",
           "assumedAmountLabel": "자동 산정 불가"
@@ -54898,7 +54898,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-10-02T01:20:34.416Z",
+          "checkedAt": "2026-11-22T01:56:02.513Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -54907,7 +54907,7 @@
           },
           "benchmarkReference": "2022.04.29. 근저당권",
           "benchmarkDate": "2022-04-29",
-          "nonExtinguishedRights": null,
+          "nonExtinguishedRights": "토지 별도 등기(을구 1번 구분지상권 설정등기)는 말소되지 않고 매수인에게 인수됨",
           "specialSaleConditions": null,
           "occupancySummary": "소유자 점유",
           "investigationStatus": "확인 필요",
@@ -55075,9 +55075,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022482:1": {
-      "itemFingerprint": "2017a77a9d2a6ae56174",
-      "checkedAt": "2026-11-06T02:01:21.719Z",
-      "sourceVersion": "156DF480AC19861F045DD99CBA4C44C6:20261007:20261106",
+      "itemFingerprint": "9e047bb71140170afe6f",
+      "checkedAt": "2026-11-22T01:56:10.893Z",
+      "sourceVersion": "C3DF7972AC19861F44E51E4063FFAC12:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -55135,7 +55135,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:21.719Z",
+          "checkedAt": "2026-11-22T01:56:10.893Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -55582,9 +55582,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023096:1": {
-      "itemFingerprint": "12e044d7238379375a5a",
-      "checkedAt": "2026-11-06T02:01:31.563Z",
-      "sourceVersion": "2AA0ADCAAC1986DA157476282028E822:20261007:20261106",
+      "itemFingerprint": "0671cc5bcd1d5a06b2d9",
+      "checkedAt": "2026-11-22T01:56:30.100Z",
+      "sourceVersion": "C8533D32AC19861F44E51E405287F250:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -55642,7 +55642,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:31.563Z",
+          "checkedAt": "2026-11-22T01:56:30.100Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -55661,9 +55661,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023147:1": {
-      "itemFingerprint": "5f4c17a57d67dcbfe791",
-      "checkedAt": "2026-11-06T02:01:34.841Z",
-      "sourceVersion": "2AA0B1CCAC19861E554938D94BE8C8E1:20261007:20261106",
+      "itemFingerprint": "46cc46c8e67dea4cc257",
+      "checkedAt": "2026-11-22T01:56:36.940Z",
+      "sourceVersion": "C85351F3AC1986DA70073C8DAB5F6A74:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -55721,7 +55721,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:34.841Z",
+          "checkedAt": "2026-11-22T01:56:36.940Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -84506,7 +84506,7 @@
       "apartmentNameFingerprint": "3075f0ebe08e8d26d38f",
       "apartmentName": "현대아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.272Z"
     },
     "B000412:20220130108157:1": {
       "itemFingerprint": "8c12b59f40e762553f46",
@@ -89572,7 +89572,7 @@
       "apartmentNameFingerprint": "0472b07f21d725e1153f",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
     },
     "B000213:20250130013714:1": {
       "itemFingerprint": "d6bf76c709a377099eab",
@@ -92071,7 +92071,7 @@
       "apartmentNameFingerprint": "8a39a3dd94f9c83c2d78",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.273Z"
     },
     "B000212:20250130013394:1": {
       "itemFingerprint": "5451eeae3d9c7ee00a17",
@@ -99052,9 +99052,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130005062:1": {
-      "itemFingerprint": "2467950f7db826f9d9aa",
-      "checkedAt": "2026-10-21T00:29:13.197Z",
-      "sourceVersion": "0FC17DD3AC19861E7AC5FA0DAED3F44C:20261006:20261106",
+      "itemFingerprint": "99b3e605cec5aa7a5528",
+      "checkedAt": "2026-11-22T01:55:42.151Z",
+      "sourceVersion": "C3502B30AC19861F44E51E401C5CD73A:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -99114,7 +99114,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-10-21T00:29:13.197Z",
+          "checkedAt": "2026-11-22T01:55:42.151Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -103955,9 +103955,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130003776:1": {
-      "itemFingerprint": "9c75979277744989a275",
-      "checkedAt": "2026-11-06T02:00:56.344Z",
-      "sourceVersion": "383123E6AC19861F23D813F2997EB979:20261014:20261106",
+      "itemFingerprint": "d1d15a342c70b41b8d6b",
+      "checkedAt": "2026-11-22T01:55:27.617Z",
+      "sourceVersion": "C343F07BAC19861F44E51E40E84C03CF:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104021,7 +104021,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:00:56.344Z",
+          "checkedAt": "2026-11-22T01:55:27.617Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104053,9 +104053,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130022836:1": {
-      "itemFingerprint": "a6c850e0f96817c76de7",
-      "checkedAt": "2026-11-06T02:01:25.081Z",
-      "sourceVersion": "FAD1F7D2AC19861E7AC5FA0DC35B9D17:20261014:20261106",
+      "itemFingerprint": "7fa75dc93f1493bf2c7a",
+      "checkedAt": "2026-11-22T01:56:21.486Z",
+      "sourceVersion": "C84B5532AC19861F44E51E40FCB710F4:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104119,7 +104119,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:25.081Z",
+          "checkedAt": "2026-11-22T01:56:21.486Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104151,9 +104151,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023268:1": {
-      "itemFingerprint": "c318472144019210b135",
-      "checkedAt": "2026-11-06T02:01:38.329Z",
-      "sourceVersion": "2DFD74D4AC19861F23D813F2FBB6B8D5:20261014:20261106",
+      "itemFingerprint": "f0a7f54d98803318f6c7",
+      "checkedAt": "2026-11-22T01:56:42.926Z",
+      "sourceVersion": "C853DE3CAC19861E5398D02691255E86:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104213,7 +104213,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:38.329Z",
+          "checkedAt": "2026-11-22T01:56:42.926Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104232,9 +104232,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20250130023276:1": {
-      "itemFingerprint": "b69bfeb8e978013510db",
-      "checkedAt": "2026-11-06T02:01:41.717Z",
-      "sourceVersion": "F5D81485AC1986DA6569CD9B15638597:20261014:20261106",
+      "itemFingerprint": "ce9b5723fb09bab30a13",
+      "checkedAt": "2026-11-22T01:56:49.155Z",
+      "sourceVersion": "C853F386AC1986DB502837C15851A1CD:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104298,7 +104298,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:41.717Z",
+          "checkedAt": "2026-11-22T01:56:49.155Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104409,9 +104409,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130001069:1": {
-      "itemFingerprint": "81e0c3b609bb84a8bb1a",
-      "checkedAt": "2026-11-06T02:01:55.088Z",
-      "sourceVersion": "F13FFFE5AC1986DB68C3BE054CD1B684:20261014:20261106",
+      "itemFingerprint": "280287431dda31309739",
+      "checkedAt": "2026-11-22T01:56:54.266Z",
+      "sourceVersion": "C85AEADEAC1986DA70073C8D94507DF3:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104469,7 +104469,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:55.088Z",
+          "checkedAt": "2026-11-22T01:56:54.266Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104488,9 +104488,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130010044:1": {
-      "itemFingerprint": "0a78c6e4ebf9dde66cb3",
-      "checkedAt": "2026-11-06T02:01:58.252Z",
-      "sourceVersion": "38311EC8AC1986DB0F04F3BEF120B5AA:20261014:20261106",
+      "itemFingerprint": "2e63ab034ff0da751f3a",
+      "checkedAt": "2026-11-22T01:57:06.178Z",
+      "sourceVersion": "C865A165AC1986DB502837C173D35721:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104548,7 +104548,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:01:58.252Z",
+          "checkedAt": "2026-11-22T01:57:06.178Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104567,9 +104567,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130010053:1": {
-      "itemFingerprint": "6f23448000670f35656d",
-      "checkedAt": "2026-11-06T02:02:01.113Z",
-      "sourceVersion": "13C37DFCAC1986DB12373D912CB4CAC3:20261014:20261106",
+      "itemFingerprint": "1deb4b55abdb538229f5",
+      "checkedAt": "2026-11-22T01:57:11.356Z",
+      "sourceVersion": "C865B466AC19861F44E51E4085A4CF08:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104633,7 +104633,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:02:01.113Z",
+          "checkedAt": "2026-11-22T01:57:11.356Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104744,9 +104744,9 @@
       "analysisPolicyVersion": 2
     },
     "B000410:20260130010199:1": {
-      "itemFingerprint": "e02faafff9a33395e64f",
-      "checkedAt": "2026-11-06T02:02:04.456Z",
-      "sourceVersion": "38312D4EAC19861F23D813F2C9316630:20261014:20261106",
+      "itemFingerprint": "ad751b31f2f47c5a45cf",
+      "checkedAt": "2026-11-22T01:57:16.936Z",
+      "sourceVersion": "C866074CAC19861E5398D026ECED0FC8:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104810,7 +104810,7 @@
           "confidence": "MEDIUM"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:02:04.456Z",
+          "checkedAt": "2026-11-22T01:57:16.936Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -104843,12 +104843,12 @@
       "apartmentNameFingerprint": "eb0920487101d12d89e0",
       "apartmentName": "허브팰리스",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-06T02:02:16.517Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.275Z"
     },
     "B000410:20260130010253:1": {
-      "itemFingerprint": "64e5102b3351527cf5ed",
-      "checkedAt": "2026-11-06T02:02:07.464Z",
-      "sourceVersion": "38313E56AC19861F23D813F28DA7CE20:20261014:20261106",
+      "itemFingerprint": "cfd2fcec51b3d75b1c12",
+      "checkedAt": "2026-11-22T01:57:22.063Z",
+      "sourceVersion": "C86DA27CAC19861E5398D02612CE6E77:20261111:20261211",
       "documents": {
         "detail": {
           "available": true,
@@ -104906,7 +104906,7 @@
           "confidence": "LOW"
         },
         "auctionAnalysisSource": {
-          "checkedAt": "2026-11-06T02:02:07.464Z",
+          "checkedAt": "2026-11-22T01:57:22.063Z",
           "sources": {
             "detail": "AVAILABLE",
             "statusReport": "AVAILABLE",
@@ -138931,7 +138931,7 @@
       "apartmentNameFingerprint": "1516d11f37e35278d284",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.273Z"
     },
     "B000212:20260130004782:1": {
       "itemFingerprint": "87d7f66aa6a1892659d8",
@@ -142271,7 +142271,7 @@
       "apartmentNameFingerprint": "ebce956288d5aee588f4",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
     },
     "B000213:20250130013868:1": {
       "itemFingerprint": "a2f2217649f648a6b98a",
@@ -142533,7 +142533,7 @@
       "apartmentNameFingerprint": "c0151a2229736ecc806e",
       "apartmentName": "우성아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
     },
     "B000213:20260130000045:1": {
       "itemFingerprint": "5fb4fffbb3c598163c8b",
@@ -144225,7 +144225,7 @@
       "apartmentNameFingerprint": "25d3f9044acfc82891c6",
       "apartmentName": "삼풍아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.272Z"
     },
     "B000210:20260130101212:1": {
       "itemFingerprint": "649bede72c9cff89da6a",
@@ -144308,7 +144308,7 @@
       "apartmentNameFingerprint": "c7e4ae7b6e7c95427eac",
       "apartmentName": "청암빌라트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.272Z"
     },
     "B000210:20260130101475:1": {
       "itemFingerprint": "b1d2ab71058b42ea87c4",
@@ -144489,7 +144489,7 @@
       "apartmentNameFingerprint": "3b28987c83011e75762b",
       "apartmentName": "예촌그린아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.691Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.272Z"
     },
     "B000212:20260130003605:1": {
       "itemFingerprint": "a2f8aec66fa63d98658b",
@@ -144572,7 +144572,7 @@
       "apartmentNameFingerprint": "65a46daf25c5bd608386",
       "apartmentName": "현대하이페리온",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.692Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.273Z"
     },
     "B000212:20260130004281:1": {
       "itemFingerprint": "64c4590366b388ce07f8",
@@ -144811,550 +144811,6 @@
       },
       "analysisPolicyVersion": 2
     },
-    "B000210:20240130004576:1": {
-      "itemFingerprint": "8e2e5286efa007bbd2a0",
-      "checkedAt": "2026-11-21T02:58:39.701Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
-    "B000210:20240130125923:1": {
-      "itemFingerprint": "1e655542ca4676828973",
-      "checkedAt": "2026-11-21T02:58:42.471Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
-    "B000210:20260130100248:1": {
-      "itemFingerprint": "0b4f25c656032e2e9a12",
-      "checkedAt": "2026-11-21T02:58:43.640Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
-    "B000210:20260130100949:1": {
-      "itemFingerprint": "c75ea7ac3961308a6b71",
-      "checkedAt": "2026-11-21T02:58:44.810Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
-    "B000210:20260130100973:1": {
-      "itemFingerprint": "312f84b5b0ec55e670f0",
-      "checkedAt": "2026-11-21T02:58:45.981Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2,
-      "apartmentNameFingerprint": "c13f7f715bdc75e7b242",
-      "apartmentName": "벨루스빌",
-      "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
-    },
-    "B000210:20260130100984:1": {
-      "itemFingerprint": "f36610e664f56738edc5",
-      "checkedAt": "2026-11-21T02:58:47.150Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
-    "B000211:20260130050052:1": {
-      "itemFingerprint": "2988c528810e10b16215",
-      "checkedAt": "2026-11-21T02:58:48.319Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
-    "B000211:20260130050128:1": {
-      "itemFingerprint": "4ac04daa3acbc3afdfb2",
-      "checkedAt": "2026-11-21T02:58:49.486Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
-    "B000211:20260130050158:1": {
-      "itemFingerprint": "8b52e762197c6b1d5c54",
-      "checkedAt": "2026-11-21T02:58:50.809Z",
-      "sourceVersion": null,
-      "documents": {
-        "detail": {
-          "available": false,
-          "error": "사건 상세 응답에 매각물건정보가 없습니다."
-        },
-        "statusReport": {
-          "available": false,
-          "error": null
-        },
-        "saleSpecification": {
-          "available": false,
-          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
-        },
-        "appraisal": {
-          "available": false,
-          "directUrlAvailable": false,
-          "reason": "직접 URL을 저장하지 않음"
-        }
-      },
-      "analysis": {
-        "analysisStatus": "UNAVAILABLE",
-        "analysisConfidence": "UNAVAILABLE",
-        "analysisReasons": [
-          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-        ],
-        "assumedAmountLabel": "자동 산정 불가",
-        "rightsAnalysis": {
-          "status": "unavailable",
-          "riskLevel": "unknown",
-          "benchmarkRight": null,
-          "benchmarkRightDate": null,
-          "seniorTenant": null,
-          "juniorTenant": null,
-          "survivingRights": null,
-          "assumedAmount": null,
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE",
-          "assumedAmountLabel": "자동 산정 불가"
-        },
-        "occupancyAnalysis": {
-          "occupant": null,
-          "tenantOpposability": null,
-          "evictionRisk": "unknown",
-          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
-          "reasons": [
-            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
-          ],
-          "confidence": "UNAVAILABLE"
-        },
-        "auctionAnalysisSource": null
-      },
-      "analysisPolicyVersion": 2
-    },
     "B000212:20240130139034:1": {
       "itemFingerprint": "916ec25100e1277f3268",
       "checkedAt": "2026-11-21T02:58:51.977Z",
@@ -145434,9 +144890,553 @@
       },
       "analysisPolicyVersion": 2
     },
+    "B000210:20240130004576:1": {
+      "itemFingerprint": "8e2e5286efa007bbd2a0",
+      "checkedAt": "2026-11-22T01:54:43.105Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000210:20240130125923:1": {
+      "itemFingerprint": "1e655542ca4676828973",
+      "checkedAt": "2026-11-22T01:54:46.346Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000210:20260130100248:1": {
+      "itemFingerprint": "0b4f25c656032e2e9a12",
+      "checkedAt": "2026-11-22T01:54:47.626Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000210:20260130100949:1": {
+      "itemFingerprint": "c75ea7ac3961308a6b71",
+      "checkedAt": "2026-11-22T01:54:48.913Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000210:20260130100973:1": {
+      "itemFingerprint": "312f84b5b0ec55e670f0",
+      "checkedAt": "2026-11-22T01:54:50.191Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2,
+      "apartmentNameFingerprint": "c13f7f715bdc75e7b242",
+      "apartmentName": "벨루스빌",
+      "apartmentNameSource": "previousState",
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
+    },
+    "B000210:20260130100984:1": {
+      "itemFingerprint": "f36610e664f56738edc5",
+      "checkedAt": "2026-11-22T01:54:51.470Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000211:20260130050052:1": {
+      "itemFingerprint": "2988c528810e10b16215",
+      "checkedAt": "2026-11-22T01:54:52.747Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000211:20260130050128:1": {
+      "itemFingerprint": "4ac04daa3acbc3afdfb2",
+      "checkedAt": "2026-11-22T01:54:54.026Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000211:20260130050158:1": {
+      "itemFingerprint": "8b52e762197c6b1d5c54",
+      "checkedAt": "2026-11-22T01:54:55.305Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
     "B000212:20250130000771:1": {
       "itemFingerprint": "eca07716faa92e856315",
-      "checkedAt": "2026-11-21T02:58:55.023Z",
+      "checkedAt": "2026-11-22T01:54:56.592Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145496,7 +145496,7 @@
     },
     "B000212:20260130003891:1": {
       "itemFingerprint": "f7f2b772f419015d07e2",
-      "checkedAt": "2026-11-21T02:59:02.051Z",
+      "checkedAt": "2026-11-22T01:54:57.879Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145556,7 +145556,7 @@
     },
     "B000212:20260130004311:1": {
       "itemFingerprint": "aa5008bde5d4b3ff0339",
-      "checkedAt": "2026-11-21T02:59:03.227Z",
+      "checkedAt": "2026-11-22T01:54:59.155Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145616,11 +145616,11 @@
       "apartmentNameFingerprint": "6046cb7165eb2b117816",
       "apartmentName": "앤프라2",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.274Z"
     },
     "B000212:20260130004930:1": {
       "itemFingerprint": "c9e79b3b58e628c20760",
-      "checkedAt": "2026-11-21T02:59:04.394Z",
+      "checkedAt": "2026-11-22T01:55:00.435Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145680,7 +145680,7 @@
     },
     "B000212:20260130005261:1": {
       "itemFingerprint": "87ecde149ce1582b63a0",
-      "checkedAt": "2026-11-21T02:59:05.603Z",
+      "checkedAt": "2026-11-22T01:55:01.711Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145740,7 +145740,7 @@
     },
     "B000212:20260130006550:1": {
       "itemFingerprint": "dabc3ee9d2a570f60db5",
-      "checkedAt": "2026-11-21T02:59:12.294Z",
+      "checkedAt": "2026-11-22T01:55:03.004Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145800,7 +145800,7 @@
     },
     "B000213:20240130110654:1": {
       "itemFingerprint": "38162d6a923e8dc45679",
-      "checkedAt": "2026-11-21T02:59:13.464Z",
+      "checkedAt": "2026-11-22T01:55:04.289Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145860,7 +145860,7 @@
     },
     "B000213:20250130013049:1": {
       "itemFingerprint": "5bd08087fea7b42ccd0c",
-      "checkedAt": "2026-11-21T02:59:14.635Z",
+      "checkedAt": "2026-11-22T01:55:05.572Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145920,7 +145920,7 @@
     },
     "B000213:20250130013415:1": {
       "itemFingerprint": "c22b7ef54219684dcb2f",
-      "checkedAt": "2026-11-21T02:59:15.822Z",
+      "checkedAt": "2026-11-22T01:55:06.851Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -145980,7 +145980,7 @@
     },
     "B000213:20260130000022:1": {
       "itemFingerprint": "9f01805be91fe3461d90",
-      "checkedAt": "2026-11-21T02:59:17.004Z",
+      "checkedAt": "2026-11-22T01:55:08.132Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146040,7 +146040,7 @@
     },
     "B000213:20260130000169:1": {
       "itemFingerprint": "23e657a9351e5952e2f4",
-      "checkedAt": "2026-11-21T02:59:18.173Z",
+      "checkedAt": "2026-11-22T01:55:09.410Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146100,7 +146100,7 @@
     },
     "B000213:20260130010194:1": {
       "itemFingerprint": "5d50fa2754fdb7f5bf6f",
-      "checkedAt": "2026-11-21T02:59:19.342Z",
+      "checkedAt": "2026-11-22T01:55:10.763Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146160,7 +146160,7 @@
     },
     "B000213:20260130010454:1": {
       "itemFingerprint": "d4ccd01efcf5b1ce837f",
-      "checkedAt": "2026-11-21T02:59:20.512Z",
+      "checkedAt": "2026-11-22T01:55:12.039Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146220,7 +146220,7 @@
     },
     "B000213:20260130010819:1": {
       "itemFingerprint": "25e86336a9cd856070d6",
-      "checkedAt": "2026-11-21T02:59:21.687Z",
+      "checkedAt": "2026-11-22T01:55:13.330Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146280,7 +146280,7 @@
     },
     "B000213:20260130010954:1": {
       "itemFingerprint": "497bd48dfc76303a5cc3",
-      "checkedAt": "2026-11-21T02:59:22.856Z",
+      "checkedAt": "2026-11-22T01:55:14.609Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146340,7 +146340,7 @@
     },
     "B000213:20260130010988:1": {
       "itemFingerprint": "ec7b4f11019864b86508",
-      "checkedAt": "2026-11-21T02:59:24.028Z",
+      "checkedAt": "2026-11-22T01:55:15.987Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146400,7 +146400,7 @@
     },
     "B000213:20260130011097:1": {
       "itemFingerprint": "110a986413c4e6a8cbf6",
-      "checkedAt": "2026-11-21T02:59:25.288Z",
+      "checkedAt": "2026-11-22T01:55:17.267Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146460,7 +146460,7 @@
     },
     "B000213:20260130011125:1": {
       "itemFingerprint": "95d96f7a20bf8c0ff767",
-      "checkedAt": "2026-11-21T02:59:26.458Z",
+      "checkedAt": "2026-11-22T01:55:18.555Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146520,7 +146520,7 @@
     },
     "B000215:20260130050397:1": {
       "itemFingerprint": "e5e27b6e83967de5017e",
-      "checkedAt": "2026-11-21T02:59:27.628Z",
+      "checkedAt": "2026-11-22T01:55:19.841Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146580,7 +146580,7 @@
     },
     "B000215:20260130050447:1": {
       "itemFingerprint": "ce6a5da10291e547a844",
-      "checkedAt": "2026-11-21T02:59:28.800Z",
+      "checkedAt": "2026-11-22T01:55:21.130Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146640,7 +146640,7 @@
     },
     "B000215:20260130050571:1": {
       "itemFingerprint": "74d9003c7ba7d0cf2b0c",
-      "checkedAt": "2026-11-21T02:59:29.974Z",
+      "checkedAt": "2026-11-22T01:55:22.409Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146700,7 +146700,7 @@
     },
     "B000215:20260130050730:1": {
       "itemFingerprint": "990222ec237f6b4c1d69",
-      "checkedAt": "2026-11-21T02:59:31.147Z",
+      "checkedAt": "2026-11-22T01:55:23.694Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146760,7 +146760,7 @@
     },
     "B000215:20260130050835:1": {
       "itemFingerprint": "8d4b8f3364a2365046e7",
-      "checkedAt": "2026-11-21T02:59:32.333Z",
+      "checkedAt": "2026-11-22T01:55:24.973Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146820,7 +146820,7 @@
     },
     "B000410:20250130002865:1": {
       "itemFingerprint": "af66173e7d54126ff580",
-      "checkedAt": "2026-11-21T02:59:33.507Z",
+      "checkedAt": "2026-11-22T01:55:26.339Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146880,7 +146880,7 @@
     },
     "B000410:20250130004465:1": {
       "itemFingerprint": "824715de21c547a75950",
-      "checkedAt": "2026-11-21T02:59:34.679Z",
+      "checkedAt": "2026-11-22T01:55:34.039Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146940,7 +146940,7 @@
     },
     "B000410:20250130004762:1": {
       "itemFingerprint": "0af7f1286a5d8544418a",
-      "checkedAt": "2026-11-21T02:59:35.851Z",
+      "checkedAt": "2026-11-22T01:55:35.333Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -146998,9 +146998,88 @@
       },
       "analysisPolicyVersion": 2
     },
+    "B000410:20250130021597:1": {
+      "itemFingerprint": "5f31022de74800309ff3",
+      "checkedAt": "2026-11-22T01:55:50.571Z",
+      "sourceVersion": "C069E9FDAC19861F44E51E4016215DA3:20261110:20261211",
+      "documents": {
+        "detail": {
+          "available": true,
+          "error": null
+        },
+        "statusReport": {
+          "available": true,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "AVAILABLE",
+        "analysisConfidence": "MEDIUM",
+        "analysisReasons": [
+          "최선순위 설정일자 2014-02-17 확인",
+          "현황조사 임차인 명세에 별도 기재 없음",
+          "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+        ],
+        "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음",
+        "rightsAnalysis": {
+          "status": "reviewed",
+          "riskLevel": "low",
+          "benchmarkRight": "최선순위 설정일자 참고정보",
+          "benchmarkRightDate": "2014-02-17",
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": "현재 확보한 법원 상세정보에 별도 기재 없음",
+          "assumedAmount": null,
+          "notes": "현재 확보한 법원 자료에서 주요 인수 위험요소가 발견되지 않음",
+          "reasons": [
+            "최선순위 설정일자 2014-02-17 확인",
+            "현황조사 임차인 명세에 별도 기재 없음",
+            "상세정보에 매각 후 존속권리 관련 별도 기재 없음"
+          ],
+          "confidence": "MEDIUM",
+          "assumedAmountLabel": "추가 인수금액 현재 자료에서 확인되지 않음"
+        },
+        "occupancyAnalysis": {
+          "occupant": "소유자 점유",
+          "tenantOpposability": "현재 자료에 별도 임차인 기재 없음",
+          "evictionRisk": "low",
+          "notes": "현황조사서 기반 1차 참고정보입니다.",
+          "reasons": [
+            "현황조사 임차인 명세에 별도 기재 없음"
+          ],
+          "confidence": "MEDIUM"
+        },
+        "auctionAnalysisSource": {
+          "checkedAt": "2026-11-22T01:55:50.571Z",
+          "sources": {
+            "detail": "AVAILABLE",
+            "statusReport": "AVAILABLE",
+            "saleSpecification": "UNAVAILABLE",
+            "appraisalReport": "AVAILABLE"
+          },
+          "benchmarkReference": "2014. 2. 17. 근저당권",
+          "benchmarkDate": "2014-02-17",
+          "nonExtinguishedRights": null,
+          "specialSaleConditions": null,
+          "occupancySummary": "소유자 점유",
+          "investigationStatus": "확인됨",
+          "tenants": []
+        }
+      },
+      "analysisPolicyVersion": 2
+    },
     "B000410:20250130021800:1": {
       "itemFingerprint": "0940e27c5c15cc0ae88f",
-      "checkedAt": "2026-11-21T02:59:37.019Z",
+      "checkedAt": "2026-11-22T01:55:57.348Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147060,7 +147139,7 @@
     },
     "B000410:20250130021913:1": {
       "itemFingerprint": "b146346533f55b2651e1",
-      "checkedAt": "2026-11-21T02:59:38.189Z",
+      "checkedAt": "2026-11-22T01:55:58.641Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147120,7 +147199,7 @@
     },
     "B000410:20250130022188:1": {
       "itemFingerprint": "b4ff063379546ab5f6df",
-      "checkedAt": "2026-11-21T02:59:39.375Z",
+      "checkedAt": "2026-11-22T01:55:59.929Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147180,7 +147259,7 @@
     },
     "B000410:20250130022248:1": {
       "itemFingerprint": "513f6a181efc4b72e216",
-      "checkedAt": "2026-11-21T02:59:40.546Z",
+      "checkedAt": "2026-11-22T01:56:01.223Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147240,7 +147319,7 @@
     },
     "B000410:20250130022300:1": {
       "itemFingerprint": "5107ee5e7b8353778dd7",
-      "checkedAt": "2026-11-21T02:59:41.718Z",
+      "checkedAt": "2026-11-22T01:56:08.324Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147300,7 +147379,7 @@
     },
     "B000410:20250130022307:1": {
       "itemFingerprint": "fb5e2b6f62efc77f57b7",
-      "checkedAt": "2026-11-21T02:59:42.960Z",
+      "checkedAt": "2026-11-22T01:56:09.606Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147360,7 +147439,7 @@
     },
     "B000410:20250130022728:1": {
       "itemFingerprint": "ecf961705b816992618b",
-      "checkedAt": "2026-11-21T02:59:44.129Z",
+      "checkedAt": "2026-11-22T01:56:16.366Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147420,7 +147499,7 @@
     },
     "B000410:20250130022749:1": {
       "itemFingerprint": "b5d701179509c59d0b6a",
-      "checkedAt": "2026-11-21T02:59:45.403Z",
+      "checkedAt": "2026-11-22T01:56:17.651Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147480,7 +147559,7 @@
     },
     "B000410:20250130022759:1": {
       "itemFingerprint": "143f6969c0792d429fa3",
-      "checkedAt": "2026-11-21T02:59:46.575Z",
+      "checkedAt": "2026-11-22T01:56:18.929Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147540,7 +147619,7 @@
     },
     "B000410:20250130022788:1": {
       "itemFingerprint": "864a20302e4dbbf645fb",
-      "checkedAt": "2026-11-21T02:59:47.744Z",
+      "checkedAt": "2026-11-22T01:56:20.207Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147600,11 +147679,11 @@
       "apartmentNameFingerprint": "d10c1893fe1a83dacab4",
       "apartmentName": "동아아파트",
       "apartmentNameSource": "previousState",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:48.693Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:41.275Z"
     },
     "B000410:20250130022930:1": {
       "itemFingerprint": "42a3c24b07d952b10603",
-      "checkedAt": "2026-11-21T02:59:48.913Z",
+      "checkedAt": "2026-11-22T01:56:28.819Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147664,7 +147743,427 @@
     },
     "B000410:20250130023137:1": {
       "itemFingerprint": "5ca23d53d18e5fb883b3",
-      "checkedAt": "2026-11-21T02:59:50.093Z",
+      "checkedAt": "2026-11-22T01:56:35.651Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130001110:1": {
+      "itemFingerprint": "35d5a807962f9b71f291",
+      "checkedAt": "2026-11-22T01:57:01.014Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130001116:1": {
+      "itemFingerprint": "0279ca9be72565c6a389",
+      "checkedAt": "2026-11-22T01:57:02.299Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130001148:1": {
+      "itemFingerprint": "c12dc0dea49811101bf2",
+      "checkedAt": "2026-11-22T01:57:03.578Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130001153:1": {
+      "itemFingerprint": "d1bb11a2281463e5b1a3",
+      "checkedAt": "2026-11-22T01:57:04.857Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010293:1": {
+      "itemFingerprint": "44a54aaee33892d6ad49",
+      "checkedAt": "2026-11-22T01:57:26.876Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010304:1": {
+      "itemFingerprint": "8e6139cdbd8762940b37",
+      "checkedAt": "2026-11-22T01:57:28.155Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010311:1": {
+      "itemFingerprint": "6350e7708c72a05b80b2",
+      "checkedAt": "2026-11-22T01:57:29.438Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147724,7 +148223,127 @@
     },
     "B000410:20260130010345:1": {
       "itemFingerprint": "4298a413375e381be293",
-      "checkedAt": "2026-11-21T02:59:51.277Z",
+      "checkedAt": "2026-11-22T01:57:30.722Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010421:1": {
+      "itemFingerprint": "4db17628d91b9ba19b42",
+      "checkedAt": "2026-11-22T01:57:32.003Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010439:1": {
+      "itemFingerprint": "9c984bb93aa7c10e5f61",
+      "checkedAt": "2026-11-22T01:57:33.285Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147784,7 +148403,187 @@
     },
     "B000410:20260130010468:1": {
       "itemFingerprint": "e9798b94a96b0830808a",
-      "checkedAt": "2026-11-21T02:59:52.445Z",
+      "checkedAt": "2026-11-22T01:57:34.719Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010509:1": {
+      "itemFingerprint": "5913a7ce1e665bec3d0c",
+      "checkedAt": "2026-11-22T01:57:35.999Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010530:1": {
+      "itemFingerprint": "b50c288048472d397ff8",
+      "checkedAt": "2026-11-22T01:57:37.481Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010540:1": {
+      "itemFingerprint": "d220236f23ec75e63cb4",
+      "checkedAt": "2026-11-22T01:57:38.775Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147844,7 +148643,7 @@
     },
     "B000410:20260130010619:1": {
       "itemFingerprint": "8869d8cbe1706651f80b",
-      "checkedAt": "2026-11-21T02:59:53.620Z",
+      "checkedAt": "2026-11-22T01:57:40.061Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147904,7 +148703,67 @@
     },
     "B000410:20260130010663:1": {
       "itemFingerprint": "4ec1d1f96b0463f71777",
-      "checkedAt": "2026-11-21T02:59:54.789Z",
+      "checkedAt": "2026-11-22T01:57:41.344Z",
+      "sourceVersion": null,
+      "documents": {
+        "detail": {
+          "available": false,
+          "error": "사건 상세 응답에 매각물건정보가 없습니다."
+        },
+        "statusReport": {
+          "available": false,
+          "error": null
+        },
+        "saleSpecification": {
+          "available": false,
+          "reason": "공식 뷰어 발급 요청 오류로 직접 저장 불가"
+        },
+        "appraisal": {
+          "available": false,
+          "directUrlAvailable": false,
+          "reason": "직접 URL을 저장하지 않음"
+        }
+      },
+      "analysis": {
+        "analysisStatus": "UNAVAILABLE",
+        "analysisConfidence": "UNAVAILABLE",
+        "analysisReasons": [
+          "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+        ],
+        "assumedAmountLabel": "자동 산정 불가",
+        "rightsAnalysis": {
+          "status": "unavailable",
+          "riskLevel": "unknown",
+          "benchmarkRight": null,
+          "benchmarkRightDate": null,
+          "seniorTenant": null,
+          "juniorTenant": null,
+          "survivingRights": null,
+          "assumedAmount": null,
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE",
+          "assumedAmountLabel": "자동 산정 불가"
+        },
+        "occupancyAnalysis": {
+          "occupant": null,
+          "tenantOpposability": null,
+          "evictionRisk": "unknown",
+          "notes": "법원 상세정보와 현황조사 자료를 확보하지 못했습니다.",
+          "reasons": [
+            "법원 상세정보와 현황조사 자료를 확보하지 못했습니다."
+          ],
+          "confidence": "UNAVAILABLE"
+        },
+        "auctionAnalysisSource": null
+      },
+      "analysisPolicyVersion": 2
+    },
+    "B000410:20260130010695:1": {
+      "itemFingerprint": "8cd00d9f2ae7d69b6289",
+      "checkedAt": "2026-11-22T01:57:42.657Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -147964,7 +148823,7 @@
     },
     "B000410:20260130010818:1": {
       "itemFingerprint": "2ea8e22b0d410d69fd36",
-      "checkedAt": "2026-11-21T02:59:55.959Z",
+      "checkedAt": "2026-11-22T01:57:43.946Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148024,7 +148883,7 @@
     },
     "B000410:20260130010826:1": {
       "itemFingerprint": "dfad322b078d0da41670",
-      "checkedAt": "2026-11-21T02:59:57.136Z",
+      "checkedAt": "2026-11-22T01:57:45.234Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148084,7 +148943,7 @@
     },
     "B000410:20260130010827:1": {
       "itemFingerprint": "173eafc96077284cd494",
-      "checkedAt": "2026-11-21T02:59:58.305Z",
+      "checkedAt": "2026-11-22T01:57:46.516Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148144,7 +149003,7 @@
     },
     "B000410:20260130010828:1": {
       "itemFingerprint": "25c7b3fb72d57d931a69",
-      "checkedAt": "2026-11-21T02:59:59.476Z",
+      "checkedAt": "2026-11-22T01:57:47.887Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148204,7 +149063,7 @@
     },
     "B000410:20260130010835:1": {
       "itemFingerprint": "81ef745dafdc60a16715",
-      "checkedAt": "2026-11-21T03:00:00.647Z",
+      "checkedAt": "2026-11-22T01:57:49.170Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148264,7 +149123,7 @@
     },
     "B000410:20260130010847:1": {
       "itemFingerprint": "574da24331db871c75a8",
-      "checkedAt": "2026-11-21T03:00:01.815Z",
+      "checkedAt": "2026-11-22T01:57:50.458Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148324,7 +149183,7 @@
     },
     "B000410:20260130010871:1": {
       "itemFingerprint": "44e8db2b2594e354b287",
-      "checkedAt": "2026-11-21T03:00:02.988Z",
+      "checkedAt": "2026-11-22T01:57:51.740Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148384,7 +149243,7 @@
     },
     "B000410:20260130010873:1": {
       "itemFingerprint": "8e7eafc7d9ef99059647",
-      "checkedAt": "2026-11-21T03:00:04.158Z",
+      "checkedAt": "2026-11-22T01:57:53.131Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148444,7 +149303,7 @@
     },
     "B000410:20260130010875:1": {
       "itemFingerprint": "5d9affcc67cc150f49cb",
-      "checkedAt": "2026-11-21T03:00:05.339Z",
+      "checkedAt": "2026-11-22T01:57:54.413Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148504,7 +149363,7 @@
     },
     "B000410:20260130010902:1": {
       "itemFingerprint": "b1a45977c0e1f45b5958",
-      "checkedAt": "2026-11-21T03:00:06.512Z",
+      "checkedAt": "2026-11-22T01:57:55.697Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148564,11 +149423,11 @@
       "apartmentNameFingerprint": "dd3045b98d5ae5397ec2",
       "apartmentName": "아파트명 확인 필요",
       "apartmentNameSource": "unavailable",
-      "apartmentNameCheckedAt": "2026-11-21T03:00:49.635Z"
+      "apartmentNameCheckedAt": "2026-11-22T01:58:42.659Z"
     },
     "B000410:20260130010904:1": {
       "itemFingerprint": "7578660a5715c7f61530",
-      "checkedAt": "2026-11-21T03:00:07.687Z",
+      "checkedAt": "2026-11-22T01:57:56.978Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148628,7 +149487,7 @@
     },
     "B000410:20260130010908:1": {
       "itemFingerprint": "1ca2157b168488e17e7d",
-      "checkedAt": "2026-11-21T03:00:08.857Z",
+      "checkedAt": "2026-11-22T01:57:58.337Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148688,7 +149547,7 @@
     },
     "B000410:20260130010909:1": {
       "itemFingerprint": "65c9a8c8f74f75f44afb",
-      "checkedAt": "2026-11-21T03:00:10.125Z",
+      "checkedAt": "2026-11-22T01:57:59.622Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148748,7 +149607,7 @@
     },
     "B000410:20260130010910:1": {
       "itemFingerprint": "eb72f829754d3f1385fc",
-      "checkedAt": "2026-11-21T03:00:11.359Z",
+      "checkedAt": "2026-11-22T01:58:00.906Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148808,7 +149667,7 @@
     },
     "B000410:20260130010937:1": {
       "itemFingerprint": "b6449418c685c95cbe0e",
-      "checkedAt": "2026-11-21T03:00:12.542Z",
+      "checkedAt": "2026-11-22T01:58:02.191Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148868,7 +149727,7 @@
     },
     "B000410:20260130010941:1": {
       "itemFingerprint": "fa83158215fc6519a7e4",
-      "checkedAt": "2026-11-21T03:00:13.719Z",
+      "checkedAt": "2026-11-22T01:58:03.559Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148928,7 +149787,7 @@
     },
     "B000410:20260130010957:1": {
       "itemFingerprint": "13a554912236f665d037",
-      "checkedAt": "2026-11-21T03:00:14.916Z",
+      "checkedAt": "2026-11-22T01:58:04.841Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -148988,7 +149847,7 @@
     },
     "B000410:20260130010959:1": {
       "itemFingerprint": "097ff4233f2e093d9ba7",
-      "checkedAt": "2026-11-21T03:00:16.086Z",
+      "checkedAt": "2026-11-22T01:58:06.124Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149048,7 +149907,7 @@
     },
     "B000412:20250130000841:1": {
       "itemFingerprint": "3452e68f94855fb85599",
-      "checkedAt": "2026-11-21T03:00:17.265Z",
+      "checkedAt": "2026-11-22T01:58:07.425Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149108,7 +149967,7 @@
     },
     "B000412:20250130000868:1": {
       "itemFingerprint": "c29742557646f60f9cd2",
-      "checkedAt": "2026-11-21T03:00:18.447Z",
+      "checkedAt": "2026-11-22T01:58:08.800Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149168,7 +150027,7 @@
     },
     "B000412:20250130000884:1": {
       "itemFingerprint": "12977a696d37f7c27a0f",
-      "checkedAt": "2026-11-21T03:00:19.789Z",
+      "checkedAt": "2026-11-22T01:58:10.095Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149228,7 +150087,7 @@
     },
     "B000412:20250130005971:1": {
       "itemFingerprint": "0308db134167d3434eb9",
-      "checkedAt": "2026-11-21T03:00:21.002Z",
+      "checkedAt": "2026-11-22T01:58:11.375Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149288,7 +150147,7 @@
     },
     "B000412:20250130006137:1": {
       "itemFingerprint": "892e094efdb082d7e6e5",
-      "checkedAt": "2026-11-21T03:00:22.174Z",
+      "checkedAt": "2026-11-22T01:58:12.677Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149348,7 +150207,7 @@
     },
     "B000412:20250130006159:1": {
       "itemFingerprint": "9b01aeb28225e81c0e4b",
-      "checkedAt": "2026-11-21T03:00:23.348Z",
+      "checkedAt": "2026-11-22T01:58:13.964Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149408,7 +150267,7 @@
     },
     "B000412:20250130006166:1": {
       "itemFingerprint": "218b5ba76f99d76ce8c2",
-      "checkedAt": "2026-11-21T03:00:24.521Z",
+      "checkedAt": "2026-11-22T01:58:15.244Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149468,7 +150327,7 @@
     },
     "B000412:20250130006171:1": {
       "itemFingerprint": "64b26fbf346513eb667f",
-      "checkedAt": "2026-11-21T03:00:26.142Z",
+      "checkedAt": "2026-11-22T01:58:16.548Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149528,7 +150387,7 @@
     },
     "B000412:20250130006224:1": {
       "itemFingerprint": "4571f9adc4cef94942b5",
-      "checkedAt": "2026-11-21T03:00:27.313Z",
+      "checkedAt": "2026-11-22T01:58:17.830Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149588,7 +150447,7 @@
     },
     "B000412:20250130006239:1": {
       "itemFingerprint": "aa33e09e4020332c5d8d",
-      "checkedAt": "2026-11-21T03:00:28.482Z",
+      "checkedAt": "2026-11-22T01:58:19.160Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149648,7 +150507,7 @@
     },
     "B000412:20250130006264:1": {
       "itemFingerprint": "8af610ea88e351cf336c",
-      "checkedAt": "2026-11-21T03:00:29.661Z",
+      "checkedAt": "2026-11-22T01:58:20.461Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149708,7 +150567,7 @@
     },
     "B000412:20250130006277:1": {
       "itemFingerprint": "4c2dcf40d05b458ac667",
-      "checkedAt": "2026-11-21T03:00:30.891Z",
+      "checkedAt": "2026-11-22T01:58:21.747Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149768,7 +150627,7 @@
     },
     "B000412:20260130005268:1": {
       "itemFingerprint": "70f5482362200ba2b09a",
-      "checkedAt": "2026-11-21T03:00:32.157Z",
+      "checkedAt": "2026-11-22T01:58:23.030Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149828,7 +150687,7 @@
     },
     "B000414:20250130102117:1": {
       "itemFingerprint": "772f1bb04b9ac27cae54",
-      "checkedAt": "2026-11-21T03:00:33.346Z",
+      "checkedAt": "2026-11-22T01:58:24.413Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149888,7 +150747,7 @@
     },
     "B000414:20250130102202:1": {
       "itemFingerprint": "9359b1f88531da3f0ec0",
-      "checkedAt": "2026-11-21T03:00:34.532Z",
+      "checkedAt": "2026-11-22T01:58:25.693Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -149948,7 +150807,7 @@
     },
     "B000414:20250130102337:3": {
       "itemFingerprint": "75e3a38b0c9d2cb07592",
-      "checkedAt": "2026-11-21T03:00:35.705Z",
+      "checkedAt": "2026-11-22T01:58:26.976Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150008,7 +150867,7 @@
     },
     "B000414:20260130100129:1": {
       "itemFingerprint": "1f8d56343ba6b75f954c",
-      "checkedAt": "2026-11-21T03:00:36.885Z",
+      "checkedAt": "2026-11-22T01:58:28.261Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150068,7 +150927,7 @@
     },
     "B000414:20260130100147:1": {
       "itemFingerprint": "519c7f1d7b220f791467",
-      "checkedAt": "2026-11-21T03:00:38.060Z",
+      "checkedAt": "2026-11-22T01:58:29.563Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150128,7 +150987,7 @@
     },
     "B000414:20260130100164:1": {
       "itemFingerprint": "07544431a3b781561311",
-      "checkedAt": "2026-11-21T03:00:39.248Z",
+      "checkedAt": "2026-11-22T01:58:30.846Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150188,7 +151047,7 @@
     },
     "B000414:20260130100164:2": {
       "itemFingerprint": "edf205e7012473e8f3bb",
-      "checkedAt": "2026-11-21T03:00:40.428Z",
+      "checkedAt": "2026-11-22T01:58:32.133Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150248,7 +151107,7 @@
     },
     "B000414:20260130100164:3": {
       "itemFingerprint": "601055ba1989e5a26530",
-      "checkedAt": "2026-11-21T03:00:41.602Z",
+      "checkedAt": "2026-11-22T01:58:33.422Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150308,7 +151167,7 @@
     },
     "B000414:20260130100164:4": {
       "itemFingerprint": "77f249fc9a2cbac573c4",
-      "checkedAt": "2026-11-21T03:00:42.777Z",
+      "checkedAt": "2026-11-22T01:58:34.778Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150368,7 +151227,7 @@
     },
     "B000414:20260130100181:1": {
       "itemFingerprint": "f71b161966e27dd1ae7e",
-      "checkedAt": "2026-11-21T03:00:43.952Z",
+      "checkedAt": "2026-11-22T01:58:36.062Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150428,7 +151287,7 @@
     },
     "B000414:20260130100196:1": {
       "itemFingerprint": "1a309fe779f09c60a460",
-      "checkedAt": "2026-11-21T03:00:45.125Z",
+      "checkedAt": "2026-11-22T01:58:37.345Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150488,7 +151347,7 @@
     },
     "B000414:20260130100212:1": {
       "itemFingerprint": "c1dd32394175f067e9dc",
-      "checkedAt": "2026-11-21T03:00:46.297Z",
+      "checkedAt": "2026-11-22T01:58:38.629Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
@@ -150548,7 +151407,7 @@
     },
     "B000414:20260130100231:1": {
       "itemFingerprint": "28e88e009b23bf680951",
-      "checkedAt": "2026-11-21T03:00:47.509Z",
+      "checkedAt": "2026-11-22T01:58:39.985Z",
       "sourceVersion": null,
       "documents": {
         "detail": {
