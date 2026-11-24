@@ -12196,5 +12196,1293 @@
     "roadAddress": "부산광역시 부산진구 동평로 192 시민공원일동미라주시티",
     "buildingName": "시민공원일동미라주시티",
     "updatedAt": "2026-11-22T01:54:41.920Z"
+  },
+  "서울특별시 강남구 삼성로 212 1동 5층512호 (대치동,은마아파트)": {
+    "status": "OK",
+    "latitude": 37.4977414,
+    "longitude": 127.0650701,
+    "roadAddress": "서울특별시 강남구 삼성로 212 은마아파트",
+    "buildingName": "은마아파트",
+    "updatedAt": "2026-11-24T05:44:25.071Z"
+  },
+  "서울특별시 중구 신당동 290-90 2층201호": {
+    "status": "OK",
+    "latitude": 37.5610633,
+    "longitude": 127.0157583,
+    "roadAddress": "서울특별시 중구 청구로4길 30 청구드림아파트",
+    "buildingName": "청구드림아파트",
+    "updatedAt": "2026-11-24T05:44:25.716Z"
+  },
+  "서울특별시 중구 순화동 151 순화동 더 샵 13층비-1301호": {
+    "status": "OK",
+    "latitude": 37.5601838,
+    "longitude": 126.9720573,
+    "roadAddress": "서울특별시 중구 칠패로 27 순화동더샵",
+    "buildingName": "순화동더샵",
+    "updatedAt": "2026-11-24T05:44:26.369Z"
+  },
+  "서울특별시 서초구 서초동 1582-3 서초센트럴아이파크 101동 17층1705호": {
+    "status": "OK",
+    "latitude": 37.4869501,
+    "longitude": 127.0116338,
+    "roadAddress": "서울특별시 서초구 반포대로18길 36 서초센트럴IPARK",
+    "buildingName": "서초센트럴IPARK",
+    "updatedAt": "2026-11-24T05:44:27.030Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 3층301호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:27.674Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 3층302호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:28.328Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 3층303호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:28.977Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 3층304호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:29.621Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 3층307호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:30.266Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 3층309호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:30.926Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 3층312호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:31.575Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 4층401호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:32.226Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 4층402호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:32.878Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 4층403호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:33.528Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 4층407호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:34.197Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 4층410호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:34.868Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 4층411호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:35.521Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 4층413호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:36.170Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층501호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:36.828Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층507호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:37.496Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층508호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:38.158Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층510호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:38.810Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층511호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:39.460Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층512호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:40.110Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층513호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:40.900Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 5층514호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:41.551Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층603호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:42.219Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층604호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:42.872Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층605호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:43.525Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층606호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:44.159Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층607호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:44.818Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층608호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:45.469Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층609호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:46.124Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 6층614호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:46.780Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층701호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:47.422Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층702호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:48.089Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층703호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:48.752Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층704호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:49.402Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층706호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:50.052Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층707호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:50.698Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층708호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:51.353Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층709호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:51.996Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층710호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:52.654Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층712호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:53.301Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층713호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:53.957Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층714호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:54.613Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 7층715호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:55.273Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층801호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:55.931Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층803호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:56.578Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층805호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:57.236Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층807호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:57.863Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층808호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:58.506Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층809호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:59.150Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층812호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:44:59.800Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층817호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:00.441Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층821호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:01.094Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층822호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:01.952Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 8층825호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:02.598Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층901호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:03.255Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층902호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:03.919Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층903호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:04.559Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층904호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:05.201Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층905호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:05.873Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층906호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:06.521Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층907호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:07.187Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층908호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:07.847Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층909호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:08.500Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층910호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:09.157Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층914호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:09.831Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층916호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:10.538Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층917호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:11.174Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층918호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:11.826Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층919호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:12.486Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층920호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:13.148Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층921호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:13.802Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층922호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:14.468Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층924호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:15.100Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 9층925호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:15.766Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1001호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:16.425Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1005호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:17.078Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1006호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:17.727Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1007호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:18.383Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1008호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:19.032Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1009호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:19.695Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1010호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:20.348Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1012호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:21.013Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1014호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:21.673Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1015호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:22.337Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1016호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:22.988Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1017호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:23.634Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1018호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:24.288Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1019호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:24.935Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1020호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:25.590Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1022호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:26.254Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1023호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:26.901Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 10층1024호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:27.560Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1101호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:28.217Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1102호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:28.844Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1103호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:29.518Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1105호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:30.173Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1106호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:30.837Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1107호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:31.534Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1108호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:32.188Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1109호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:32.854Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1111호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:33.516Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 11층1113호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:34.181Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1201호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:34.813Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1202호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:35.473Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1203호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:36.141Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1204호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:36.801Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1206호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:37.504Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1207호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:38.146Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1208호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:38.800Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1210호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:39.456Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1212호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:40.128Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 12층1214호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:40.792Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1301호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:41.446Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1303호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:42.112Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1304호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:42.767Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1305호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:43.436Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1306호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:44.095Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1308호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:44.764Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1309호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:45.412Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1313호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:46.077Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 13층1314호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:46.744Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1402호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:47.396Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1403호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:48.048Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1404호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:48.715Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1405호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:49.380Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1408호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:50.017Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1409호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:50.670Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1410호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:51.317Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1411호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:51.975Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1412호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:52.625Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1413호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:53.289Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 14층1414호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:53.947Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1501호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:54.602Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1502호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:55.268Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1504호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:55.922Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1506호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:56.553Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1507호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:57.192Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1508호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:57.851Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1509호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:58.495Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1510호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:59.171Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1513호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:45:59.837Z"
+  },
+  "서울특별시 송파구 잠실동 187-10 잠실센트럴파크 15층1514호": {
+    "status": "OK",
+    "latitude": 37.5106263,
+    "longitude": 127.0834644,
+    "roadAddress": "서울특별시 송파구 백제고분로7길 42",
+    "buildingName": null,
+    "updatedAt": "2026-11-24T05:46:00.492Z"
+  },
+  "서울특별시 강동구 길동 415-11 한솔브리즈아파트 14층1401호": {
+    "status": "OK",
+    "latitude": 37.5372228,
+    "longitude": 127.1364141,
+    "roadAddress": "서울특별시 강동구 천호대로173길 50 한솔브리즈아파트",
+    "buildingName": "한솔브리즈아파트",
+    "updatedAt": "2026-11-24T05:46:01.158Z"
+  },
+  "서울특별시 용산구 서빙고동 241-47 한강르네상스아파트 2층201호": {
+    "status": "OK",
+    "latitude": 37.5194925,
+    "longitude": 126.9926012,
+    "roadAddress": "서울특별시 용산구 서빙고로62길 27 한강르네상스아파트",
+    "buildingName": "한강르네상스아파트",
+    "updatedAt": "2026-11-24T05:46:01.822Z"
+  },
+  "서울특별시 서대문구 충정로3가 250-5 2층209호": {
+    "status": "OK",
+    "latitude": 37.5617476,
+    "longitude": 126.9642208,
+    "roadAddress": "서울특별시 서대문구 충정로 30 충정아파트",
+    "buildingName": "충정아파트",
+    "updatedAt": "2026-11-24T05:46:02.470Z"
+  },
+  "서울특별시 마포구 도화동 555 마포한화오벨리스크 아-37층3705호": {
+    "status": "OK",
+    "latitude": 37.5400495,
+    "longitude": 126.9454749,
+    "roadAddress": "서울특별시 마포구 마포대로 33 마포 한화 오벨리스크",
+    "buildingName": "마포 한화 오벨리스크",
+    "updatedAt": "2026-11-24T05:46:03.121Z"
+  },
+  "서울특별시 용산구 한강로3가 65-230 한강대우트럼프월드3 8층101-1001호": {
+    "status": "OK",
+    "latitude": 37.5231478,
+    "longitude": 126.9629629,
+    "roadAddress": "서울특별시 용산구 한강대로 26 한강대우트럼프월드3차",
+    "buildingName": "한강대우트럼프월드3차",
+    "updatedAt": "2026-11-24T05:46:03.780Z"
+  },
+  "부산광역시 동래구 사직동 1020 사직2차쌍용예가 205동 13층1304호": {
+    "status": "OK",
+    "latitude": 35.1986289,
+    "longitude": 129.0549011,
+    "roadAddress": "부산광역시 동래구 쇠미로40번길 55 사직2차 쌍용예가",
+    "buildingName": "사직2차 쌍용예가",
+    "updatedAt": "2026-11-24T05:46:04.448Z"
+  },
+  "부산광역시 해운대구 우동 1549 해운대비스타동원 101동 38층3801호": {
+    "status": "OK",
+    "latitude": 35.1659224,
+    "longitude": 129.1621892,
+    "roadAddress": "부산광역시 해운대구 해운대로 663 해운대비스타동원",
+    "buildingName": "해운대비스타동원",
+    "updatedAt": "2026-11-24T05:46:05.154Z"
+  },
+  "부산광역시 사하구 구평동 518 이편한세상사하2차 203동 3층301호": {
+    "status": "OK",
+    "latitude": 35.0816678,
+    "longitude": 128.9849881,
+    "roadAddress": "부산광역시 사하구 서포로30번길 12 e편한세상 사하2차",
+    "buildingName": "e편한세상 사하2차",
+    "updatedAt": "2026-11-24T05:46:05.798Z"
+  },
+  "부산광역시 사하구 다대동 1552-19 성원아파트 101동 18층1802호": {
+    "status": "OK",
+    "latitude": 35.048788,
+    "longitude": 128.9685489,
+    "roadAddress": "부산광역시 사하구 다대낙조1길 42 성원아파트",
+    "buildingName": "성원아파트",
+    "updatedAt": "2026-11-24T05:46:06.463Z"
+  },
+  "부산광역시 사하구 다대동 120-외 1필지 다대포현대아파트 104동 303호": {
+    "status": "OK",
+    "latitude": 35.0607671,
+    "longitude": 128.9782616,
+    "roadAddress": "부산광역시 사하구 다대로 473 다대포현대아파트",
+    "buildingName": "다대포현대아파트",
+    "updatedAt": "2026-11-24T05:46:07.105Z"
+  },
+  "부산광역시 북구 구포동 849-1 구포대우아파트 4층 413호": {
+    "status": "OK",
+    "latitude": 35.1985426,
+    "longitude": 129.0105162,
+    "roadAddress": "부산광역시 북구 모분재로105번길 43-7 구포대우아파트",
+    "buildingName": "구포대우아파트",
+    "updatedAt": "2026-11-24T05:46:07.718Z"
+  },
+  "부산광역시 강서구 지사동 1186 협성디에스엘리시안 101동 8층 803호": {
+    "status": "OK",
+    "latitude": 35.150031,
+    "longitude": 128.8383651,
+    "roadAddress": "부산광역시 강서구 과학산단로306번길 10 협성 · DS 엘리시안",
+    "buildingName": "협성 · DS 엘리시안",
+    "updatedAt": "2026-11-24T05:46:08.343Z"
+  },
+  "부산광역시 북구 화명동 2322 수정강변타운 113동 1층 101호": {
+    "status": "OK",
+    "latitude": 35.221804,
+    "longitude": 129.0070462,
+    "roadAddress": "부산광역시 북구 학사로17번길 19 중도빌딩",
+    "buildingName": "중도빌딩",
+    "updatedAt": "2026-11-24T05:46:08.956Z"
+  },
+  "부산광역시 사하구 다대동 1670 다대롯데캐슬블루 104동 1층 104호": {
+    "status": "OK",
+    "latitude": 35.065116,
+    "longitude": 128.9829991,
+    "roadAddress": "부산광역시 사하구 다송로 23 다대 롯데캐슬 블루",
+    "buildingName": "다대 롯데캐슬 블루",
+    "updatedAt": "2026-11-24T05:46:09.572Z"
+  },
+  "부산광역시 사상구 학장동 574-82 목화아파트 103동 4층 405호": {
+    "status": "OK",
+    "latitude": 35.1380993,
+    "longitude": 128.9807486,
+    "roadAddress": "부산광역시 사상구 대동로 104-6 목화아파트",
+    "buildingName": "목화아파트",
+    "updatedAt": "2026-11-24T05:46:10.191Z"
   }
 }
